@@ -1,0 +1,5976 @@
+None: 1345136949 ms listened
+BABYMETAL: 377812673 ms listened
+Mitski: 327240343 ms listened
+My Chemical Romance: 274669367 ms listened
+Hozier: 271946210 ms listened
+Muse: 248933493 ms listened
+MARINA: 241189593 ms listened
+Doja Cat: 226404322 ms listened
+Rina Sawayama: 225184981 ms listened
+Mother Mother: 216657450 ms listened
+Cage The Elephant: 192399560 ms listened
+Fall Out Boy: 190563598 ms listened
+Pierce The Veil: 185005365 ms listened
+Glass Animals: 151768493 ms listened
+Paramore: 145112830 ms listened
+BENEE: 127862079 ms listened
+Poppy: 126669639 ms listened
+GROUPLOVE: 110933225 ms listened
+BROCKHAMPTON: 102731260 ms listened
+Declan McKenna: 102337182 ms listened
+Royal Blood: 102213238 ms listened
+COIN: 101458614 ms listened
+Panic! At The Disco: 96302804 ms listened
+Jaden: 96018080 ms listened
+Mindless Self Indulgence: 96016998 ms listened
+WILLOW: 89203090 ms listened
+Red Velvet: 86585701 ms listened
+Harry Styles: 85489379 ms listened
+Destroy Boys: 83733399 ms listened
+Wallows: 78464061 ms listened
+Lemon Demon: 73903077 ms listened
+LOONA: 73322359 ms listened
+G-Eazy: 72229950 ms listened
+I DONT KNOW HOW BUT THEY FOUND ME: 71851684 ms listened
+Kendrick Lamar: 71620325 ms listened
+Cavetown: 70266149 ms listened
+MAMAMOO: 66635203 ms listened
+Still Woozy: 66284425 ms listened
+The Japanese House: 65431455 ms listened
+Saint Motel: 64273405 ms listened
+The Neighbourhood: 63171443 ms listened
+Arctic Monkeys: 63013838 ms listened
+Grimes: 61329913 ms listened
+BETWEEN FRIENDS: 60940362 ms listened
+YUKIKA: 60323671 ms listened
+Denzel Curry: 58406318 ms listened
+Weyes Blood: 58129278 ms listened
+Lana Del Rey: 58023660 ms listened
+Kero Kero Bonito: 57710623 ms listened
+Gorillaz: 55991956 ms listened
+Bring Me The Horizon: 55663380 ms listened
+Clairo: 55562427 ms listened
+Dayglow: 53933618 ms listened
+C418: 52397180 ms listened
+Beach Bunny: 51316764 ms listened
+Men I Trust: 51166138 ms listened
+Allie X: 50830037 ms listened
+Lorde: 49052429 ms listened
+Lena Raine: 47191679 ms listened
+BLACKPINK: 46860583 ms listened
+Aminé: 46777089 ms listened
+HUNNY: 46007869 ms listened
+TWICE: 44191662 ms listened
+Le Tigre: 42908430 ms listened
+Louie Zong: 42480054 ms listened
+LOOΠΔ / ODD EYE CIRCLE: 41746481 ms listened
+Nothing But Thieves: 41548651 ms listened
+THE DRIVER ERA: 41216871 ms listened
+CAKE: 40940921 ms listened
+The Orion Experience: 40894363 ms listened
+Dorian Electra: 39717284 ms listened
+Florence + The Machine: 39034348 ms listened
+Will Wood and the Tapeworms: 38858988 ms listened
+The Technicolors: 38722713 ms listened
+mxmtoon: 38581303 ms listened
+System Of A Down: 36532865 ms listened
+dodie: 35487119 ms listened
+The Strokes: 35402186 ms listened
+Portugal. The Man: 35140709 ms listened
+Bad Suns: 34927501 ms listened
+Travis Scott: 34215686 ms listened
+Beach House: 33689938 ms listened
+Dreamcatcher: 33608705 ms listened
+Tally Hall: 33545790 ms listened
+Neon Trees: 33242792 ms listened
+The Brobecks: 32832752 ms listened
+Lady Gaga: 32131788 ms listened
+Mac DeMarco: 31981892 ms listened
+SZA: 31824544 ms listened
+cupcakKe: 31692920 ms listened
+Hayley Kiyoko: 31409211 ms listened
+BØRNS: 31304590 ms listened
+The Regrettes: 31276721 ms listened
+cleopatrick: 30927878 ms listened
+GRLwood: 30610865 ms listened
+Metric: 29983558 ms listened
+Kali Uchis: 29654601 ms listened
+Gerard Way: 29611949 ms listened
+TV Girl: 29430669 ms listened
+Gus Dapperton: 29364209 ms listened
+Zella Day: 29350845 ms listened
+half•alive: 28573464 ms listened
+Conan Gray: 28280180 ms listened
+Freddie Dredd: 28077882 ms listened
+Hippo Campus: 28055352 ms listened
+fromis_9: 27928969 ms listened
+girli: 27532989 ms listened
+Ashnikko: 27468566 ms listened
+Maroon 5: 27254712 ms listened
+The Weeknd: 27068825 ms listened
+The Black Keys: 26593811 ms listened
+Car Seat Headrest: 26479631 ms listened
+Dance Gavin Dance: 26387568 ms listened
+Caroline Polachek: 26369108 ms listened
+Tyler, The Creator: 26321462 ms listened
+grandson: 26070968 ms listened
+Foster The People: 25645155 ms listened
+King Gizzard & The Lizard Wizard: 25345077 ms listened
+Get Scared: 24919071 ms listened
+Japanese Breakfast: 24645716 ms listened
+Tame Impala: 24588517 ms listened
+Frank Carter & The Rattlesnakes: 24290484 ms listened
+Death From Above 1979: 24123486 ms listened
+Kodak Black: 24000291 ms listened
+Nirvana: 23376213 ms listened
+Airways: 23209018 ms listened
+Oliver Tree: 22975589 ms listened
+Sohodolls: 22672921 ms listened
+RichaadEB: 22646813 ms listened
+Franz Ferdinand: 22429290 ms listened
+Soccer Mommy: 22331130 ms listened
+Billie Eilish: 22136702 ms listened
+bôa: 22019164 ms listened
+Dreamer Isioma: 21989427 ms listened
+The Fratellis: 21175550 ms listened
+Post Malone: 21067000 ms listened
+The White Stripes: 20952954 ms listened
+Fleetwood Mac: 20925777 ms listened
+lovelytheband: 20702768 ms listened
+Kailee Morgue: 20692134 ms listened
+MGMT: 20653740 ms listened
+maye: 20387130 ms listened
+Des Rocs: 20252186 ms listened
+Parrotfish: 20204492 ms listened
+Peach Pit: 20066291 ms listened
+Magdalena Bay: 20024985 ms listened
+alt-J: 19624742 ms listened
+XXXTENTACION: 19501416 ms listened
+Foo Fighters: 19488576 ms listened
+Lizzo: 19467194 ms listened
+Jazmin Bean: 19396695 ms listened
+MISSIO: 19348988 ms listened
+Queen: 19272397 ms listened
+AURORA: 19204386 ms listened
+Queens of the Stone Age: 19152435 ms listened
+Young the Giant: 19129883 ms listened
+Rex Orange County: 19084943 ms listened
+Twenty One Pilots: 18942430 ms listened
+Remi Wolf: 18857176 ms listened
+The Killers: 18841697 ms listened
+The Crane Wives: 18822644 ms listened
+MOMOLAND: 18353835 ms listened
+Tessa Violet: 18339157 ms listened
+Fitz and The Tantrums: 18255166 ms listened
+King Princess: 18069989 ms listened
+girl in red: 18051731 ms listened
+Alec Benjamin: 17898571 ms listened
+Hayley Williams: 17880745 ms listened
+Nova Twins: 17875380 ms listened
+REI AMI: 17760904 ms listened
+WJSN: 17580075 ms listened
+A$AP Rocky: 17559635 ms listened
+Slayyyter: 17464478 ms listened
+Childish Gambino: 17421814 ms listened
+GHOST DATA: 17389714 ms listened
+Weathers: 17305026 ms listened
+Joji: 17217706 ms listened
+Orange Caramel: 17086257 ms listened
+Carly Rae Jepsen: 17000377 ms listened
+The Garden: 16982753 ms listened
+Palaye Royale: 16826977 ms listened
+Anarbor: 16773222 ms listened
+Verzache: 16744007 ms listened
+All Time Low: 16633500 ms listened
+JAWNY: 16589242 ms listened
+Black Eyed Peas: 16314027 ms listened
+Frances Forever: 16185397 ms listened
+Studio Killers: 16004618 ms listened
+Logic: 15930343 ms listened
+Melanie Martinez: 15900689 ms listened
+Waterparks: 15771412 ms listened
+Reol: 15729510 ms listened
+Kikuo: 15694954 ms listened
+Megan Thee Stallion: 15580180 ms listened
+Dazey and the Scouts: 15543448 ms listened
+BTS: 15389118 ms listened
+The Raconteurs: 15314619 ms listened
+Sir Chloe: 15300637 ms listened
+ABBA: 15275003 ms listened
+SUNMI: 15136625 ms listened
+Outkast: 14987198 ms listened
+Tkay Maidza: 14878420 ms listened
+Tove Lo: 14849511 ms listened
+Miniature Tigers: 14830016 ms listened
+Her's: 14743171 ms listened
+Deftones: 14584880 ms listened
+Cherry Glazerr: 14552260 ms listened
+Bea Miller: 14364299 ms listened
+Antonio Vivaldi: 14331451 ms listened
+Crystal Castles: 14211152 ms listened
+Vance Joy: 14185517 ms listened
+Halsey: 14133849 ms listened
+Penelope Scott: 14109157 ms listened
+Purity Ring: 13891525 ms listened
+The Growlers: 13855933 ms listened
+Yeah Yeah Yeahs: 13780675 ms listened
+Shinsei Kamattechan: 13691552 ms listened
+Sia: 13690806 ms listened
+M.I.A.: 13587426 ms listened
+The Chainsmokers: 13499019 ms listened
+Kilo Kish: 13492256 ms listened
+The Last Shadow Puppets: 13468825 ms listened
+Mumford & Sons: 13466110 ms listened
+The 1975: 13370095 ms listened
+Big Bad Voodoo Daddy: 13345652 ms listened
+APRIL: 13324655 ms listened
+The Backseat Lovers: 13295774 ms listened
+YONAKA: 13281562 ms listened
+Crumb: 13208182 ms listened
+Weki Meki: 13167043 ms listened
+STRFKR: 13161980 ms listened
+Charli XCX: 13011594 ms listened
+Cults: 13001644 ms listened
+Avril Lavigne: 12825994 ms listened
+The Living Tombstone: 12733259 ms listened
+The B-52's: 12732596 ms listened
+Over the Garden Wall: 12677418 ms listened
+Strawberry Guy: 12637030 ms listened
+t.A.T.u.: 12617465 ms listened
+Orla Gartland: 12617138 ms listened
+Ginger Root: 12527967 ms listened
+WALK THE MOON: 12494332 ms listened
+The Wombats: 12437309 ms listened
+Miracle Musical: 12420728 ms listened
+Frank Ocean: 12313207 ms listened
+Alice Phoebe Lou: 12299987 ms listened
+Yousei Teikoku: 12134235 ms listened
+Ariana Grande: 12127679 ms listened
+Two Door Cinema Club: 11957298 ms listened
+Future: 11933294 ms listened
+Rob $tone: 11930816 ms listened
+KIDS SEE GHOSTS: 11812522 ms listened
+5 Seconds of Summer: 11792281 ms listened
+Bebe Rexha: 11780303 ms listened
+The Greeting Committee: 11700909 ms listened
+Jukebox The Ghost: 11680085 ms listened
+Zara Larsson: 11624947 ms listened
+Sweet Trip: 11533142 ms listened
+Saweetie: 11512929 ms listened
+BAND-MAID: 11488395 ms listened
+Autoheart: 11473204 ms listened
+City Girls: 11362895 ms listened
+Hey Violet: 11317216 ms listened
+Anamanaguchi: 11281508 ms listened
+Azealia Banks: 11269962 ms listened
+Britney Spears: 11202743 ms listened
+beabadoobee: 11174243 ms listened
+THE ORAL CIGARETTES: 11127260 ms listened
+Vansire: 10945975 ms listened
+STAYC: 10871969 ms listened
+The Aces: 10869579 ms listened
+Ricky Montgomery: 10857733 ms listened
+Absofacto: 10856798 ms listened
+Sky Ferreira: 10847507 ms listened
+Arcade Player: 10792869 ms listened
+ATARASHII GAKKO!: 10757724 ms listened
+SALES: 10722794 ms listened
+BIBI: 10593795 ms listened
+WagakkiBand: 10549255 ms listened
+Teddy Hyde: 10521157 ms listened
+Milky Chance: 10466248 ms listened
+Green Day: 10394149 ms listened
+BROODS: 10344064 ms listened
+Neutral Milk Hotel: 10334643 ms listened
+IU: 10327752 ms listened
+Icon For Hire: 10304499 ms listened
+FAVORITE: 10186747 ms listened
+Jon Bellion: 10177407 ms listened
+Hole: 10165777 ms listened
+Lil Skies: 10160988 ms listened
+Kid Bloom: 10154574 ms listened
+Lauv: 10135673 ms listened
+Ladytron: 9939363 ms listened
+DREAMERS: 9929154 ms listened
+Passion Pit: 9896154 ms listened
+Plain White T's: 9894351 ms listened
+PinkPantheress: 9893060 ms listened
+Taylor Swift: 9871237 ms listened
+AJR: 9867256 ms listened
+The Wrecks: 9834460 ms listened
+Phoebe Bridgers: 9794224 ms listened
+CRUISR: 9790551 ms listened
+Lennon Stella: 9785117 ms listened
+Dominic Fike: 9781008 ms listened
+Current Joys: 9697085 ms listened
+chloe moriondo: 9642739 ms listened
+Rihanna: 9624268 ms listened
+Tenacious D: 9594400 ms listened
+Frédéric Chopin: 9593532 ms listened
+The All-American Rejects: 9555523 ms listened
+Will Wood: 9549918 ms listened
+Alexandra Savior: 9520666 ms listened
+Darren Ang: 9520189 ms listened
+Elliot Lee: 9486660 ms listened
+Sleeping With Sirens: 9457176 ms listened
+Lamp: 9399441 ms listened
+Shawn Wasabi: 9371661 ms listened
+blackbear: 9367645 ms listened
+Yugo Kanno: 9342212 ms listened
+The Script: 9320259 ms listened
+Chloe x Halle: 9283189 ms listened
+Migos: 9264901 ms listened
+Jamie T: 9253872 ms listened
+Duckwrth: 9196910 ms listened
+Taeko Onuki: 9150087 ms listened
+Disturbed: 9149713 ms listened
+Two Feet: 9137140 ms listened
+Hoody: 9104844 ms listened
+NF: 9085182 ms listened
+The Voidz: 9001496 ms listened
+Linkin Park: 8989723 ms listened
+McCafferty: 8964916 ms listened
+Ludo: 8881583 ms listened
+Olly Murs: 8878613 ms listened
+Beach Weather: 8837091 ms listened
+K/DA: 8822758 ms listened
+The Offspring: 8816821 ms listened
+yeule: 8773864 ms listened
+Gnarls Barkley: 8740246 ms listened
+Flipp Dinero: 8714595 ms listened
+Pretty Vicious: 8709873 ms listened
+Djo: 8653144 ms listened
+Kesha: 8644983 ms listened
+The Frights: 8611630 ms listened
+Ellie Goulding: 8580202 ms listened
+Naughty Boy: 8572987 ms listened
+DreamNote: 8533986 ms listened
+Reignwolf: 8533503 ms listened
+Lucy Dacus: 8493611 ms listened
+Thirty Seconds To Mars: 8483184 ms listened
+The Fray: 8481246 ms listened
+A Boogie Wit da Hoodie: 8473221 ms listened
+Your Neighbors: 8455135 ms listened
+Jack Stauber: 8439201 ms listened
+Inhaler: 8437102 ms listened
+Juice WRLD: 8418480 ms listened
+Bedroom: 8413033 ms listened
+boy pablo: 8389702 ms listened
+OneRepublic: 8326558 ms listened
+YOASOBI: 8325575 ms listened
+稲葉曇: 8261576 ms listened
+Anderson .Paak: 8253193 ms listened
+Falling In Reverse: 8242747 ms listened
+Anime Kei: 8195951 ms listened
+Cocteau Twins: 8179965 ms listened
+Surf Curse: 8157987 ms listened
+Chase Atlantic: 8137724 ms listened
+Svvn: 8130540 ms listened
+Rainbow Kitten Surprise: 8115905 ms listened
+Why Don't We: 8112703 ms listened
+potsu: 8064507 ms listened
+LOONA/yyxy: 8054245 ms listened
+Tia: 8013095 ms listened
+316: 7971933 ms listened
+Set It Off: 7962413 ms listened
+fun.: 7959939 ms listened
+Coldplay: 7933991 ms listened
+SWMRS: 7834519 ms listened
+WARGASM (UK): 7829943 ms listened
+Kim Petras: 7804060 ms listened
+EURINGER: 7800201 ms listened
+EVERGLOW: 7731864 ms listened
+Savannah: 7713301 ms listened
+Jun Togawa: 7706351 ms listened
+CHEEZE: 7699858 ms listened
+EXID: 7678695 ms listened
+Coco & Clair Clair: 7674703 ms listened
+Lolo Zouaï: 7633699 ms listened
+LE SSERAFIM: 7628371 ms listened
+Claude Debussy: 7532496 ms listened
+Gwen Stefani: 7529273 ms listened
+鈴木愛理: 7497487 ms listened
+Coyote Theory: 7463656 ms listened
+Bear Ghost: 7430484 ms listened
+Kanye West: 7418558 ms listened
+Hot Freaks: 7346062 ms listened
+Kesh Kesh: 7330051 ms listened
+The Drums: 7328190 ms listened
+again&again: 7321023 ms listened
+Kyary Pamyu Pamyu: 7309851 ms listened
+Daniel Caesar: 7286398 ms listened
+Alex G: 7215890 ms listened
+The Happy Fits: 7118253 ms listened
+Wolfmother: 7104825 ms listened
+Yves Tumor: 7049627 ms listened
+Miki Matsubara: 7043136 ms listened
+The Pretty Reckless: 7015874 ms listened
+PIXY: 6950084 ms listened
+Flyleaf: 6937706 ms listened
+Khalid: 6890018 ms listened
+Madison Beer: 6829415 ms listened
+Broadcast: 6826738 ms listened
+Kid Cudi: 6813477 ms listened
+Blue Öyster Cult: 6791500 ms listened
+Bryce Vine: 6785059 ms listened
+Vista Kicks: 6780929 ms listened
+Steve Lacy: 6749063 ms listened
+Frank Iero: 6746568 ms listened
+IZ*ONE: 6742132 ms listened
+YUNGBLUD: 6718003 ms listened
+Red Hot Chili Peppers: 6702259 ms listened
+CLC: 6672403 ms listened
+IDK: 6645328 ms listened
+WJSN Chocome: 6639923 ms listened
+ppcocaine: 6616132 ms listened
+Block B: 6554563 ms listened
+100 gecs: 6542971 ms listened
+Russ: 6528343 ms listened
+Tiny Meat Gang: 6523558 ms listened
+Toby Fox: 6516471 ms listened
+Sleeping At Last: 6503008 ms listened
+Kaoru Akimoto: 6497643 ms listened
+Quinn XCII: 6471787 ms listened
+HEIZE: 6410465 ms listened
+Elle King: 6403779 ms listened
+flipturn: 6384097 ms listened
+The Rah Band: 6362993 ms listened
+Vincent Diamante: 6362952 ms listened
+Ayasa: 6359621 ms listened
+Lil Peep: 6352844 ms listened
+St. Vincent: 6351589 ms listened
+A-Wall: 6326991 ms listened
+Lil Uzi Vert: 6306655 ms listened
+Peach Tree Rascals: 6300286 ms listened
+SOPHIE: 6296610 ms listened
+Duck Sauce: 6282076 ms listened
+MICHELLE: 6269841 ms listened
+Rico Nasty: 6265438 ms listened
+The Struts: 6259448 ms listened
+Kinneret: 6237664 ms listened
+Ava Max: 6214390 ms listened
+CHUNG HA: 6172727 ms listened
+Måneskin: 6161225 ms listened
+binki: 6149130 ms listened
+The Goo Goo Dolls: 6134764 ms listened
+Maretu: 6104032 ms listened
+Ryan Beatty: 6100212 ms listened
+Motionless In White: 6096267 ms listened
+The Smashing Pumpkins: 6072696 ms listened
+Barns Courtney: 6063064 ms listened
+Alice Glass: 6059557 ms listened
+Lincoln: 6055401 ms listened
+Wonder Girls: 6051066 ms listened
+Lykke Li: 6029798 ms listened
+MØ: 6005234 ms listened
+Jack Stauber's Micropop: 5992407 ms listened
+Gotye: 5986245 ms listened
+Vampire Weekend: 5968805 ms listened
+Bruno Mars: 5961580 ms listened
+EXO: 5939877 ms listened
+Whee In: 5912583 ms listened
+Train: 5897360 ms listened
+Lil Nas X: 5886309 ms listened
+Brick + Mortar: 5875635 ms listened
+Anri: 5854772 ms listened
+Hello Sleepwalkers: 5827512 ms listened
+SE SO NEON: 5820169 ms listened
+Tennis: 5787108 ms listened
+Caravan Palace: 5784081 ms listened
+Pomplamoose: 5784078 ms listened
+KYLE: 5761677 ms listened
+Freddie Mercury: 5729609 ms listened
+MIYAVI: 5720886 ms listened
+Tarik: 5707726 ms listened
+88rising: 5703595 ms listened
+Wild Party: 5693078 ms listened
+Hannah Diamond: 5673399 ms listened
+王舜禾: 5667458 ms listened
+Hot Flash Heat Wave: 5620907 ms listened
+Yoko Takahashi: 5609865 ms listened
+Radiohead: 5606110 ms listened
+Aly & AJ: 5582722 ms listened
+Badflower: 5577179 ms listened
+julie: 5572556 ms listened
+Bazzi: 5570238 ms listened
+Highly Suspect: 5547821 ms listened
+Call Me Karizma: 5509955 ms listened
+VANISHING GIRL: 5493470 ms listened
+IVE: 5465107 ms listened
+K.Flay: 5446309 ms listened
+iyla: 5422117 ms listened
+Matt Maeson: 5410028 ms listened
+ALI: 5406727 ms listened
+MARMELLO: 5405908 ms listened
+MYTH & ROID: 5392394 ms listened
+HOLYCHILD: 5359069 ms listened
+Bleachers: 5357890 ms listened
+Vundabar: 5350239 ms listened
+Harmless: 5341703 ms listened
+Scissor Sisters: 5331679 ms listened
+THE ANXIETY: 5317365 ms listened
+(G)I-DLE: 5299303 ms listened
+TOTO: 5288101 ms listened
+Pixies: 5280757 ms listened
+Kevin Abstract: 5239785 ms listened
+Angel Olsen: 5232364 ms listened
+Kate Bush: 5231076 ms listened
+Far East Movement: 5224643 ms listened
+DAVIS: 5206891 ms listened
+Ken Ashcorp: 5155456 ms listened
+GASHI: 5144998 ms listened
+Katy Perry: 5128629 ms listened
+Sisyfuss: 5127472 ms listened
+Sir Babygirl: 5118933 ms listened
+Troye Sivan: 5090790 ms listened
+TwoSet Violin: 5081825 ms listened
+Slipknot: 5054207 ms listened
+Indigo De Souza: 5053284 ms listened
+Pavement: 5049963 ms listened
+Tommy Genesis: 5030321 ms listened
+The Marías: 5022527 ms listened
+Fit For Rivals: 5017376 ms listened
+Grady: 4994967 ms listened
+Alinea: 4989839 ms listened
+Pale Waves: 4967085 ms listened
+Roar: 4966302 ms listened
+Briston Maroney: 4957696 ms listened
+SEUNGRI: 4936095 ms listened
+Limbo: 4922623 ms listened
+Cascada: 4914924 ms listened
+Bowling For Soup: 4910257 ms listened
+Emile Pandolfi: 4884381 ms listened
+Ghost Town: 4859695 ms listened
+Echosmith: 4858921 ms listened
+FIDLAR: 4849998 ms listened
+Eoxinum: 4848668 ms listened
+SHAUN: 4821971 ms listened
+Alvvays: 4817995 ms listened
+Moe Shop: 4801832 ms listened
+mmmonika: 4781197 ms listened
+Yung Gravy: 4759741 ms listened
+Korn: 4745905 ms listened
+Ra Ra Riot: 4741981 ms listened
+(K)NoW_NAME: 4736924 ms listened
+MUNA: 4703484 ms listened
+Karen Aoki: 4689092 ms listened
+Derivakat: 4685287 ms listened
+LAUNDRY DAY: 4647128 ms listened
+Jet: 4641152 ms listened
+Qveen Herby: 4640557 ms listened
+Shura: 4633949 ms listened
+Alex Turner: 4624647 ms listened
+MKTO: 4600881 ms listened
+Rare Americans: 4591480 ms listened
+bülow: 4584605 ms listened
+Arlie: 4579175 ms listened
+Hinds: 4566885 ms listened
+Toshifumi Hinata: 4548545 ms listened
+Weezer: 4532296 ms listened
+In Love With a Ghost: 4530495 ms listened
+Rosemary Fairweather: 4498830 ms listened
+Polyphia: 4489068 ms listened
+Ethan Bortnick: 4488018 ms listened
+GWSN: 4468488 ms listened
+PRETTYMUCH: 4451477 ms listened
+The Runaways: 4424749 ms listened
+NewJeans: 4418284 ms listened
+Sylvan Esso: 4418256 ms listened
+Faye Webster: 4385163 ms listened
+Omar Apollo: 4380534 ms listened
+Cuco: 4379219 ms listened
+Isaac Dunbar: 4376431 ms listened
+The Honeysticks: 4366327 ms listened
+Local Natives: 4361862 ms listened
+No Vacation: 4350252 ms listened
+Del Water Gap: 4349179 ms listened
+Molchat Doma: 4344364 ms listened
+Fujii Kaze: 4339858 ms listened
+LADYBABY: 4310290 ms listened
+Eyedress: 4308841 ms listened
+Early Eyes: 4306727 ms listened
+bo en: 4306284 ms listened
+KONGOS: 4292849 ms listened
+P!nk: 4289349 ms listened
+Estelle: 4274341 ms listened
+Stuck in the Sound: 4263632 ms listened
+VIC MENSA: 4237860 ms listened
+IRONTOM: 4220520 ms listened
+Calvin Harris: 4201192 ms listened
+Fish in a Birdcage: 4165007 ms listened
+Miley Cyrus: 4155572 ms listened
+Superfruit: 4141493 ms listened
+Junko Ohashi: 4141184 ms listened
+Jay Rock: 4125775 ms listened
+Dreamville: 4121603 ms listened
+AFI: 4094144 ms listened
+gianni & kyle: 4091508 ms listened
+Dexys Midnight Runners: 4085196 ms listened
+Goose house: 4065759 ms listened
+Camila Cabello: 4044643 ms listened
+Cosmo Sheldrake: 4042099 ms listened
+HWASA: 4040475 ms listened
+Tonight Alive: 4011150 ms listened
+The Scary Jokes: 4003144 ms listened
+Roy Blair: 4002893 ms listened
+Phantogram: 3963954 ms listened
+White Lies: 3949276 ms listened
+They Might Be Giants: 3944090 ms listened
+Beyoncé: 3920916 ms listened
+Ayesha Erotica: 3900444 ms listened
+Dreamstatician: 3861314 ms listened
+Chipmusic Heroes: 3852363 ms listened
+TAEMIN: 3841955 ms listened
+The Used: 3831145 ms listened
+tricot: 3821466 ms listened
+That Poppy: 3818082 ms listened
+Pinkfreq: 3755372 ms listened
+Jesse®: 3754317 ms listened
+Caroline Rose: 3742819 ms listened
+XYLØ: 3741568 ms listened
+FINNEAS: 3733660 ms listened
+Zheani: 3732299 ms listened
+bbno$: 3728214 ms listened
+Demi Lovato: 3719501 ms listened
+Royal & the Serpent: 3715711 ms listened
+MOTHICA: 3714241 ms listened
+Leikeli47: 3712600 ms listened
+Cordae: 3709488 ms listened
+HUH YUNJIN: 3695618 ms listened
+Unknown Mortal Orchestra: 3666689 ms listened
+Joy Again: 3663677 ms listened
+UPSAHL: 3647112 ms listened
+Dead Poet Society: 3646527 ms listened
+Mild High Club: 3639492 ms listened
+Ladyhawke: 3633524 ms listened
+Garbage: 3604938 ms listened
+Snow Patrol: 3582681 ms listened
+Nasty Cherry: 3579945 ms listened
+Kenshi Yonezu: 3559257 ms listened
+Stevie Wonder: 3559067 ms listened
+LEE SUHYUN: 3558541 ms listened
+Shygirl: 3544703 ms listened
+Captainsparklez: 3541608 ms listened
+Matt Maltese: 3537110 ms listened
+Imagine Dragons: 3507955 ms listened
+FLEECE: 3498878 ms listened
+9mm Parabellum Bullet: 3471302 ms listened
+With Confidence: 3462029 ms listened
+IC3PEAK: 3452577 ms listened
+Taku Iwasaki: 3443157 ms listened
+Machine Girl: 3437989 ms listened
+awfultune: 3433638 ms listened
+DON BROCO: 3430258 ms listened
+Justin Timberlake: 3393641 ms listened
+Rebecca Black: 3391484 ms listened
+Monsieur Periné: 3390110 ms listened
+Mom: 3371270 ms listened
+Smallpools: 3353102 ms listened
+Black Sabbath: 3352626 ms listened
+Huron John: 3352530 ms listened
+ROLE MODEL: 3352012 ms listened
+Olivia Rodrigo: 3343089 ms listened
+Coast Modern: 3328661 ms listened
+Inner Wave: 3306704 ms listened
+Alfie Templeman: 3294789 ms listened
+Red Velvet - IRENE & SEULGI: 3291728 ms listened
+Ravyn Lenae: 3284282 ms listened
+THE DU: 3281312 ms listened
+Trio Del Norte: 3269645 ms listened
+Sidney Gish: 3268698 ms listened
+Wolfgang Amadeus Mozart: 3266864 ms listened
+KIRINJI: 3261139 ms listened
+ASTER: 3256440 ms listened
+Jade Bird: 3239084 ms listened
+tobi lou: 3234722 ms listened
+Erik Satie: 3229923 ms listened
+Snail Mail: 3221427 ms listened
+Sir, Please: 3219673 ms listened
+Y2K: 3214359 ms listened
+Michael Sembello: 3196470 ms listened
+The Haunt: 3194784 ms listened
+MAXIMUM THE HORMONE: 3188270 ms listened
+of Montreal: 3180891 ms listened
+High Sunn: 3180317 ms listened
+The Wanted: 3176596 ms listened
+Kensuke Ushio: 3176443 ms listened
+HIMALAYAS: 3175079 ms listened
+Ricky Martin: 3173430 ms listened
+Daft Punk: 3159683 ms listened
+Macross 82-99: 3156853 ms listened
+David Bowie: 3154613 ms listened
+Ruel: 3154234 ms listened
+Bambee: 3153209 ms listened
+Fergie: 3152229 ms listened
+ALICE: 3149410 ms listened
+GFRIEND: 3147352 ms listened
+Aaron Smith: 3139223 ms listened
+Billlie: 3137343 ms listened
+Adventure Time: 3129873 ms listened
+CRX: 3123439 ms listened
+The Front Bottoms: 3107347 ms listened
+JO YURI: 3106117 ms listened
+DragonForce: 3096679 ms listened
+Samuel Kim: 3094138 ms listened
+That Handsome Devil: 3086905 ms listened
+Pink Noise Orchestra: 3084277 ms listened
+FKA twigs: 3064520 ms listened
+Sam Fender: 3056804 ms listened
+Joywave: 3054798 ms listened
+Elita: 3054647 ms listened
+The Cab: 3054640 ms listened
+The Hives: 3050903 ms listened
+HARBOUR: 3042948 ms listened
+Laura Les: 3022631 ms listened
+benny blanco: 3017462 ms listened
+the pillows: 3017403 ms listened
+HyunA: 3016097 ms listened
+Melody's Echo Chamber: 3008920 ms listened
+Steam Powered Giraffe: 3005482 ms listened
+Kasabian: 3004931 ms listened
+gugudan: 3002503 ms listened
+hemlocke springs: 3002161 ms listened
+Daoko: 2991733 ms listened
+Christopher Larkin: 2989602 ms listened
+DIR EN GREY: 2989138 ms listened
+Modern Baseball: 2981715 ms listened
+Stephen: 2976168 ms listened
+Raveena: 2970444 ms listened
+Macabre Plaza: 2966754 ms listened
+B.o.B: 2960563 ms listened
+the GazettE: 2948466 ms listened
+Goth Babe: 2926843 ms listened
+OH MY GIRL: 2917149 ms listened
+H.U.B: 2910245 ms listened
+Janelle Monáe: 2903671 ms listened
+Planet 1999: 2897050 ms listened
+AJJ: 2887836 ms listened
+CMC 3: 2858839 ms listened
+Iglu & Hartly: 2852152 ms listened
+Mystery Skulls: 2834168 ms listened
+Deaton Chris Anthony: 2831266 ms listened
+NMIXX: 2829510 ms listened
+Blur: 2828495 ms listened
+A Band Called Horse: 2828008 ms listened
+FIFTY FIFTY: 2827264 ms listened
+CeeLo Green: 2824501 ms listened
+Jimi Hendrix: 2817672 ms listened
+POLKADOT STINGRAY: 2815591 ms listened
+Jimmy Eat World: 2798939 ms listened
+Rich Brian: 2798281 ms listened
+Litany: 2794805 ms listened
+Mattstagraham: 2789454 ms listened
+The Mowgli's: 2788735 ms listened
+Culture Club: 2781746 ms listened
+Labrinth: 2778885 ms listened
+Perfume: 2775755 ms listened
+Mabon Clarke Quartet: 2766884 ms listened
+The Rolling Stones: 2765815 ms listened
+Escape the Fate: 2764423 ms listened
+The Band Royale: 2753108 ms listened
+Billy Joel: 2743186 ms listened
+Saba: 2739417 ms listened
+Johann Sebastian Bach: 2731825 ms listened
+Claire Rosinkranz: 2731481 ms listened
+Zedd: 2726800 ms listened
+Demob Happy: 2724635 ms listened
+Mac Miller: 2701692 ms listened
+Candy Claws: 2681541 ms listened
+The Vaccines: 2679159 ms listened
+Black Veil Brides: 2678239 ms listened
+You Me At Six: 2675389 ms listened
+Nine Inch Nails: 2672895 ms listened
+Mounika.: 2672277 ms listened
+MyKey: 2672057 ms listened
+Ghost and Pals: 2671425 ms listened
+Kitten: 2664686 ms listened
+Rio Romeo: 2658121 ms listened
+Ally Hills: 2653782 ms listened
+DPR IAN: 2653269 ms listened
+Darren Korb: 2647865 ms listened
+Sheck Wes: 2647603 ms listened
+James Jackson Jazz Trio: 2630991 ms listened
+The Kooks: 2629179 ms listened
+Aerosmith: 2629024 ms listened
+Phoenix: 2625492 ms listened
+The Lumineers: 2623175 ms listened
+Qumu: 2621395 ms listened
+Jean Deaux: 2615474 ms listened
+KALEO: 2604808 ms listened
+Luna Li: 2599659 ms listened
+Curtis Waters: 2594810 ms listened
+Cowgirl Clue: 2592266 ms listened
+Blood Orange: 2579479 ms listened
+Haley Heynderickx: 2562447 ms listened
+Flo Milli: 2558482 ms listened
+iKON: 2557611 ms listened
+Catfish and the Bottlemen: 2555901 ms listened
+New Atlas: 2546171 ms listened
+CASIOPEA: 2545261 ms listened
+NIKI: 2543882 ms listened
+ELIO: 2542781 ms listened
+Tinashe: 2537189 ms listened
+The Shins: 2534784 ms listened
+AUDREY NUNA: 2531571 ms listened
+Lunar Vacation: 2528702 ms listened
+Nelly: 2526499 ms listened
+DECO*27: 2523482 ms listened
+Linked Horizon: 2520381 ms listened
+George Michael: 2507363 ms listened
+Joe Hisaishi: 2501382 ms listened
+Adele: 2501078 ms listened
+HYO: 2484073 ms listened
+Greer: 2479990 ms listened
+Ace of Hearts: 2477860 ms listened
+Wilbur Soot: 2468372 ms listened
+woo!ah!: 2464283 ms listened
+Yung Bae: 2461030 ms listened
+William Walton: 2453540 ms listened
+Gene Hart Trio: 2452985 ms listened
+Astoria Three: 2447997 ms listened
+We Three Trio: 2433275 ms listened
+Mandevilla: 2425046 ms listened
+Moon Byul: 2421318 ms listened
+GD X TAEYANG: 2419284 ms listened
+Sorority Noise: 2406966 ms listened
+Sabrina Carpenter: 2400731 ms listened
+Daniel Koestner: 2393538 ms listened
+Jack & Jack: 2393346 ms listened
+Drake: 2391213 ms listened
+MAX: 2380358 ms listened
+JENNIE: 2377499 ms listened
+Iyaz: 2373199 ms listened
+WINNER: 2371383 ms listened
+Lexie Liu: 2364352 ms listened
+Billie Marten: 2361201 ms listened
+Jhariah: 2352531 ms listened
+Caesars: 2347992 ms listened
+Al Fowler Trio: 2347398 ms listened
+Lovejoy: 2340309 ms listened
+Black Honey: 2340111 ms listened
+Selena Gomez: 2326102 ms listened
+David Hazeltine: 2323255 ms listened
+IRONBUNNY: 2317967 ms listened
+Gallant: 2317908 ms listened
+Snail's House: 2313037 ms listened
+Cheat Codes: 2310564 ms listened
+Cobra Starship: 2305739 ms listened
+Injury Reserve: 2298809 ms listened
+The Hoosiers: 2297673 ms listened
+The Maine: 2297071 ms listened
+FLETCHER: 2296951 ms listened
+LIZ: 2296151 ms listened
+The Oozes: 2291815 ms listened
+Yumi Zouma: 2276054 ms listened
+Ashe: 2272482 ms listened
+Cemetery Sun: 2267953 ms listened
+Bishop Briggs: 2266016 ms listened
+Ghost: 2263127 ms listened
+Alaskan Tapes: 2259094 ms listened
+Hammock: 2258605 ms listened
+The Polar Boys: 2255097 ms listened
+The Parlor Mob: 2251457 ms listened
+Mk.gee: 2248888 ms listened
+Ludwig van Beethoven: 2247923 ms listened
+Lil Milk: 2244833 ms listened
+Thundercat: 2238257 ms listened
+Bikini Kill: 2233233 ms listened
+Circa Waves: 2231524 ms listened
+Fousheé: 2218592 ms listened
+Ralph Castelli: 2217364 ms listened
+The Jungle Giants: 2216221 ms listened
+The Gentle Men: 2208520 ms listened
+American Authors: 2207555 ms listened
+Ibaraki: 2201667 ms listened
+Adam Jensen: 2199944 ms listened
+Psychedelic Porn Crumpets: 2197494 ms listened
+PENTAGON: 2194019 ms listened
+Summer Salt: 2188150 ms listened
+Sarah Kinsley: 2187931 ms listened
+Gryffin: 2185576 ms listened
+The Vamps: 2184013 ms listened
+Suki Waterhouse: 2180903 ms listened
+Powfu: 2173536 ms listened
+PURPLE KISS: 2169625 ms listened
+Peachy!: 2166253 ms listened
+Flatbush Zombies: 2161956 ms listened
+Ameer Vann: 2160378 ms listened
+A Touch Of Class: 2156978 ms listened
+LiSA: 2152413 ms listened
+mike.: 2152281 ms listened
+Twin Wild: 2148759 ms listened
+Kimbra: 2146526 ms listened
+MOSES: 2146116 ms listened
+Ella Henderson: 2145458 ms listened
+ITZY: 2138586 ms listened
+Arrested Youth: 2135246 ms listened
+OK Go: 2128765 ms listened
+Dreamer Boy: 2126383 ms listened
+The Unlikely Candidates: 2114555 ms listened
+Marshmello: 2110219 ms listened
+MED: 2102192 ms listened
+Klaxons: 2098051 ms listened
+SAINT PHNX: 2091493 ms listened
+Years & Years: 2086537 ms listened
+Hockey Dad: 2082967 ms listened
+Mars Argo: 2077998 ms listened
+Boston: 2073424 ms listened
+Timothy Kay Band: 2072085 ms listened
+LCD Soundsystem: 2067380 ms listened
+Rolling Quartz: 2065693 ms listened
+Night Riots: 2062241 ms listened
+Hate Drugs: 2057381 ms listened
+Sophie Cates: 2050391 ms listened
+Dounia: 2049522 ms listened
+ScHoolboy Q: 2049160 ms listened
+Charlotte Lawrence: 2047858 ms listened
+PUP: 2043769 ms listened
+Jeremy Zucker: 2041041 ms listened
+Odo Lefebvre: 2033788 ms listened
+Simple Creatures: 2031764 ms listened
+Iggy Azalea: 2030753 ms listened
+Of Monsters and Men: 2028632 ms listened
+TOMORROW X TOGETHER: 2027767 ms listened
+Shelly: 2022199 ms listened
+Lil B: 2018318 ms listened
+courtship.: 2012295 ms listened
+Utsu-P: 2011814 ms listened
+Gareth Coker: 2010560 ms listened
+The Pale White: 2009571 ms listened
+Abhi The Nomad: 2006393 ms listened
+Nero's Day At Disneyland: 2005551 ms listened
+Monsune: 2001812 ms listened
+Goody Grace: 1995513 ms listened
+Teen Suicide: 1988052 ms listened
+PVRIS: 1978189 ms listened
+LADIES' CODE: 1964187 ms listened
+Apink: 1961189 ms listened
+Dua Lipa: 1958064 ms listened
+Backstreet Boys: 1957456 ms listened
+Hot Chelle Rae: 1950110 ms listened
+Skizzy Mars: 1934062 ms listened
+Yeat: 1933841 ms listened
+J. Cole: 1930438 ms listened
+Martin Landström: 1925684 ms listened
+Frankie Cosmos: 1923990 ms listened
+Avid Dancer: 1922209 ms listened
+A Day To Remember: 1921174 ms listened
+Kang xiwon: 1920127 ms listened
+my bloody valentine: 1919137 ms listened
+Joy Williams: 1918133 ms listened
+The North Sea Trio: 1912246 ms listened
+Olivia O'Brien: 1908498 ms listened
+Cardi B: 1899294 ms listened
+The Academic: 1897396 ms listened
+Julia Michaels: 1891140 ms listened
+blink-182: 1889000 ms listened
+Paloma Faith: 1887806 ms listened
+花冷え。: 1881473 ms listened
+Musica de Piano Club n.1: 1877711 ms listened
+The Beach Boys: 1874363 ms listened
+Jack Peñate: 1868295 ms listened
+Albert Hammond Jr: 1867327 ms listened
+Vantage: 1864137 ms listened
+Beach Fossils: 1862583 ms listened
+Bill Charlap Trio: 1858025 ms listened
+遠野高志: 1855619 ms listened
+Marmozets: 1852630 ms listened
+日本アニメ(ーター)見本市: 1851036 ms listened
+Hobo Johnson: 1850747 ms listened
+7Chariot: 1850491 ms listened
+NextYoungin: 1850264 ms listened
+Half Time Feel: 1842318 ms listened
+Sir Sly: 1842145 ms listened
+Mr.Kitty: 1834561 ms listened
+Sarah and the Sundays: 1833660 ms listened
+POOP DICK MOB: 1832492 ms listened
+Spice Girls: 1827498 ms listened
+Fountains Of Wayne: 1827025 ms listened
+SHISHAMO: 1826072 ms listened
+21 Savage: 1826028 ms listened
+We The Kings: 1824818 ms listened
+Finger Eleven: 1821666 ms listened
+French Montana: 1815870 ms listened
+Lime Cordiale: 1815599 ms listened
+Big Thief: 1810387 ms listened
+The Buttertones: 1804800 ms listened
+Lifehouse: 1802981 ms listened
+Slothrust: 1800082 ms listened
+Lil Darkie: 1798210 ms listened
+Warne Marsh: 1792785 ms listened
+Carnage: 1792430 ms listened
+Sure Sure: 1790896 ms listened
+Brye: 1787692 ms listened
+ERRA: 1787171 ms listened
+Macklemore & Ryan Lewis: 1786765 ms listened
+OnlyOneOf: 1772975 ms listened
+Owl City: 1771616 ms listened
+Forever The Sickest Kids: 1768524 ms listened
+Taylor Dayne: 1768271 ms listened
+Electric Light Orchestra: 1764610 ms listened
+LABOUM: 1762466 ms listened
+Lou Bega: 1762189 ms listened
+Jay Som: 1760965 ms listened
+Movements: 1760837 ms listened
+Joseph Haydn: 1758166 ms listened
+mansionz: 1757971 ms listened
+Aries: 1754662 ms listened
+TV On The Radio: 1754126 ms listened
+Au/Ra: 1752879 ms listened
+Crown The Empire: 1752257 ms listened
+Joan Jett & the Blackhearts: 1745659 ms listened
+LLusion: 1744619 ms listened
+Noah Cyrus: 1744598 ms listened
+Cautious Clay: 1744457 ms listened
+Fart Fest: 1744426 ms listened
+Mick Gordon: 1741303 ms listened
+Crawlers: 1740989 ms listened
+Surfaces: 1738981 ms listened
+New Parlor: 1737952 ms listened
+Dbangz: 1734193 ms listened
+Dio: 1730833 ms listened
+UMI: 1730483 ms listened
+3OH!3: 1727464 ms listened
+The Dave Brubeck Quartet: 1727040 ms listened
+DEAN: 1725156 ms listened
+Death Grips: 1719596 ms listened
+Jasiah: 1716077 ms listened
+The Score: 1715212 ms listened
+Mr. Oizo: 1714337 ms listened
+Lil Mariko: 1710657 ms listened
+Marianas Trench: 1704245 ms listened
+COBRAH: 1700203 ms listened
+Leith Ross: 1695045 ms listened
+Friday Pilots Club: 1691575 ms listened
+Stella Jang: 1689960 ms listened
+Elbow: 1688808 ms listened
+Doll Skin: 1685232 ms listened
+George Ezra: 1678683 ms listened
+6th Street Jazz: 1678321 ms listened
+The Calling: 1674901 ms listened
+Eurythmics: 1673250 ms listened
+Sammy Rae & The Friends: 1670541 ms listened
+Metallica: 1670218 ms listened
+Brooke Candy: 1666164 ms listened
+Bugus: 1664950 ms listened
+Lynyrd Skynyrd: 1661812 ms listened
+The Faim: 1660271 ms listened
+Ellise: 1658804 ms listened
+Meadow Park: 1657495 ms listened
+EARTHGANG: 1657367 ms listened
+Trans-Siberian Orchestra: 1654646 ms listened
+MONSTA X: 1653323 ms listened
+Sandy Marton: 1652677 ms listened
+Black Pistol Fire: 1651846 ms listened
+Charlie James-Walker: 1650628 ms listened
+Kirby's Dream Band: 1648339 ms listened
+Eat Your Neighbors: 1646413 ms listened
+Walkabout: 1642852 ms listened
+Stunna Girl: 1642294 ms listened
+Little Mix: 1640183 ms listened
+Nicki Minaj: 1637587 ms listened
+Gregory Alan Isakov: 1636658 ms listened
+Alice Longyu Gao: 1634327 ms listened
+Feng Suave: 1624899 ms listened
+SAINt JHN: 1616413 ms listened
+Sundara Karma: 1615400 ms listened
+Joey Valence & Brae: 1610911 ms listened
+Tei Shi: 1607354 ms listened
+Miura Jam: 1606119 ms listened
+WOOSUNG: 1605820 ms listened
+Eminem: 1604327 ms listened
+Younger Hunger: 1601920 ms listened
+Against Me!: 1600429 ms listened
+Mob Rich: 1596647 ms listened
+Velvet Revolver: 1595994 ms listened
+Magpie Jazz Trio: 1593492 ms listened
+JVKE: 1586803 ms listened
+Yeek: 1586267 ms listened
+Bill Evans Trio: 1586253 ms listened
+Whethan: 1584040 ms listened
+Metro Station: 1582622 ms listened
+Sewerslvt: 1577924 ms listened
+The Mountain Goats: 1576878 ms listened
+The Mellowells: 1574759 ms listened
+Broken Bells: 1573039 ms listened
+Pink Floyd: 1569663 ms listened
+Bicurious: 1568515 ms listened
+OOHYO: 1567995 ms listened
+Breakup Shoes: 1561477 ms listened
+SiM: 1559667 ms listened
+Pitbull: 1558492 ms listened
+BabyJake: 1558050 ms listened
+TEMPOREX: 1556245 ms listened
+AViVA: 1556071 ms listened
+James Arthur: 1553406 ms listened
+Miso: 1547092 ms listened
+Drugdealer: 1546624 ms listened
+HoodRich Pablo Juan: 1545272 ms listened
+石上優(CV:鈴木崚汰): 1545119 ms listened
+Of Mice & Men: 1539260 ms listened
+Desiigner: 1537703 ms listened
+Foals: 1533387 ms listened
+Alan Broadbent Trio: 1532230 ms listened
+Shoffy: 1532083 ms listened
+Puzzle: 1531063 ms listened
+ODIE: 1530713 ms listened
+One Direction: 1530131 ms listened
+John Legend: 1527865 ms listened
+KAYTRANADA: 1524142 ms listened
+Burt Mitchell: 1523185 ms listened
+Arca: 1519275 ms listened
+dosii: 1518768 ms listened
+Chappell Roan: 1517114 ms listened
+khai dreams: 1516523 ms listened
+HYOLYN: 1513923 ms listened
+Bridgit Mendler: 1508210 ms listened
+Wabie: 1507637 ms listened
+Oren Major: 1505613 ms listened
+Liily: 1495709 ms listened
+The Blue Green: 1494668 ms listened
+Vacations: 1491944 ms listened
+SUPER JUNIOR: 1490584 ms listened
+The Vines: 1488242 ms listened
+Holborns: 1482086 ms listened
+Interpol: 1480976 ms listened
+Charlie Burg: 1478491 ms listened
+dark cat: 1478299 ms listened
+Bastille: 1476986 ms listened
+f(x): 1466389 ms listened
+Kinokoteikoku: 1461258 ms listened
+Good Morning: 1459944 ms listened
+New Politics: 1459063 ms listened
+Houndmouth: 1457874 ms listened
+youra: 1453636 ms listened
+Red Garland: 1450955 ms listened
+Megadeth: 1446179 ms listened
+The Jackson 5: 1445192 ms listened
+Rich The Kid: 1444753 ms listened
+Guns N' Roses: 1439414 ms listened
+The Bravery: 1438664 ms listened
+BerryGood: 1436811 ms listened
+Pastel Ghost: 1436068 ms listened
+Martin Garrix: 1435821 ms listened
+Rival Sons: 1434974 ms listened
+Christian Leave: 1431435 ms listened
+Vinyl Theatre: 1431126 ms listened
+CASTLEBEAT: 1428766 ms listened
+Empire of the Sun: 1426701 ms listened
+Jakob: 1425794 ms listened
+Yot Club: 1420598 ms listened
+Lonely God: 1417007 ms listened
+Broadside: 1416463 ms listened
+Giordano Trivellato: 1416112 ms listened
+Kyle Gordon: 1415125 ms listened
+Vienna Mozart Orchestra: 1414070 ms listened
+Max Frost: 1405600 ms listened
+Clover Post: 1404888 ms listened
+Gucci Mane: 1400511 ms listened
+Dr. Dog: 1398973 ms listened
+Home: 1398076 ms listened
+Mike Posner: 1394135 ms listened
+The Dresden Dolls: 1394021 ms listened
+Rejjie Snow: 1391017 ms listened
+Conor Oberst: 1389017 ms listened
+Sorry Mom: 1386304 ms listened
+Old Town Trio: 1381623 ms listened
+Bill Evans: 1381083 ms listened
+Paul Desmond: 1380960 ms listened
+Mark Roswell Trio: 1379197 ms listened
+Rick Astley: 1378774 ms listened
+Mayday Parade: 1373753 ms listened
+Ryo Fukui: 1372436 ms listened
+The Stupendium: 1371425 ms listened
+Dizzy Wright: 1370803 ms listened
+Rae Sremmurd: 1369465 ms listened
+Ariel Pink: 1368854 ms listened
+Yellowcard: 1368081 ms listened
+Trippie Redd: 1364327 ms listened
+The Red Jumpsuit Apparatus: 1363873 ms listened
+Hope Tala: 1362523 ms listened
+The Avalanches: 1362118 ms listened
+Chingy: 1360547 ms listened
+Bad Bunny: 1360261 ms listened
+Sonny Rollins Quartet: 1359572 ms listened
+KISS: 1356199 ms listened
+Birdtalker: 1355527 ms listened
+VGR: 1353004 ms listened
+Cold War Kids: 1352631 ms listened
+RedHook: 1350434 ms listened
+311: 1349896 ms listened
+ayokay: 1349626 ms listened
+Pearl Jam: 1349285 ms listened
+Led Zeppelin: 1342087 ms listened
+late night drive home: 1341267 ms listened
+Tierra Whack: 1338509 ms listened
+Eagles: 1338004 ms listened
+JID: 1335845 ms listened
+Pond: 1333089 ms listened
+Ed Sheeran: 1330931 ms listened
+Eiffel 65: 1329603 ms listened
+Free Nationals: 1327610 ms listened
+MisterWives: 1326646 ms listened
+Niall Horan: 1324684 ms listened
+The Southern Belle: 1322370 ms listened
+Peter McPoland: 1320525 ms listened
+Carl Bagge Trio: 1320000 ms listened
+Spiritbox: 1319650 ms listened
+LoveLeo: 1319307 ms listened
+Alexa Demie: 1319105 ms listened
+Nelly Furtado: 1318451 ms listened
+Pisse: 1318123 ms listened
+The Amazons: 1314634 ms listened
+Thomas Headon: 1314198 ms listened
+Phum Viphurit: 1309747 ms listened
+Hoodie Allen: 1309327 ms listened
+James Bay: 1307722 ms listened
+The Pom-Poms: 1307293 ms listened
+Knox Hamilton: 1306823 ms listened
+Brave Girls: 1306800 ms listened
+Mountain Babes: 1302977 ms listened
+Porter Robinson: 1300312 ms listened
+TOKYO’S REVENGE: 1299997 ms listened
+Miles Davis Quintet: 1299320 ms listened
+HUS: 1299027 ms listened
+DOLL$BOXX: 1296252 ms listened
+G Flip: 1294662 ms listened
+Gojira: 1294243 ms listened
+Beck: 1294229 ms listened
+Pinkshift: 1291561 ms listened
+Bayside: 1288595 ms listened
+Ski Mask The Slump God: 1279028 ms listened
+Unlike Pluto: 1277544 ms listened
+Julian Moon: 1276450 ms listened
+Machine Gun Kelly: 1272619 ms listened
+Destroy Rebuild Until God Shows: 1270453 ms listened
+Funkin' Sound Team: 1269045 ms listened
+Steve Blumenthal: 1263930 ms listened
+Will Joseph Cook: 1261750 ms listened
+Clem Leek: 1260116 ms listened
+Lovelyz: 1255536 ms listened
+The Fall of Troy: 1254961 ms listened
+ilyTOMMY: 1254202 ms listened
+Victor Internet: 1252184 ms listened
+Yuri Tanaka: 1250983 ms listened
+DIA: 1250102 ms listened
+Empress Of: 1247507 ms listened
+HAIM: 1245891 ms listened
+Meek Mill: 1244551 ms listened
+Stop Light Observations: 1243584 ms listened
+Lewis Del Mar: 1243369 ms listened
+The Buttress: 1241095 ms listened
+Odette: 1237924 ms listened
+Dorothy: 1234918 ms listened
+Epica: 1233805 ms listened
+Baxter Williams: 1233600 ms listened
+John Vincent III: 1230859 ms listened
+The Reytons: 1230404 ms listened
+Дайте танк (!): 1229894 ms listened
+Mini Mansions: 1228845 ms listened
+Panchiko: 1227990 ms listened
+*repeat repeat: 1227945 ms listened
+Solar: 1226956 ms listened
+Junglepussy: 1226444 ms listened
+The Internet: 1224912 ms listened
+Quinn Lewis: 1223951 ms listened
+The Blue Stones: 1219568 ms listened
+Slow Meadow: 1218275 ms listened
+That Kid: 1217141 ms listened
+Jakob Ahlbom: 1216545 ms listened
+Zeph: 1215843 ms listened
+Blu DeTiger: 1215477 ms listened
+Sergei Prokofiev: 1214157 ms listened
+Pusha T: 1212720 ms listened
+Justice: 1211330 ms listened
+Adam Melchor: 1211208 ms listened
+Blue Swede: 1210062 ms listened
+Clean Bandit: 1208277 ms listened
+Neil Chapman Green: 1203617 ms listened
+Fashion Jackson: 1203346 ms listened
+Sammy Adams: 1200935 ms listened
+nelward: 1197047 ms listened
+Austin Weber: 1192373 ms listened
+Godspeed You! Black Emperor: 1192265 ms listened
+BOYS LIKE GIRLS: 1191893 ms listened
+The Head And The Heart: 1187376 ms listened
+Steven Universe: 1187147 ms listened
+The Young Professionals: 1185417 ms listened
+SONIKKU: 1185196 ms listened
+Maxine Ashley: 1185000 ms listened
+Sub Urban: 1182630 ms listened
+Lil Mosey: 1182152 ms listened
+Leat'eq: 1181647 ms listened
+Okay Kaya: 1179042 ms listened
+Ling tosite sigure: 1176999 ms listened
+Trixie Mattel: 1176759 ms listened
+SAYGRACE: 1175317 ms listened
+Victoria Monét: 1175228 ms listened
+Asking Alexandria: 1171777 ms listened
+One Flew West: 1171043 ms listened
+No Rome: 1170139 ms listened
+Mommy Long Legs: 1170073 ms listened
+PUBLIC: 1167911 ms listened
+AKA George: 1167528 ms listened
+Alessia Cara: 1166488 ms listened
+KennyHoopla: 1165759 ms listened
+Liam Payne: 1164753 ms listened
+Model Child: 1164221 ms listened
+Green Nature SPA: 1163608 ms listened
+Super Mario 64: 1163290 ms listened
+Oscar Peterson: 1162892 ms listened
+Rixton: 1162398 ms listened
+Brooksie: 1160772 ms listened
+Bon Jovi: 1159952 ms listened
+Shakewell: 1159371 ms listened
+spill tab: 1159080 ms listened
+Vince Staples: 1157461 ms listened
+Chris Brown: 1157440 ms listened
+Flo Rida: 1157000 ms listened
+Wham!: 1153317 ms listened
+Your Smith: 1153065 ms listened
+Them Crooked Vultures: 1151040 ms listened
+WHOKILLEDXIX: 1150926 ms listened
+Eve: 1149427 ms listened
+GOT7: 1148350 ms listened
+Annie Berenson: 1148033 ms listened
+Deep Sleep Music Club: 1145772 ms listened
+Sad Piano Music Collective: 1145163 ms listened
+The Ink Spots: 1141939 ms listened
+Gym Class Heroes: 1141554 ms listened
+TWRP: 1140158 ms listened
+Creedence Clearwater Revival: 1138582 ms listened
+The Walters: 1137449 ms listened
+coldrain: 1136301 ms listened
+Thutmose: 1133629 ms listened
+Clark: 1133122 ms listened
+Wes Montgomery: 1132482 ms listened
+Tyga: 1131185 ms listened
+Three Days Grace: 1130879 ms listened
+A$AP Ferg: 1130318 ms listened
+Daddy Issues: 1129152 ms listened
+LilyPichu: 1128479 ms listened
+daigoro789: 1124306 ms listened
+Bree Runway: 1123010 ms listened
+Cherry Bullet: 1121103 ms listened
+Tim Atlas: 1117362 ms listened
+Playboi Carti: 1116677 ms listened
+Macklemore: 1115684 ms listened
+侯俊傑: 1114643 ms listened
+FictionJunction: 1112963 ms listened
+Offset: 1112075 ms listened
+Chris Christodoulou: 1111048 ms listened
+[Alexandros]: 1108584 ms listened
+Social Repose: 1107089 ms listened
+MIKA: 1105398 ms listened
+Evalyn: 1105262 ms listened
+Bohnes: 1104826 ms listened
+Only Shadows: 1103518 ms listened
+Yaeji: 1102938 ms listened
+Panicland: 1102912 ms listened
+Cannibal Kids: 1102112 ms listened
+Madvillain: 1101892 ms listened
+aespa: 1099484 ms listened
+Pearl Street Trio: 1099371 ms listened
+Tiësto: 1098922 ms listened
+MF DOOM: 1097040 ms listened
+Tom Stills Quartet: 1096050 ms listened
+Robin Schulz: 1095827 ms listened
+Kino: 1092027 ms listened
+ギヴン: 1091750 ms listened
+Geeder: 1091350 ms listened
+QUIX: 1087185 ms listened
+Sports: 1087116 ms listened
+Miles Kane: 1087023 ms listened
+Loren Gray: 1086633 ms listened
+Denzel Sachs: 1086140 ms listened
+Luna: 1086024 ms listened
+Foreign Air: 1085539 ms listened
+Men At Work: 1084757 ms listened
+Shawn Mendes: 1082082 ms listened
+VIOLENT VIRA: 1080881 ms listened
+Sex Bob-Omb: 1080774 ms listened
+LANY: 1077602 ms listened
+Nico Collins: 1077529 ms listened
+Ghostemane: 1075641 ms listened
+Hyomin: 1075120 ms listened
+Young Thug: 1074629 ms listened
+Gary Clark Jr.: 1074494 ms listened
+Global Dan: 1071205 ms listened
+Franz Schubert: 1069342 ms listened
+Baka Not Nice: 1067709 ms listened
+cute girls doing cute things: 1065898 ms listened
+Have A Nice Life: 1062500 ms listened
+Banes World: 1060560 ms listened
+Sam Smith: 1057772 ms listened
+salvia palth: 1055969 ms listened
+Ado: 1055468 ms listened
+Betcha: 1055379 ms listened
+Coda: 1054345 ms listened
+Crush: 1053830 ms listened
+The Narcissist Cookbook: 1053810 ms listened
+Hotel Ugly: 1052774 ms listened
+LOOΠΔ 1/3: 1051639 ms listened
+The Greatest Bits: 1050898 ms listened
+Public Theatre: 1050855 ms listened
+Threshold: 1050355 ms listened
+The Palms: 1049002 ms listened
+KATIE: 1048373 ms listened
+Yellow Claw: 1046118 ms listened
+GOT the beat: 1045251 ms listened
+Laufey: 1045192 ms listened
+Cub Sport: 1044985 ms listened
+The Dreadnoughts: 1043066 ms listened
+KWON EUNBI: 1042992 ms listened
+The Symposium: 1042023 ms listened
+BewhY: 1041438 ms listened
+Temples: 1041008 ms listened
+Shakira: 1039963 ms listened
+iTheRedi: 1037798 ms listened
+Shayfer James: 1036774 ms listened
+Relaxing Piano Music Consort: 1035483 ms listened
+Mori Calliope: 1033450 ms listened
+Ninja Sex Party: 1033144 ms listened
+Dream, Ivory: 1032123 ms listened
+Merlyn Wood: 1032104 ms listened
+Styx: 1028905 ms listened
+Never Shout Never: 1028903 ms listened
+Cody Simpson: 1027143 ms listened
+JPEGMAFIA: 1026608 ms listened
+KANA-BOON: 1025024 ms listened
+Dre'es: 1024185 ms listened
+JOY: 1021294 ms listened
+Pink Sweat$: 1020520 ms listened
+Alina Baraz: 1020281 ms listened
+Bloc Party: 1015620 ms listened
+SOFT PLAY: 1013631 ms listened
+Nina Nesbitt: 1012942 ms listened
+Cody Lovaas: 1012219 ms listened
+KEY: 1011014 ms listened
+Sam Woods: 1010670 ms listened
+Colony House: 1009012 ms listened
+BANKS: 1008763 ms listened
+Major Lazer: 1008364 ms listened
+LOVEBITES: 1007946 ms listened
+Kota the Friend: 1007660 ms listened
+Papa Roach: 1007615 ms listened
+Tears For Fears: 1006404 ms listened
+Jez Dior: 1005455 ms listened
+Hail The Sun: 1004583 ms listened
+Perfume Genius: 1002436 ms listened
+Brent Faiyaz: 1001327 ms listened
+Good Knight Productions: 999050 ms listened
+OFFICIAL HIGE DANDISM: 998587 ms listened
+Our Last Night: 997183 ms listened
+The Underachievers: 996099 ms listened
+Norris Walker Trio: 996092 ms listened
+Black Rebel Motorcycle Club: 994010 ms listened
+Apink CHOBOM: 993264 ms listened
+FRENSHIP: 992350 ms listened
+Carlie Hanson: 991299 ms listened
+Rav: 989396 ms listened
+Remo Drive: 989113 ms listened
+Fiona Apple: 988779 ms listened
+Alicia Keys: 987716 ms listened
+Chet Baker: 986507 ms listened
+Bo Burnham: 986105 ms listened
+Marilyn Manson: 986009 ms listened
+TORIENA: 984695 ms listened
+Marc Henley Trio: 984558 ms listened
+Nick Osman Trio: 984048 ms listened
+Nate Good: 983318 ms listened
+Isak Danielson: 982663 ms listened
+Gottfried Barber Trio: 980941 ms listened
+Eyedi: 979865 ms listened
+Lustra: 979626 ms listened
+Iris Temple: 979311 ms listened
+Young Guns: 978747 ms listened
+Audrey Mika: 976084 ms listened
+Neck Deep: 975532 ms listened
+Grace Mitchell: 972196 ms listened
+Namasenda: 969180 ms listened
+Jason Mraz: 968744 ms listened
+Ferras: 968454 ms listened
+The Pussycat Dolls: 966865 ms listened
+Coleman Hawkins: 962400 ms listened
+thquib: 961927 ms listened
+Kevin Rudolf: 961668 ms listened
+Honey Popcorn: 961044 ms listened
+Elton John: 958648 ms listened
+Wet Leg: 958476 ms listened
+Mitch Kessler: 958265 ms listened
+Terrace Martin: 957444 ms listened
+BONES UK: 956141 ms listened
+Michael Seyer: 953858 ms listened
+Death Cab for Cutie: 953573 ms listened
+Near Tears: 952504 ms listened
+Sweet: 952460 ms listened
+Noah Kahan: 952191 ms listened
+Sheet Music Boss: 952155 ms listened
+Theo Rollins: 952142 ms listened
+Vashti Bunyan: 951230 ms listened
+Dreamgirl: 950888 ms listened
+Mt. Joy: 950504 ms listened
+Selena Gomez & The Scene: 949425 ms listened
+BIP LING: 949362 ms listened
+The Beatles: 948872 ms listened
+Grover Washington, Jr.: 948424 ms listened
+morgxn: 947889 ms listened
+Guantanamo Baywatch: 947846 ms listened
+Swans: 947666 ms listened
+AMBER: 947662 ms listened
+Bee Gees: 947064 ms listened
+Kendra Collins Band: 946421 ms listened
+Scene Queen: 946069 ms listened
+Dead Posey: 945650 ms listened
+Quay Dash: 945093 ms listened
+Lizzy McAlpine: 944390 ms listened
+James TW: 942093 ms listened
+ZAND: 942042 ms listened
+A Change of Pace: 941828 ms listened
+The Arcs: 941697 ms listened
+Good Charlotte: 940203 ms listened
+Billy Raffoul: 939137 ms listened
+Justin Stone: 939079 ms listened
+Iron Maiden: 937710 ms listened
+Sassy 009: 937542 ms listened
+Son Lux: 937276 ms listened
+Snakehips: 934116 ms listened
+AR-AB: 932337 ms listened
+Oliver Francis: 931195 ms listened
+Hailee Steinfeld: 931111 ms listened
+ENHYPEN: 929426 ms listened
+Hojean: 929318 ms listened
+Pablo Ilanda Trio: 928639 ms listened
+The Paper Kites: 928558 ms listened
+Dan Avidan: 927146 ms listened
+Two-9: 926748 ms listened
+Castlecomer: 924157 ms listened
+Pussy Riot: 922968 ms listened
+Choker: 921641 ms listened
+PinocchioP: 917566 ms listened
+Hank Jones: 917200 ms listened
+Sufjan Stevens: 916876 ms listened
+Bleeker: 915070 ms listened
+Bernadette Carroll: 915012 ms listened
+Third Eye Blind: 914122 ms listened
+Sea Girls: 911702 ms listened
+GoldLink: 909636 ms listened
+Sleep Sauce: 907840 ms listened
+Lil Baby: 906924 ms listened
+Metro Boomin: 904695 ms listened
+Kap G: 904264 ms listened
+carolesdaughter: 903914 ms listened
+Santigold: 903251 ms listened
+Sugarcult: 900773 ms listened
+The People's Thieves: 899634 ms listened
+SHINee: 899200 ms listened
+VUKOVI: 898770 ms listened
+EASYFUN: 896882 ms listened
+Last Dinosaurs: 894836 ms listened
+LUCY: 894487 ms listened
+Ollie MN: 894350 ms listened
+Healy: 894192 ms listened
+Caramella Girls: 893240 ms listened
+Will Paquin: 892784 ms listened
+Emma Blackery: 892370 ms listened
+HARU NEMURI: 891506 ms listened
+6ix9ine: 891094 ms listened
+Hala: 890973 ms listened
+Soft Hair: 887090 ms listened
+cehryl: 884793 ms listened
+Yung Pinch: 883069 ms listened
+Mook: 880211 ms listened
+Martin Hoper: 879260 ms listened
+TeddyLoid: 876958 ms listened
+Dirty Heads: 876885 ms listened
+Tom Lehrer: 876730 ms listened
+Scattle: 875996 ms listened
+David Finck: 875694 ms listened
+Jessie Ware: 875094 ms listened
+Survive Said The Prophet: 874369 ms listened
+Gang of Youths: 872734 ms listened
+CHVRCHES: 872492 ms listened
+Lil Dicky: 872008 ms listened
+Ten Kills the Pack: 871488 ms listened
+Cruel Youth: 870509 ms listened
+JACKIE EXTREME: 869802 ms listened
+AWOLNATION: 868596 ms listened
+The Correspondents: 867740 ms listened
+NCT: 865205 ms listened
+gugudan SEMINA: 865021 ms listened
+Baker St.: 864312 ms listened
+DellaXOZ: 864000 ms listened
+Tru: 863019 ms listened
+Mustard Service: 862541 ms listened
+Cailin Russo: 862502 ms listened
+Kelly Clarkson: 862231 ms listened
+Kaiser Chiefs: 861154 ms listened
+Tank: 860717 ms listened
+The Lyon Hearts: 860340 ms listened
+Bobby Caldwell: 860072 ms listened
+Never Not Nothing: 859987 ms listened
+Slowdive: 857718 ms listened
+Deb Never: 857635 ms listened
+O-Zone: 855680 ms listened
+Halestorm: 855318 ms listened
+shy martin: 853560 ms listened
+Tony Anderson: 852834 ms listened
+Anthony Amorim: 850518 ms listened
+The Academy Is...: 850313 ms listened
+La Roux: 849146 ms listened
+The Game: 848630 ms listened
+Johnny Goth: 848613 ms listened
+Kate Bollinger: 848365 ms listened
+Memo Boy: 848192 ms listened
+NGHTMRE: 846881 ms listened
+OR3O: 846037 ms listened
+BVNDIT: 840865 ms listened
+CORPSE: 840517 ms listened
+Bickle: 840016 ms listened
+Lo-Fang: 839886 ms listened
+Jeremy Soule: 837431 ms listened
+Weeekly: 836772 ms listened
+KanoeRana: 836100 ms listened
+The Oh Hellos: 835287 ms listened
+Earth, Wind & Fire: 835093 ms listened
+Clarence Clarity: 834783 ms listened
+Princess Nokia: 834725 ms listened
+Jack Conte: 834078 ms listened
+James Earle Trio: 832975 ms listened
+Mr. Probz: 832532 ms listened
+Robinson: 832474 ms listened
+Peter Bjorn and John: 832412 ms listened
+Judas: 829385 ms listened
+HyunA&DAWN: 829205 ms listened
+The Ronettes: 829138 ms listened
+PRISTIN V: 828160 ms listened
+Brother Son: 827623 ms listened
+Oingo Boingo: 826857 ms listened
+Be Your Own Pet: 825962 ms listened
+Sada Baby: 825711 ms listened
+Julia Jacklin: 825420 ms listened
+Smino: 824626 ms listened
+Weatherday: 823573 ms listened
+quinnie: 822889 ms listened
+Lilo Key: 819947 ms listened
+Wolf Alice: 819930 ms listened
+WMD: 819863 ms listened
+DJ Khaled: 819859 ms listened
+vōx: 818500 ms listened
+Taking Back Sunday: 818339 ms listened
+Shoe: 817047 ms listened
+Liana Flores: 816279 ms listened
+ONEUS: 814956 ms listened
+I.O.I: 814560 ms listened
+Little Dragon: 814076 ms listened
+Jelani Aryeh: 812424 ms listened
+Grant Schaffer: 811644 ms listened
+SG Lewis: 809587 ms listened
+Boyscott: 809106 ms listened
+Engelwood: 808619 ms listened
+Dire Straits: 808091 ms listened
+Anna Akana: 805972 ms listened
+Ben Webster: 805388 ms listened
+Ray Brown Trio: 805170 ms listened
+Berhana: 803968 ms listened
+Tim Franks Trio: 803241 ms listened
+Dj Cutman: 802409 ms listened
+Transviolet: 800942 ms listened
+McCoy Tyner: 798823 ms listened
+Robokid: 798422 ms listened
+Every Avenue: 798275 ms listened
+Good Kid: 798014 ms listened
+Angela Rowles: 797000 ms listened
+The Dox Band: 796146 ms listened
+4Minute: 793533 ms listened
+The Griswolds: 793057 ms listened
+Thuốc thư giãn: 792540 ms listened
+New Found Glory: 792527 ms listened
+Baby Keem: 792315 ms listened
+Dillatante: 791864 ms listened
+Mustard: 790087 ms listened
+BLUE ENCOUNT: 789966 ms listened
+Daniel Olsén: 789295 ms listened
+Sonny Clark Trio: 787066 ms listened
+*NSYNC: 786604 ms listened
+Suzi Wu: 786465 ms listened
+Cottonwood Firing Squad: 786329 ms listened
+Toro y Moi: 786274 ms listened
+Kevin Waters Group: 785040 ms listened
+Cannibal Corpse: 784818 ms listened
+Charles Cook Jr.: 784133 ms listened
+Leona Lewis: 783876 ms listened
+Brad Mehldau: 781412 ms listened
+Bedouine: 781030 ms listened
+Blake Rose: 779759 ms listened
+Kane Strang: 778942 ms listened
+Wheatus: 776812 ms listened
+Dashboard Confessional: 776424 ms listened
+leon chang: 775481 ms listened
+Issues: 774173 ms listened
+Boards of Canada: 774151 ms listened
+Rebounder: 773187 ms listened
+Latto: 772898 ms listened
+The Luka State: 772883 ms listened
+Freak Daddy: 772578 ms listened
+Kehlani: 772257 ms listened
+nothing,nowhere.: 771137 ms listened
+Air Traffic Controller: 769995 ms listened
+кис-кис: 768441 ms listened
+GIRIBOY: 768000 ms listened
+HOSHI: 766943 ms listened
+AJ Mitchell: 766649 ms listened
+Marcy Playground: 766554 ms listened
+Trois Amis: 766188 ms listened
+Jay Park: 765233 ms listened
+Let's Eat Grandma: 765125 ms listened
+RONNY J: 765022 ms listened
+David Guetta: 764669 ms listened
+LVL1: 764650 ms listened
+WILLIS: 763013 ms listened
+T-Pain: 762805 ms listened
+Rage Against The Machine: 762595 ms listened
+Morningsiders: 762451 ms listened
+Winnetka Bowling League: 759624 ms listened
+WONHO: 759296 ms listened
+Luna Luna: 758862 ms listened
+Figgy Mold: 758689 ms listened
+Carla Anderson: 758529 ms listened
+Isaiah Rashad: 758191 ms listened
+Flatland Park: 757907 ms listened
+Steppes: 756810 ms listened
+LunchMoney Lewis: 756592 ms listened
+10th Avenue Trio: 756559 ms listened
+Nordic Light Trio: 755188 ms listened
+Kari Faux: 755049 ms listened
+Circa Survive: 754764 ms listened
+Arizona Zervas: 754573 ms listened
+OTMGirls: 753987 ms listened
+SHAED: 753715 ms listened
+Mia Rodriguez: 753572 ms listened
+Ocean Park Standoff: 753229 ms listened
+Rudy Winston: 752239 ms listened
+Benny Benassi: 751374 ms listened
+Mom Jeans.: 750558 ms listened
+Don Toliver: 750377 ms listened
+The Brook & The Bluff: 749701 ms listened
+AleXa: 749256 ms listened
+Ivy Adara: 749017 ms listened
+EASHA: 748825 ms listened
+Maren Morris: 747937 ms listened
+Princess Chelsea: 746351 ms listened
+Armani White: 745918 ms listened
+MIMIDEATH: 745360 ms listened
+Angel Witch: 744875 ms listened
+Jimmy Urine: 744372 ms listened
+Michael Cera: 744000 ms listened
+Matthew Wilder: 742401 ms listened
+The Groove Trio: 741104 ms listened
+Vera Lynn: 740291 ms listened
+Dee Burton: 740235 ms listened
+Super Guitar Bros: 739013 ms listened
+valentina cy: 738008 ms listened
+c a n d i d !: 737109 ms listened
+R3HAB: 737016 ms listened
+Mega Mango: 736000 ms listened
+Bren Joy: 735659 ms listened
+BoA: 735242 ms listened
+The Smiths: 735141 ms listened
+Pepper Coyote: 734556 ms listened
+Deniro Farrar: 733369 ms listened
+WOODZ: 732252 ms listened
+flor: 731622 ms listened
+Jenevieve: 730875 ms listened
+Kenny Drew: 730745 ms listened
+Masto (coldrain): 730188 ms listened
+Jacky Terrasson: 729382 ms listened
+Angel Haze: 727889 ms listened
+El Cuarteto De Nos: 727377 ms listened
+Sokoninaru: 727116 ms listened
+Rainych: 726978 ms listened
+Andrew Bird: 726438 ms listened
+Sisters of Mercy: 725852 ms listened
+S3RL: 725435 ms listened
+Cayucas: 724421 ms listened
+Cheese People: 724076 ms listened
+Everything Everything: 723752 ms listened
+My: 723505 ms listened
+Tribute Trio: 723000 ms listened
+Margo Guryan: 722277 ms listened
+Starjunk 95: 721920 ms listened
+Rob Zombie: 721691 ms listened
+Keke Palmer: 721549 ms listened
+The Alan Broadbent Trio: 721200 ms listened
+USHER: 721157 ms listened
+Tama Gucci: 720731 ms listened
+Architects: 719889 ms listened
+Insane Clown Posse, Twiztid: 719870 ms listened
+Babebee: 719232 ms listened
+Duster: 718666 ms listened
+The Jazz Cultivators: 718500 ms listened
+Stan Getz: 717586 ms listened
+Medicina Rilassante: 716713 ms listened
+Katrina & The Waves: 716199 ms listened
+Vaundy: 716151 ms listened
+Karl-Martin Almqvist: 716104 ms listened
+Ab-Soul: 715076 ms listened
+The Versions: 712934 ms listened
+Paul McCartney: 711953 ms listened
+Ichiko Aoba: 710534 ms listened
+Pharrell Williams: 710425 ms listened
+King Shelter: 710382 ms listened
+FEVER 333: 709027 ms listened
+Ice Nine Kills: 708440 ms listened
+Camille Saint-Saëns: 707587 ms listened
+City Morgue: 706983 ms listened
+West Village Trio: 706785 ms listened
+Twin Shadow: 705850 ms listened
+Ethel Cain: 705227 ms listened
+iwamizu: 704369 ms listened
+Kayzo: 703628 ms listened
+Sega Bodega: 703301 ms listened
+Alex Gaudino: 703286 ms listened
+Kygo: 702792 ms listened
+Exam Study Classical Music Orchestra: 701816 ms listened
+Alissic: 701559 ms listened
+L.A. WITCH: 699960 ms listened
+fusq: 699212 ms listened
+Kitty: 699042 ms listened
+TAEYANG: 698650 ms listened
+Dijon: 697923 ms listened
+No Buses: 697723 ms listened
+Prince Daddy & the Hyena: 697613 ms listened
+Mauwe: 696911 ms listened
+Quelle Chris: 696780 ms listened
+Best Coast: 695647 ms listened
+Joe Lovano: 695546 ms listened
+BIGBANG: 694259 ms listened
+Robert DeLong: 693788 ms listened
+Neighbor Susan: 692947 ms listened
+Matoma: 692674 ms listened
+Thouxanbanfauni: 692109 ms listened
+sumika: 692107 ms listened
+Leland Blue: 690200 ms listened
+Hara Noda: 689571 ms listened
+BSS: 689192 ms listened
+The Warning: 688554 ms listened
+Gesu No Kiwami Otome: 688506 ms listened
+Silversun Pickups: 687975 ms listened
+Sleep Token: 686106 ms listened
+The Daughters Of Eve: 685589 ms listened
+Kyle Lux: 685231 ms listened
+James Blake: 684000 ms listened
+Hollywood Undead: 682726 ms listened
+Shaggy: 682638 ms listened
+Stray Kids: 682181 ms listened
+AKMU: 681446 ms listened
+Destiny Rogers: 681366 ms listened
+Max Cooper: 681080 ms listened
+The Mamas & The Papas: 680212 ms listened
+MAGIC!: 680165 ms listened
+Ed Prosek: 679835 ms listened
+Cecil Andrews: 679833 ms listened
+Maggie Lindemann: 679732 ms listened
+Joyce Trio: 679732 ms listened
+Emily Burns: 678971 ms listened
+Twin Pumpkin: 678000 ms listened
+Frankie Valli: 677905 ms listened
+Foreign Figures: 677556 ms listened
+Madonna: 676468 ms listened
+a-ha: 675840 ms listened
+State Champs: 672167 ms listened
+Tommy Newport: 671327 ms listened
+The Collective: 670407 ms listened
+Natalia Kills: 669678 ms listened
+Rickyxsan: 668859 ms listened
+Dizzy Gillespie: 668666 ms listened
+Twin Peaks: 668016 ms listened
+Charlie Haden: 667600 ms listened
+Aiobahn: 667216 ms listened
+Grandaddy: 665479 ms listened
+Kylie Odetta: 664907 ms listened
+Danny Sunshine: 664184 ms listened
+FM Static: 663699 ms listened
+Jakey: 663454 ms listened
+Ansel Elgort: 662040 ms listened
+fredo disco: 660718 ms listened
+Kiiara: 659897 ms listened
+Chelsea Cutler: 658801 ms listened
+Moon Walker: 657667 ms listened
+Witt Lowry: 656051 ms listened
+Havelock: 655807 ms listened
+Zsasz: 655258 ms listened
+TREASURE: 654904 ms listened
+Pretty Sick: 654122 ms listened
+ZICO: 654078 ms listened
+Panama Wedding: 653274 ms listened
+Sonny Rollins: 652281 ms listened
+Lowe-Fi: 652045 ms listened
+Vengaboys: 651354 ms listened
+Okey Dokey: 651066 ms listened
+8 Graves: 651030 ms listened
+YUC'e: 650708 ms listened
+Kansas: 650224 ms listened
+Biffy Clyro: 650119 ms listened
+RIIKI REID: 649886 ms listened
+Zoo Culture: 649752 ms listened
+Anna Clendening: 648603 ms listened
+The Colourist: 647944 ms listened
+Yu-Peng Chen: 647460 ms listened
+Jay Prince: 646392 ms listened
+AUSTN: 645747 ms listened
+Patrick Stump: 645402 ms listened
+DJ Snake: 643853 ms listened
+nomico: 642227 ms listened
+Ayase: 642100 ms listened
+Lazy Weekends: 641280 ms listened
+Rupert Holmes: 641105 ms listened
+Harriette: 640800 ms listened
+So!YoON!: 640508 ms listened
+Cher Lloyd: 640217 ms listened
+Eduard Landings: 638384 ms listened
+Coheed and Cambria: 638228 ms listened
+The Happy Return: 638185 ms listened
+Destructo Disk: 637032 ms listened
+Miike Snow: 636438 ms listened
+Night Club: 636399 ms listened
+Excision: 636143 ms listened
+Расслабляющая медицина: 635694 ms listened
+Unusual Demont: 635595 ms listened
+Just Loud: 635400 ms listened
+Yasmin Nur: 634932 ms listened
+Benjamine Leroy Quartet: 632692 ms listened
+Lee Davis: 631524 ms listened
+Baby Tate: 631363 ms listened
+SEATBELTS: 630999 ms listened
+Vacation Manor: 630727 ms listened
+Blind Guardian: 630032 ms listened
+Medicina Relajante: 629459 ms listened
+HRVY: 629418 ms listened
+Slim Poppins: 628956 ms listened
+Lyle Jones: 628653 ms listened
+Valley: 628615 ms listened
+Icona Pop: 628608 ms listened
+Lesley Gore: 628491 ms listened
+Andy Grammer: 628295 ms listened
+easy life: 628205 ms listened
+Soft Cell: 628091 ms listened
+Oscar Lang: 627459 ms listened
+Park Bird: 627392 ms listened
+Skrillex: 627075 ms listened
+Alok: 626638 ms listened
+Shakey Graves: 626530 ms listened
+Arcade Fire: 626093 ms listened
+Billy Lemos: 625534 ms listened
+The Heavy: 624769 ms listened
+Andy Black: 624420 ms listened
+Metronomy: 624287 ms listened
+The O'Neill Brothers: 624035 ms listened
+Fickle Friends: 623612 ms listened
+Maggie Rogers: 623527 ms listened
+Bon Iver: 623341 ms listened
+Ricky Nelson: 622877 ms listened
+リアムMAZE1981: 622799 ms listened
+Elliot Root: 621973 ms listened
+Quavo: 621705 ms listened
+Martin Jensen: 620907 ms listened
+Rita Ora: 620093 ms listened
+Andrea von Kampen: 620029 ms listened
+Drowning Pool: 618765 ms listened
+Michael Jackson: 618145 ms listened
+Kiltro: 617998 ms listened
+jagger finn: 617982 ms listened
+Alec Holowka: 617488 ms listened
+Ty James: 616528 ms listened
+AC/DC: 615013 ms listened
+Marlon Roudette: 613278 ms listened
+VANT: 611190 ms listened
+Jinjer: 611142 ms listened
+Fat Nick: 611137 ms listened
+Refused: 610799 ms listened
+Neil Diamond: 610719 ms listened
+City Girl: 610347 ms listened
+Slow Pulp: 610284 ms listened
+Catching Flies: 608972 ms listened
+DOPE LEMON: 608560 ms listened
+Ryn Weaver: 608238 ms listened
+Lachlan Wright Trio: 608123 ms listened
+Songbird Trio: 607983 ms listened
+070 Shake: 606553 ms listened
+Dead Pony: 606024 ms listened
+Silverstein: 603777 ms listened
+Herbie Hancock: 603734 ms listened
+Bowling Shoes: 603192 ms listened
+Lalić: 603094 ms listened
+Tiffany Young: 602328 ms listened
+Sonic Youth: 602206 ms listened
+Ivy Mono: 601509 ms listened
+Vince Guaraldi: 601168 ms listened
+Louis Tomlinson: 601133 ms listened
+Billy Hicks Quartet: 600946 ms listened
+The Beaches: 600447 ms listened
+Danny Brown: 598771 ms listened
+SIAMES: 598562 ms listened
+Lost Kings: 598413 ms listened
+Yoon Jisung: 597630 ms listened
+The Animals: 596609 ms listened
+Rafferty: 594072 ms listened
+24kGoldn: 592860 ms listened
+NOTD: 592137 ms listened
+TOOPOOR: 592057 ms listened
+Athlete: 591368 ms listened
+Village People: 591145 ms listened
+Korpiklaani: 591057 ms listened
+Grouper: 590679 ms listened
+Lily Allen: 590679 ms listened
+Journey: 589972 ms listened
+Santana: 589972 ms listened
+Elton Aura: 589364 ms listened
+Run The Jewels: 588634 ms listened
+Ryan Oakes: 587750 ms listened
+Brad Sucks: 586993 ms listened
+iann dior: 586874 ms listened
+LIVVIA: 586150 ms listened
+The Humble Cheaters: 585771 ms listened
+Whitney Houston: 585315 ms listened
+Alexandra Stan: 585315 ms listened
+K$upreme: 584597 ms listened
+Peking Duk: 584242 ms listened
+little mood: 584062 ms listened
+RL Grime: 583814 ms listened
+Welshly Arms: 583770 ms listened
+food house: 583166 ms listened
+Charlie Puth: 582875 ms listened
+Ben Lively: 582687 ms listened
+August Kuper: 582546 ms listened
+Insightful: 582253 ms listened
+Meghan Trainor: 582118 ms listened
+Now, Now: 581919 ms listened
+batta: 581600 ms listened
+Caparezza: 580713 ms listened
+Before You Exit: 580684 ms listened
+Sugar Pine 7: 580369 ms listened
+Houses: 580167 ms listened
+glass beach: 579119 ms listened
+John B. Stewart: 579000 ms listened
+Chris Isaak: 578133 ms listened
+Kim Dracula: 577074 ms listened
+Lostboycrow: 576407 ms listened
+SEVENTEEN: 576055 ms listened
+Louis Prima: 575964 ms listened
+Lord Huron: 575932 ms listened
+Reese LAFLARE: 575517 ms listened
+Elohim: 575166 ms listened
+Stone Temple Pilots: 575087 ms listened
+Takeoff: 574732 ms listened
+Kings of Leon: 574446 ms listened
+Nanahira: 573892 ms listened
+omniboi: 573262 ms listened
+Felix McCoy Quartet: 572940 ms listened
+Capital Cities: 572559 ms listened
+Eartheater: 571977 ms listened
+Sophie Anderson: 571944 ms listened
+Leanna Firestone: 571280 ms listened
+The Montreals: 570432 ms listened
+Super Whatevr: 569447 ms listened
+TeaMarrr: 569412 ms listened
+andrei: 569260 ms listened
+Crywank: 569117 ms listened
+Atlas Genius: 568338 ms listened
+Sean Kingston: 568241 ms listened
+NEMOPHILA: 568030 ms listened
+NECRONOMIDOL: 566468 ms listened
+Lewis OfMan: 566349 ms listened
+Little Simz: 565541 ms listened
+André Rieu: 565380 ms listened
+Lil Tecca: 564973 ms listened
+Enter Shikari: 563402 ms listened
+2PM: 562932 ms listened
+Madisenxoxo: 562478 ms listened
+Jonas Brothers: 561592 ms listened
+Morbid Angel: 560704 ms listened
+Zolita: 559762 ms listened
+A. G. Cook: 558919 ms listened
+The Hellp: 558720 ms listened
+Sunbeam Sound Machine: 558698 ms listened
+Sofi de la Torre: 557778 ms listened
+JEON SOYEON: 556203 ms listened
+The Band CAMINO: 555869 ms listened
+ABSRDST: 555857 ms listened
+Poor Man's Poison: 555855 ms listened
+JISOO: 555610 ms listened
+Slutever: 553880 ms listened
+Victorious Cast: 553655 ms listened
+Ivan B: 553626 ms listened
+Tate Jackson Trio: 553410 ms listened
+Lit: 553106 ms listened
+quinn: 553024 ms listened
+Calica: 552733 ms listened
+Dirt Poor Robins: 552351 ms listened
+Destiny's Child: 551739 ms listened
+Michael Schulte: 551570 ms listened
+isaac gracie: 551565 ms listened
+Sasha Alex Sloan: 549486 ms listened
+Black Fortune: 548380 ms listened
+Ice Cube: 547908 ms listened
+Kelis: 547878 ms listened
+iamjakehill: 547646 ms listened
+KAQRIYOTERROR: 547291 ms listened
+KASPER: 547260 ms listened
+High North Trio: 547089 ms listened
+Dick Dale: 546757 ms listened
+Miel De Montagne: 545878 ms listened
+Go Radio: 545719 ms listened
+Hermitude: 545636 ms listened
+Mello Music Group: 545624 ms listened
+Stephen Fretwell: 545520 ms listened
+Equilibrium: 544532 ms listened
+Lou From Paradise: 542288 ms listened
+The Evil Exes: 542195 ms listened
+Mark Ronson: 541866 ms listened
+Adam Levine: 541740 ms listened
+OMI: 541680 ms listened
+Heart: 541431 ms listened
+The Haunting: 541397 ms listened
+We Are Scientists: 541205 ms listened
+Bob Seger: 541033 ms listened
+Twin Atlantic: 540503 ms listened
+Barry Harris Trio: 540000 ms listened
+Holy Wars: 539928 ms listened
+MadeinTYO: 539837 ms listened
+Orion Sun: 539827 ms listened
+Mingus Big Band: 539359 ms listened
+Julian Casablancas: 539072 ms listened
+IAMX: 538820 ms listened
+ILLENIUM: 538384 ms listened
+ATEEZ: 537994 ms listened
+Ty Dolla $ign: 535712 ms listened
+Stand Atlantic: 535535 ms listened
+King Krule: 535062 ms listened
+GFOTY: 534735 ms listened
+JAEHYUN: 534699 ms listened
+Harvey Danger: 534491 ms listened
+Higher Brothers: 534465 ms listened
+ONF: 534172 ms listened
+Mornington: 533855 ms listened
+Matt and Kim: 533506 ms listened
+LO LA: 533331 ms listened
+Neil Shannon Quartet: 533187 ms listened
+Cheers Elephant: 532218 ms listened
+JUVENILE: 531200 ms listened
+Valentine's Day: 529599 ms listened
+Kamal.: 529511 ms listened
+nezexous: 528716 ms listened
+Scallops Hotel: 528706 ms listened
+AS IT IS: 528634 ms listened
+Grizfolk: 528405 ms listened
+Slayer: 527989 ms listened
+Genesis Owusu: 527239 ms listened
+Björk: 527000 ms listened
+Musical Youth: 525883 ms listened
+A$H.: 525866 ms listened
+Dixon Dallas: 525228 ms listened
+Basshunter: 525199 ms listened
+Payday: 524827 ms listened
+Christian French: 524581 ms listened
+Vladimir Horowitz: 524360 ms listened
+meganeko: 524306 ms listened
+David Vandervelde: 524246 ms listened
+Omori: 523478 ms listened
+Cazwell: 522945 ms listened
+Saib: 522113 ms listened
+Disco Inc.: 521507 ms listened
+Mason Gold: 521002 ms listened
+Chris Garneau: 520820 ms listened
+ADOY: 520789 ms listened
+meija: 520467 ms listened
+Frank Sinatra: 519716 ms listened
+Flosstradamus: 519164 ms listened
+SPINN: 517935 ms listened
+We Are The In Crowd: 517399 ms listened
+101 Classical Music Masterpieces: 517043 ms listened
+Betty Who: 516685 ms listened
+Michi: 515920 ms listened
+Rachel Silver: 514618 ms listened
+$uicideboy$: 513608 ms listened
+Lyn: 513372 ms listened
+Facing New York: 513042 ms listened
+SEBii: 512846 ms listened
+SUGR?: 512552 ms listened
+Hauskey: 512079 ms listened
+Xdinary Heroes: 511948 ms listened
+Jhené Aiko: 511811 ms listened
+Tully & Mei: 511225 ms listened
+Enjoy: 510614 ms listened
+frederic: 510586 ms listened
+Yes: 510573 ms listened
+Delaney Bailey: 509766 ms listened
+Dark Stares: 509449 ms listened
+Barrie: 509384 ms listened
+Bratmobile: 508461 ms listened
+Todrick Hall: 508235 ms listened
+Clarence James: 508213 ms listened
+Tsuyu: 508006 ms listened
+The Surfaris: 508004 ms listened
+Mountain Man: 507999 ms listened
+Dennis Lloyd: 507448 ms listened
+Testament: 507446 ms listened
+Urskogen Jazz: 506226 ms listened
+Trash Panda: 505819 ms listened
+Earl Sweatshirt: 505541 ms listened
+Mabel: 503638 ms listened
+j^p^n: 503360 ms listened
+KATYA: 503327 ms listened
+John Mayer: 502906 ms listened
+-MASA Works DESIGEN-: 502772 ms listened
+The Platters: 502619 ms listened
+Yeasayer: 502070 ms listened
+DigBar: 501676 ms listened
+Big Sean: 501664 ms listened
+Jackson Wang: 501582 ms listened
+Pools: 501520 ms listened
+Open Mike Eagle: 501462 ms listened
+Punkinloveee: 501444 ms listened
+Etham: 501245 ms listened
+Tayla Parx: 501039 ms listened
+Simon Curtis: 500970 ms listened
+Junko Yagami: 500746 ms listened
+Back Room Jazz Trio: 500618 ms listened
+MINO: 499398 ms listened
+Evelyn "Champagne" King: 499253 ms listened
+Amaru Son: 499024 ms listened
+Bantams: 498754 ms listened
+ROYAL: 498123 ms listened
+Bazanji: 496354 ms listened
+Barbra Streisand: 496173 ms listened
+Avicii: 494852 ms listened
+Da Vinci's Notebook: 494799 ms listened
+Kacey Musgraves: 494724 ms listened
+A Perfect Circle: 493266 ms listened
+ChristianAdamG: 493170 ms listened
+DAY6: 493048 ms listened
+Fraxiom: 492591 ms listened
+London After Midnight: 492446 ms listened
+Bad Wolves: 491870 ms listened
+Neggy Gemmy: 491729 ms listened
+bLAck pARty: 491440 ms listened
+Dev Lemons: 491376 ms listened
+$NOT: 490004 ms listened
+Goodbye June: 489841 ms listened
+Bronze Radio Return: 489708 ms listened
+Ram Jam: 489253 ms listened
+Justin Bieber: 489139 ms listened
+YG: 489104 ms listened
+Bryce Fox: 489012 ms listened
+Tom Petty and the Heartbreakers: 488333 ms listened
+Tommy february6: 488079 ms listened
+アトラスサウンドチーム: 487492 ms listened
+Parcels: 487183 ms listened
+Rise Against: 487137 ms listened
+LAUREL: 487066 ms listened
+Relaxing Piano Masters: 486968 ms listened
+Jonas Blue: 486919 ms listened
+Halflives: 486415 ms listened
+Pianoforte Musicoterapia Collective: 485342 ms listened
+Ween: 485152 ms listened
+Relaxation Piano: 485059 ms listened
+HELLOVENUS: 484734 ms listened
+Nick Hakim: 483840 ms listened
+Great Good Fine Ok: 483597 ms listened
+Jordan Critz: 483220 ms listened
+ZUTOMAYO: 483133 ms listened
+M83: 482880 ms listened
+Paranom: 482835 ms listened
+carwash: 482335 ms listened
+Evanescence: 482220 ms listened
+Parachute: 481724 ms listened
+Carolina Liar: 480932 ms listened
+Belaganas: 480789 ms listened
+Relaxing Piano Music Masters: 480712 ms listened
+John Newman: 479788 ms listened
+Ruth B.: 479741 ms listened
+Ethan Fields: 479550 ms listened
+Laura Shigihara: 479430 ms listened
+The Irish Rovers: 479279 ms listened
+The Who: 479227 ms listened
+Closed on Sunday: 479042 ms listened
+The Happy Children: 478705 ms listened
+Sumire Uesaka: 477859 ms listened
+Seeb: 477843 ms listened
+The Devil Wears Prada: 477581 ms listened
+WizTheMc: 476404 ms listened
+Yuuri: 476093 ms listened
+Zomboy: 475705 ms listened
+Colde: 475002 ms listened
+OH MY GIRL BANHANA: 474206 ms listened
+Graveyardguy: 473815 ms listened
+MIA GLADSTONE: 473763 ms listened
+Tash Sultana: 473752 ms listened
+ITSOKTOCRY: 473198 ms listened
+Girlpool: 472824 ms listened
+Savage Ga$p: 472700 ms listened
+EZI: 472399 ms listened
+SEGA SOUND TEAM: 471581 ms listened
+Mellow Fellow: 471457 ms listened
+Blue Rain Boots: 471169 ms listened
+Peaches: 470966 ms listened
+Daughter: 470586 ms listened
+Mlma: 470034 ms listened
+Maty Noyes: 469816 ms listened
+Matt Champion: 469669 ms listened
+the bird and the bee: 469652 ms listened
+Tennessee Ernie Ford: 469258 ms listened
+Thom Yorke: 468969 ms listened
+Mark Battles: 468712 ms listened
+poutyface: 468422 ms listened
+hooligan chase: 468234 ms listened
+Majida El Roumi: 467882 ms listened
+DEVILOOF: 467661 ms listened
+La Dispute: 467565 ms listened
+VantaVoid: 466772 ms listened
+Day Wave: 466479 ms listened
+JUNE: 466347 ms listened
+ConcernedApe: 465857 ms listened
+Terror Jr: 465440 ms listened
+Mikito P: 465192 ms listened
+CIKI: 463102 ms listened
+The Messenger Birds: 462374 ms listened
+Austin Wintory: 462178 ms listened
+Cerrone: 462000 ms listened
+Diplo: 461093 ms listened
+Shiro SAGISU: 460960 ms listened
+Samsa: 460067 ms listened
+Simpson: 460062 ms listened
+Moontower: 459812 ms listened
+Illa J: 458702 ms listened
+Beast Coast: 458528 ms listened
+wave to earth: 458250 ms listened
+Alaska Thunderfuck: 457879 ms listened
+FalKKonE: 457579 ms listened
+Hoobastank: 457525 ms listened
+Elevator Fight Club: 456874 ms listened
+Limp Bizkit: 456267 ms listened
+Maude Latour: 455751 ms listened
+Devilish Trio: 455152 ms listened
+Trash Boat: 455130 ms listened
+R. City: 454560 ms listened
+Ashtin Larold: 454465 ms listened
+Phoneboy: 454297 ms listened
+Karmin: 454292 ms listened
+The Kite String Tangle: 453924 ms listened
+Bloom Line: 453856 ms listened
+Lee Jin Ah: 453681 ms listened
+Sin Fang: 453601 ms listened
+Valee: 453066 ms listened
+Lil Barnacle: 453014 ms listened
+mazie: 452326 ms listened
+Cepheid: 451783 ms listened
+VÉRITÉ: 451700 ms listened
+Los Retros: 451002 ms listened
+Norberg: 450804 ms listened
+Mili: 450769 ms listened
+Kristofer Maddigan: 450560 ms listened
+Normandie: 450436 ms listened
+Simple Plan: 450326 ms listened
+BADBADNOTGOOD: 450258 ms listened
+Hellogoodbye: 449700 ms listened
+Sean Paul: 449360 ms listened
+ShaqIsDope: 449287 ms listened
+Fifth Harmony: 449146 ms listened
+Dean Lewis: 448855 ms listened
+Hyper Potions: 448552 ms listened
+Greta Van Fleet: 448534 ms listened
+Snoh Aalegra: 448132 ms listened
+SPIDER: 447609 ms listened
+Eddie Higgins: 447366 ms listened
+Aaron Carter: 447238 ms listened
+CUTTS: 446902 ms listened
+Joyner Lucas: 446847 ms listened
+ACME: 446240 ms listened
+Jonwayne: 446200 ms listened
+Flatsound: 446128 ms listened
+KureiYuki's: 446098 ms listened
+Blackway: 445966 ms listened
+Guti: 445962 ms listened
+Dream State: 445672 ms listened
+Chløë Black: 445488 ms listened
+Misun: 445349 ms listened
+LMFAO: 445280 ms listened
+Charles Daisey & Friends: 444909 ms listened
+Otherkin: 444737 ms listened
+SuperMega: 443909 ms listened
+Smash Mouth: 443865 ms listened
+JONGHYUN: 443864 ms listened
+jeebanoff: 443587 ms listened
+Tikkle Me: 443435 ms listened
+Sade: 443357 ms listened
+OuiOui: 442578 ms listened
+Sea Wolf: 442000 ms listened
+Pyotr Ilyich Tchaikovsky: 441573 ms listened
+Rob Thomas: 441493 ms listened
+AOA: 441311 ms listened
+Shoobies: 441288 ms listened
+Heyne: 441030 ms listened
+The Cardigans: 440934 ms listened
+WRENN: 439978 ms listened
+Bombay Bicycle Club: 439786 ms listened
+Johanna Warren: 438952 ms listened
+The Longest Johns: 438920 ms listened
+Less Gravity: 438844 ms listened
+DJ Khalil: 438800 ms listened
+ZAYN: 438600 ms listened
+Ted Ross Quartet: 438508 ms listened
+Whatever, Dad: 438473 ms listened
+Carpool Tunnel: 438400 ms listened
+BbyMutha: 438095 ms listened
+Bill Parker: 438000 ms listened
+The Futureheads: 437696 ms listened
+Bakar: 437641 ms listened
+Spencer.: 437466 ms listened
+Daddy Yankee: 437149 ms listened
+KozyPop: 435990 ms listened
+Lauren Aquilina: 435499 ms listened
+BerryGood Heart Heart: 435112 ms listened
+Robotaki: 435000 ms listened
+why mona: 434822 ms listened
+Steve Miller Band: 434676 ms listened
+Nuvo Orchestra: 434633 ms listened
+JP Saxe: 434596 ms listened
+The Blinders: 434247 ms listened
+Dominic Cooper: 433993 ms listened
+Alffa: 433426 ms listened
+Besphrenz: 433003 ms listened
+Rainsford: 432578 ms listened
+2 Mello: 432295 ms listened
+Liz Lawrence: 432231 ms listened
+Fugazi: 432076 ms listened
+Oklou: 431919 ms listened
+Louis The Child: 431634 ms listened
+Molly Tuttle: 431602 ms listened
+TLC: 431594 ms listened
+Sjowgren: 431559 ms listened
+Lewis Capaldi: 431525 ms listened
+Vlossom: 431256 ms listened
+Maliibu Miitch: 430995 ms listened
+Royal Teeth: 430823 ms listened
+Dua Saleh: 430046 ms listened
+Alice Deejay: 429766 ms listened
+Tay Money: 429494 ms listened
+Sum 41: 429486 ms listened
+Ozuna: 429012 ms listened
+The Hunna: 428835 ms listened
+Miki Fiki: 428768 ms listened
+沙總啊: 428317 ms listened
+Dark Rooms: 428156 ms listened
+Husbands: 427886 ms listened
+Joe P: 427710 ms listened
+NSTASIA: 427594 ms listened
+Death Spells: 427502 ms listened
+Pivot Gang: 427436 ms listened
+Evan Dupell: 427216 ms listened
+B1A4: 427172 ms listened
+underscores: 427043 ms listened
+Yerin Baek: 426932 ms listened
+Ryan Caraveo: 426640 ms listened
+Volbeat: 425794 ms listened
+PinkFantasy: 425546 ms listened
+The Cautious: 425373 ms listened
+Liza Owen: 425300 ms listened
+Willowdale: 424556 ms listened
+Biig Piig: 424506 ms listened
+Red Sun Rising: 424042 ms listened
+Bears In Trees: 424026 ms listened
+Lenny Kravitz: 423866 ms listened
+Harbor & Home: 423596 ms listened
+MYTEEN: 423524 ms listened
+ADORA: 423492 ms listened
+The Dandy Warhols: 423412 ms listened
+RIZ LA VIE: 423344 ms listened
+Chuuwee: 423092 ms listened
+Streaming Music Studios: 422406 ms listened
+Saint Blonde: 421666 ms listened
+STARSET: 421350 ms listened
+The Postal Service: 420919 ms listened
+Kaede: 420473 ms listened
+Moxie: 419776 ms listened
+NCT 127: 419689 ms listened
+22Gz: 419542 ms listened
+Bizarrap: 419302 ms listened
+The Survival Code: 419094 ms listened
+Soulja Boy: 418732 ms listened
+Sunflower Bean: 418042 ms listened
+F.R. David: 418025 ms listened
+Pop Smoke: 417729 ms listened
+Story Untold: 417622 ms listened
+Ultimate New Age: 416999 ms listened
+UNI.T: 416754 ms listened
+Don Diablo: 416400 ms listened
+Johnnie Guilbert: 416274 ms listened
+Kash Doll: 415948 ms listened
+TiaCorine: 415798 ms listened
+Phoebe Ryan: 415682 ms listened
+Jack White: 415663 ms listened
+Takanashi Kiara: 415500 ms listened
+BAYNK: 414465 ms listened
+UNDEAD CORPORATION: 414004 ms listened
+Sticky Fingers: 413648 ms listened
+Maisie Peters: 412998 ms listened
+Live High: 412640 ms listened
+Chris Travis: 412250 ms listened
+NANO: 412120 ms listened
+Loving: 411926 ms listened
+Redbone: 411866 ms listened
+Mal Blum: 411203 ms listened
+Regina Spektor: 410197 ms listened
+UTAH: 410072 ms listened
+Sedona: 409664 ms listened
+Baker Grace: 409268 ms listened
+Mac Ayres: 408699 ms listened
+The Velveteins: 408435 ms listened
+London Yellow: 407959 ms listened
+Lionel Hampton: 407800 ms listened
+Boy Epic: 407622 ms listened
+Cute Is What We Aim For: 407252 ms listened
+L8LOOMER: 407011 ms listened
+Mike Coen: 406960 ms listened
+Oscar Peterson Trio: 406932 ms listened
+Young Zion 6600: 406918 ms listened
+99 Neighbors: 406885 ms listened
+Aaron May: 406839 ms listened
+Superfan: 406522 ms listened
+The Devil Makes Three: 406452 ms listened
+Skylar Grey: 406214 ms listened
+Bhad Bhabie: 405694 ms listened
+DEVO: 405483 ms listened
+Bronze: 405461 ms listened
+E-40: 405440 ms listened
+Elina: 405362 ms listened
+The Rapture: 404691 ms listened
+Willyecho: 404500 ms listened
+Loco: 404285 ms listened
+Hidinin: 404150 ms listened
+Sidney Bechet: 403652 ms listened
+Luke Mitrani: 403520 ms listened
+YUJU: 403360 ms listened
+Young Mister: 403038 ms listened
+Emarosa: 402226 ms listened
+Brad Mehldau Trio: 402133 ms listened
+Amigo the Devil: 402000 ms listened
+Brown Noise for Babies: 401837 ms listened
+Gary Moore: 401814 ms listened
+Giveon: 401561 ms listened
+Hands Like Houses: 401200 ms listened
+Night Tempo: 401102 ms listened
+落日飛車 Sunset Rollercoaster: 400560 ms listened
+Sixpence None The Richer: 400480 ms listened
+Rag'n'Bone Man: 400372 ms listened
+Cosmo's Midnight: 400132 ms listened
+The Downtown Fiction: 399918 ms listened
+Denyah: 399798 ms listened
+Luc Brooks: 399476 ms listened
+Lil Spryte: 398784 ms listened
+Ella Fitzgerald: 398758 ms listened
+Cousin Stizz: 398532 ms listened
+Jagwar Twin: 398350 ms listened
+Zen Lullaby: 397998 ms listened
+Pearly Drops: 397934 ms listened
+Maverick Sabre: 397733 ms listened
+Mike Krol: 397598 ms listened
+Love Tapes: 397530 ms listened
+Grace VanderWaal: 397338 ms listened
+Bladee: 396851 ms listened
+DEAD BLONDE: 396397 ms listened
+Underoath: 396052 ms listened
+marcos g: 396000 ms listened
+The Zolas: 395805 ms listened
+Rocket Punch: 395688 ms listened
+Lunachicks: 395684 ms listened
+Jae Stephens: 395292 ms listened
+MUTANT MONSTER: 395145 ms listened
+Parov Stelar: 395012 ms listened
+Chinozo: 394420 ms listened
+Siouxsie and the Banshees: 394026 ms listened
+OVERSTREET: 393440 ms listened
+Mamãe e Bebê: 393278 ms listened
+Tom Ashbrook: 392791 ms listened
+Oh Wonder: 392753 ms listened
+Vincent Mango: 392513 ms listened
+j-hope: 392484 ms listened
+REYNA: 392430 ms listened
+Hot Milk: 392329 ms listened
+Papooz: 392261 ms listened
+DPR LIVE: 392132 ms listened
+Bahamas: 392013 ms listened
+KANGDANIEL: 390666 ms listened
+GYEONG REE: 390620 ms listened
+Pete And The Pirates: 390292 ms listened
+WESLEE: 390063 ms listened
+Asian Meditation Music Collective: 389000 ms listened
+BLACKTOP QUEEN: 388732 ms listened
+Avalon: 388404 ms listened
+wowaka: 388000 ms listened
+Gabbie Hanna: 387852 ms listened
+Seether: 387786 ms listened
+Samia: 387500 ms listened
+The Maccabees: 386573 ms listened
+Grizzly Bear: 386505 ms listened
+Oracle Sisters: 386485 ms listened
+Johnny Orlando: 386484 ms listened
+Dillon Francis: 386197 ms listened
+Amber Mark: 386157 ms listened
+Federico Dubbini: 385170 ms listened
+GRAVEDGR: 384734 ms listened
+GSoul: 384720 ms listened
+BIG Naughty: 384666 ms listened
+spookyghostboy: 384497 ms listened
+AlicebanD: 384380 ms listened
+Sik World: 384341 ms listened
+Chick Corea: 384214 ms listened
+Brody Dalle: 383976 ms listened
+Hello Operator: 383530 ms listened
+PRODUCE 48: 383413 ms listened
+Octo Octa: 383369 ms listened
+CHROMA: 383135 ms listened
+Miss Benny: 382973 ms listened
+Krovostok: 382745 ms listened
+N.Flying: 382452 ms listened
+boylife: 381741 ms listened
+Cassie Marin: 381459 ms listened
+Sorry: 381333 ms listened
+Mike WiLL Made-It: 381139 ms listened
+Olivia Newton-John: 381127 ms listened
+Sun Kil Moon: 381040 ms listened
+hometown & young: 381036 ms listened
+Juana Sueño: 381000 ms listened
+Olen: 380677 ms listened
+Zaia: 380244 ms listened
+Blue October: 380200 ms listened
+Ellie Johnson Trio: 379746 ms listened
+YENA: 379679 ms listened
+niko+: 378610 ms listened
+Flower Face: 378407 ms listened
+Lizz Robinett: 377893 ms listened
+Cyn: 377880 ms listened
+King Harvest: 377556 ms listened
+The Doozers: 377284 ms listened
+Alexis Jordan: 376978 ms listened
+Khalil?: 376124 ms listened
+Teddy Wilson: 375492 ms listened
+Medusa: 375368 ms listened
+Zack Fox: 375357 ms listened
+illuminati hotties: 375152 ms listened
+Desired: 375097 ms listened
+Yeat sped up: 375020 ms listened
+Sofía Reyes: 374400 ms listened
+Tipling Rock: 374371 ms listened
+Lil Xan: 374346 ms listened
+LUCKI: 374220 ms listened
+Nataly Dawn: 374092 ms listened
+UZ: 374072 ms listened
+Erica Banks: 374000 ms listened
+Kittie: 373732 ms listened
+Watt White: 373592 ms listened
+recovery girl: 373342 ms listened
+Lucidious: 372406 ms listened
+Worn-Tin: 372053 ms listened
+Matchbox Twenty: 371995 ms listened
+Imelda May: 371799 ms listened
+Gavin DeGraw: 371646 ms listened
+Hashtag: 371636 ms listened
+Zack Villere: 371407 ms listened
+Lomelda: 371006 ms listened
+Tyler Bryant & the Shakedown: 370932 ms listened
+Frah Quintale: 370896 ms listened
+Alice Merton: 370720 ms listened
+RuPaul: 370700 ms listened
+filous: 370644 ms listened
+Blue Foster: 370515 ms listened
+Holy Fuck: 370426 ms listened
+SATICA: 370000 ms listened
+Amir Obe: 369698 ms listened
+majiko: 369508 ms listened
+JEON SOMI: 369405 ms listened
+Riot Ten: 369233 ms listened
+Restaurant Music Love: 368314 ms listened
+Kenny Burrell: 368000 ms listened
+Chester Watson: 367809 ms listened
+LAY: 367386 ms listened
+TEEKS: 367329 ms listened
+Arch Leaves: 366904 ms listened
+Milo: 366894 ms listened
+SR-71: 366825 ms listened
+Peach PRC: 364956 ms listened
+DJ Jazzy Jeff & The Fresh Prince: 364871 ms listened
+Magroove: 364382 ms listened
+JAMIE: 364365 ms listened
+Gupi: 364252 ms listened
+Timbaland: 364133 ms listened
+JAY-Z: 363832 ms listened
+Junior Senior: 363812 ms listened
+Sidney Samson: 363353 ms listened
+Sawyer Nunes: 363277 ms listened
+SiR: 363188 ms listened
+Rick and Morty: 363012 ms listened
+Girl Crush: 362850 ms listened
+UPLIFT SPICE: 362560 ms listened
+Hey Steve: 362555 ms listened
+Steven Wilson: 362518 ms listened
+Sori: 362446 ms listened
+⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ: 362359 ms listened
+Måns & Dotter: 361928 ms listened
+Ollie Joseph: 361900 ms listened
+Donatachi: 361824 ms listened
+Supakaine: 361362 ms listened
+Dessa: 361160 ms listened
+YBN Nahmir: 360778 ms listened
+AQUA: 360556 ms listened
+Anne-Marie: 360547 ms listened
+Current Blue: 360003 ms listened
+infinite bisous: 359740 ms listened
+Corey Harper: 359569 ms listened
+Daya: 359490 ms listened
+NakamuraEmi: 359126 ms listened
+Anna Burch: 358949 ms listened
+Island Apollo: 358165 ms listened
+Nature Sounds Rec: 358000 ms listened
+Liv Dawson: 357682 ms listened
+Ian Brown: 357560 ms listened
+Sonny Stitt: 357520 ms listened
+YNW Melly: 357192 ms listened
+Spoon: 356612 ms listened
+Skillet: 356026 ms listened
+HANA: 355739 ms listened
+Dan Talevski: 355700 ms listened
+Cha Eun-Woo: 354734 ms listened
+Vindata: 354708 ms listened
+HAIL: 353852 ms listened
+SVEA: 353837 ms listened
+San Cisco: 353732 ms listened
+Housecall: 353072 ms listened
+Allday: 352898 ms listened
+Faster: 352756 ms listened
+The Turtles: 352585 ms listened
+Ravenna Golden: 352237 ms listened
+Beartooth: 352054 ms listened
+Burna Boy: 351899 ms listened
+Drama B: 351474 ms listened
+Case Arnold: 351144 ms listened
+Blonder: 351126 ms listened
+Softcult: 350840 ms listened
+BabyTron: 350684 ms listened
+Dizzy Fae: 350657 ms listened
+The Foundations: 350605 ms listened
+Burger King: 350498 ms listened
+Sam Tinnesz: 350448 ms listened
+The Magic Gang: 349982 ms listened
+Grebes: 349918 ms listened
+Billie Holiday: 349734 ms listened
+Jordan Clarke: 349600 ms listened
+SIX: 349585 ms listened
+D-CRUNCH: 349224 ms listened
+Bishop Nehru: 348680 ms listened
+Nina West: 348521 ms listened
+DAKOOKA: 348047 ms listened
+Meditative Guru: 348000 ms listened
+carobae: 347645 ms listened
+Jesse Jo Stark: 347412 ms listened
+Yoh kamiyama: 347141 ms listened
+Blonde Tongues: 347000 ms listened
+Artist Vs Poet: 346843 ms listened
+Ben Medcalf: 346794 ms listened
+Geek Music: 346667 ms listened
+Felly: 345274 ms listened
+Lil Wayne: 345198 ms listened
+Le$: 344832 ms listened
+NAYEON: 344524 ms listened
+Mereba: 344214 ms listened
+Mariah the Scientist: 343964 ms listened
+The Slaps: 343745 ms listened
+plasterbrain: 343077 ms listened
+POP ETC: 342771 ms listened
+DRAM: 342746 ms listened
+Tropical Fuck Storm: 342551 ms listened
+Quando Rondo: 342548 ms listened
+Jule Vera: 342480 ms listened
+Deep Purple: 342173 ms listened
+Pressa: 342000 ms listened
+The Ballroom Thieves: 341820 ms listened
+Roderick Porter: 341812 ms listened
+jizue: 341613 ms listened
+Calm Stress Oasis Relief: 341000 ms listened
+2 Pianos: 340856 ms listened
+Jaco Pastorius: 340574 ms listened
+toast: 340152 ms listened
+Lil Float: 340078 ms listened
+Ecco2k: 340043 ms listened
+SF9: 340022 ms listened
+The Subways: 339892 ms listened
+Dead Or Alive: 338991 ms listened
+Ruston Kelly: 338338 ms listened
+Steve Aoki: 338162 ms listened
+Raon: 337894 ms listened
+Leadley: 337661 ms listened
+Luke Christopher: 337542 ms listened
+The xx: 337190 ms listened
+Stephen Sanchez: 336990 ms listened
+Prince Fox: 336960 ms listened
+Florist: 336522 ms listened
+Jess Glynne: 336500 ms listened
+Dax: 336000 ms listened
+Hall Johnson: 335767 ms listened
+The Irrepressibles: 335127 ms listened
+Chlöe: 335017 ms listened
+Zhavia: 334640 ms listened
+Modern Talking: 334600 ms listened
+Jase Harley: 334095 ms listened
+Deep Sea Peach Tree: 334036 ms listened
+Moses Sumney: 333760 ms listened
+Stellar: 332710 ms listened
+Zak Abel: 332460 ms listened
+Biometrix: 332424 ms listened
+Elmo Hope Trio: 332132 ms listened
+Camellia: 332000 ms listened
+Talladega: 331500 ms listened
+Phony Ppl: 330944 ms listened
+The Cure: 330672 ms listened
+Ryan Leahan: 330311 ms listened
+Stevie Nicks: 329413 ms listened
+Roadtrip: 329360 ms listened
+Jaira Burns: 329323 ms listened
+VINNE: 328873 ms listened
+Mikel: 328532 ms listened
+The Brew: 328386 ms listened
+Chloe Lilac: 328332 ms listened
+MOTi: 327619 ms listened
+Jessica Pratt: 327618 ms listened
+Teenage Wrist: 327485 ms listened
+Cate Le Bon: 327198 ms listened
+Kids That Fly: 326744 ms listened
+Akintoye: 326560 ms listened
+Kira Kosarin: 326463 ms listened
+The Backpack Kid: 326140 ms listened
+Jefferson Airplane: 325480 ms listened
+Galantis: 324720 ms listened
+FANATICS-FLAVOR: 324503 ms listened
+Christian Hansen & the Autistics: 324400 ms listened
+Zach Bryan: 323073 ms listened
+Makari: 322468 ms listened
+Oh Pep!: 322180 ms listened
+Joe Pass: 321951 ms listened
+Smooth McGroove: 321824 ms listened
+Cities Aviv: 321480 ms listened
+Immolation: 320616 ms listened
+The Phantoms: 320579 ms listened
+何小瘋: 320506 ms listened
+Bendigo Fletcher: 320339 ms listened
+Bobby Day: 320160 ms listened
+Apocalyptica: 319984 ms listened
+FrankJavCee: 319066 ms listened
+Fear, and Loathing in Las Vegas: 319009 ms listened
+LUMiN: 318845 ms listened
+Quasimoto: 317757 ms listened
+george: 317506 ms listened
+Salina Killa: 317396 ms listened
+Lil Tjay: 317251 ms listened
+The Don Mason Trio: 317238 ms listened
+Honeywhip: 316986 ms listened
+Larkin Poe: 316945 ms listened
+Leathermouth: 316879 ms listened
+MAKJ: 316522 ms listened
+atlas: 316463 ms listened
+The Black Angels: 316453 ms listened
+T-Shawn: 316410 ms listened
+Eternal Repose: 315999 ms listened
+The Beverly Chills: 315638 ms listened
+MIKNNA: 315546 ms listened
+Robert Palmer: 315318 ms listened
+The Original Movies Orchestra: 314798 ms listened
+fin: 314047 ms listened
+Magic Man: 313969 ms listened
+Westerman: 313843 ms listened
+black midi: 313720 ms listened
+Domo Genesis: 313639 ms listened
+Adam Lambert: 313486 ms listened
+Mário Laginha: 313199 ms listened
+Anthony Ramos: 312932 ms listened
+LEO: 312517 ms listened
+Elskavon: 312419 ms listened
+Lady Lamb: 312106 ms listened
+Fangclub: 312011 ms listened
+White Noise Maker: 311996 ms listened
+LUNA AURA: 311360 ms listened
+Rachel Platten: 311169 ms listened
+James Yorkston: 310921 ms listened
+CAMILA: 310902 ms listened
+PENOMECO: 309814 ms listened
+Paul Anka: 309813 ms listened
+Philip Brooks: 309652 ms listened
+Doruksen: 309294 ms listened
+Disasterpeace: 309225 ms listened
+Type O Negative: 308826 ms listened
+Cojum Dip: 308782 ms listened
+Clara Mae: 308120 ms listened
+Oakwood Station: 308104 ms listened
+Novacane: 307826 ms listened
+Alkaline Trio: 307680 ms listened
+Thelma Plum: 307485 ms listened
+Fukkit: 306946 ms listened
+Blu Cantrell: 306102 ms listened
+30: 305949 ms listened
+Philip Bailey: 305867 ms listened
+Shadows Fall: 305360 ms listened
+Olivia Knight: 305242 ms listened
+Roy Orbison: 305022 ms listened
+Young Collective: 304726 ms listened
+CMTEN: 304541 ms listened
+Bingo Players: 304262 ms listened
+Goodie Bag: 303782 ms listened
+MEDUZA: 303302 ms listened
+Ashes To Amber: 303156 ms listened
+二口魔菜 Futakuchi Mana: 302922 ms listened
+Boy In Space: 302801 ms listened
+The Olés: 302592 ms listened
+Joe Kaplow: 302360 ms listened
+Chris Webby: 302159 ms listened
+The Kinks: 302137 ms listened
+RAISE A SUILEN: 301500 ms listened
+The 88: 301053 ms listened
+Danny and Alex: 301048 ms listened
+Jim Richter: 300883 ms listened
+Tory Lanez: 300544 ms listened
+Yat-Kha: 300398 ms listened
+The Shed: 300186 ms listened
+Trevi Moran: 300097 ms listened
+Wild Cherry: 300000 ms listened
+Amanda Seales: 299772 ms listened
+A R I Z O N A: 299620 ms listened
+Blai$y: 299318 ms listened
+D12: 298773 ms listened
+your best friend jippy: 298297 ms listened
+Totally Enormous Extinct Dinosaurs: 298187 ms listened
+Agnes Obel: 298113 ms listened
+Jiwoo: 298000 ms listened
+Comethazine: 297524 ms listened
+KenTheMan: 297414 ms listened
+Hikari Shiina: 297332 ms listened
+ARIETE: 297303 ms listened
+Ari Lennox: 297239 ms listened
+Electric Six: 297105 ms listened
+Crisaunt: 297025 ms listened
+Easy Listening Piano: 296999 ms listened
+Ten Tonnes: 296794 ms listened
+Stone Sour: 296400 ms listened
+Varsity: 296286 ms listened
+Garoad: 295271 ms listened
+OCEANS: 295040 ms listened
+Médecine Relaxante: 294996 ms listened
+柊マグネタイト: 294559 ms listened
+Mariya Takeuchi: 294493 ms listened
+煮ル果実: 293435 ms listened
+Dying Fetus: 293387 ms listened
+RIOT: 292915 ms listened
+slenderbodies: 292825 ms listened
+Isle of Eight: 292803 ms listened
+888: 291911 ms listened
+Momma: 291840 ms listened
+Cameron Azi: 291732 ms listened
+midwxst: 291367 ms listened
+Ken Carson: 291048 ms listened
+Houndstooth: 291026 ms listened
+NONA REEVES: 290960 ms listened
+Upon A Burning Body: 290905 ms listened
+LeviathanJPTV: 290228 ms listened
+Cameo: 290057 ms listened
+Madame: 290001 ms listened
+The Fleetwoods: 289866 ms listened
+Sickick: 289600 ms listened
+Baby FuzZ: 289048 ms listened
+Breathe Carolina: 288853 ms listened
+Scorpions: 288827 ms listened
+Seal: 288426 ms listened
+Red Vox: 288284 ms listened
+Calpurnia: 288240 ms listened
+3l3d3p: 288000 ms listened
+WayV: 287805 ms listened
+Radical Face: 287634 ms listened
+The Pointer Sisters: 287013 ms listened
+keeno: 286965 ms listened
+Stars On 45: 286580 ms listened
+Destery Smith: 286395 ms listened
+Hannah Cohen: 286281 ms listened
+Oso Oso: 286256 ms listened
+Captain Kidd: 286252 ms listened
+Hans.: 286172 ms listened
+NOTHING MORE: 285618 ms listened
+Descendents: 285097 ms listened
+BAYLI: 284841 ms listened
+Roselia: 284833 ms listened
+Valiant Vermin: 284587 ms listened
+Cochise: 284250 ms listened
+Porches: 284063 ms listened
+King Geedorah: 283920 ms listened
+Cortes: 283859 ms listened
+ASHS: 283840 ms listened
+Bear's Den: 283701 ms listened
+Cat Dealers: 283631 ms listened
+John K: 283213 ms listened
+Madds Buckley: 282866 ms listened
+The Smithereens: 282866 ms listened
+Rubi Rose: 282783 ms listened
+Gustav Lundgren: 282708 ms listened
+Rush: 282615 ms listened
+Lights: 282228 ms listened
+The Wonder Years: 282080 ms listened
+2 Chainz: 281826 ms listened
+MEG MYERS: 281712 ms listened
+Wallice: 281344 ms listened
+EDEN: 281326 ms listened
+Tsuko G.: 281171 ms listened
+Jin Hashimoto: 281061 ms listened
+Bloodbath: 280893 ms listened
+Elizabeth: 280875 ms listened
+Chaka Khan: 280853 ms listened
+38 Special: 280636 ms listened
+BLIND.SEE: 280251 ms listened
+The Galleria: 280171 ms listened
+August Eve: 280125 ms listened
+Baby Rose: 280002 ms listened
+Daniela Andrade: 279813 ms listened
+Andrew Huang: 279775 ms listened
+Cello: 279589 ms listened
+Within The Ruins: 279376 ms listened
+Honey and the Sting: 279222 ms listened
+Atomic Cafe: 279128 ms listened
+Chumbawamba: 278960 ms listened
+Capcom Sound Team: 278787 ms listened
+Thomston: 278674 ms listened
+Kordhell: 278565 ms listened
+Hitorie: 278506 ms listened
+Counting Crows: 278339 ms listened
+Dream: 278330 ms listened
+Dori Valentine: 278178 ms listened
+Champagne Lane: 278011 ms listened
+Finch: 277802 ms listened
+Clams Casino: 277710 ms listened
+Big Data: 277653 ms listened
+Novaa: 277514 ms listened
+AIKA: 277500 ms listened
+Five Finger Death Punch: 277356 ms listened
+Aurelio Voltaire: 277301 ms listened
+Amindi: 277282 ms listened
+Soothing Motion: 277000 ms listened
+sophie meiers: 276758 ms listened
+Blue Kid: 276648 ms listened
+Dom McLennon: 276521 ms listened
+Ronnie Robinson Trio: 276386 ms listened
+Slow Magic: 276299 ms listened
+Doves: 276265 ms listened
+RICEWINE: 276194 ms listened
+Evelyn Evelyn: 276173 ms listened
+TWINKIDS: 276172 ms listened
+Sophia Gonzon: 276114 ms listened
+Entspannungsmusik Klavier Akademie: 276068 ms listened
+Far Caspian: 276007 ms listened
+Body Drops: 275816 ms listened
+DaBaby: 275699 ms listened
+Priest: 275613 ms listened
+Rendez Vous: 275390 ms listened
+The Lounge Society: 275376 ms listened
+Big Rude Jake: 275240 ms listened
+Baby Mozart: 275036 ms listened
+Boogymann: 274390 ms listened
+Lights & Motion: 274384 ms listened
+Tabby: 274095 ms listened
+KOPPS: 274068 ms listened
+Thomas Rouzic: 273882 ms listened
+Les Gold: 273257 ms listened
+Jessie J: 273249 ms listened
+Carcass: 273160 ms listened
+Michael Gira: 272933 ms listened
+The 1-800: 272926 ms listened
+Ten Thirty Trio: 272819 ms listened
+The Sleeping: 272786 ms listened
+Daniel Skye: 272603 ms listened
+J Mascis: 272475 ms listened
+Christopher Lennertz: 272447 ms listened
+Robyn: 272327 ms listened
+Ryan Bingham: 272024 ms listened
+The Ben Webster Quintet: 271893 ms listened
+Wild Cub: 271441 ms listened
+Eric Prydz: 270820 ms listened
+M.S. Art: 270143 ms listened
+EVADE FROM 宇宙: 270008 ms listened
+The Man Who: 269679 ms listened
+The Polarity: 269672 ms listened
+Hawthorne Heights: 269628 ms listened
+Skylar Spence: 269499 ms listened
+The Beta Machine: 269320 ms listened
+Saint Etienne: 269240 ms listened
+Carlton Maison Quartet: 269176 ms listened
+Turin Brakes: 269053 ms listened
+Amy Turk: 268827 ms listened
+Blacktop Mojo: 268812 ms listened
+Veil Of Maya: 268743 ms listened
+Brad stank: 268537 ms listened
+PSYQUI: 268500 ms listened
+American Football: 268333 ms listened
+Jack Harlow: 268321 ms listened
+Gyze: 268181 ms listened
+Royal Philharmonic Orchestra: 268051 ms listened
+EileMonty: 267795 ms listened
+DeBarge: 267733 ms listened
+She Wants Revenge: 267653 ms listened
+The LaFontaines: 267598 ms listened
+Hailaker: 267493 ms listened
+N.E.R.D: 267337 ms listened
+Anime Zing: 266965 ms listened
+Harumakigohan: 266874 ms listened
+austenyo: 266784 ms listened
+Ant Saunders: 266758 ms listened
+w-inds.: 266746 ms listened
+Puma Blue: 266733 ms listened
+twst: 266731 ms listened
+RADWIMPS: 266594 ms listened
+The Presets: 266560 ms listened
+The Echelon Effect: 266543 ms listened
+Tom Cochrane: 266080 ms listened
+Pritam: 266053 ms listened
+BRIDEAR: 265984 ms listened
+Romantic Music Ensemble: 265914 ms listened
+Hong Ting: 265826 ms listened
+BUCK-TICK: 265599 ms listened
+Oasis: 265349 ms listened
+Hilma Nikolaisen: 265214 ms listened
+Chewie Melodies: 265046 ms listened
+J-Kwon: 264815 ms listened
+StayLoose: 264389 ms listened
+Death: 263773 ms listened
+JO☆STARS 〜TOMMY,Coda,JIN〜: 263566 ms listened
+Rusted Root: 263360 ms listened
+Rabbit Junk: 263253 ms listened
+Ollie Byrd: 262873 ms listened
+emon(Tes.): 262500 ms listened
+Chamillionaire: 262463 ms listened
+George Salazar: 262391 ms listened
+Billy Marchiafava: 262210 ms listened
+Zach Callison: 262124 ms listened
+SPILT: 262099 ms listened
+Iglooghost: 262081 ms listened
+Placebo: 261720 ms listened
+Päter: 261712 ms listened
+Mushi-P: 261472 ms listened
+SURAN: 261427 ms listened
+GALNERYUS: 261252 ms listened
+The Red Chord: 261186 ms listened
+$ubjectz: 261120 ms listened
+DESURABBITS: 261026 ms listened
+Bernice: 260826 ms listened
+The Ghost Club: 260504 ms listened
+Twain: 260453 ms listened
+fkbambam: 260378 ms listened
+Nana Grizol: 260280 ms listened
+MOD SUN: 260181 ms listened
+HOYO-MiX: 259538 ms listened
+CHISEKO: 259511 ms listened
+Prinze George: 259221 ms listened
+11 Acorn Lane: 259174 ms listened
+Vierre Cloud: 259086 ms listened
+趙寒: 258968 ms listened
+UVERworld: 258706 ms listened
+N.W.A.: 258687 ms listened
+아홉소녀들: 258526 ms listened
+Jimi Somewhere: 258490 ms listened
+The Federal Empire: 258437 ms listened
+Dead Kennedys: 258360 ms listened
+Gabrielle Graves: 258325 ms listened
+bear: 258253 ms listened
+The Rasmus: 257920 ms listened
+VHS Collection: 257798 ms listened
+MASA WORKS DESIGN: 257558 ms listened
+French For Rabbits: 257506 ms listened
+Fox Academy: 257351 ms listened
+N i G H T S: 257086 ms listened
+Sueco: 257080 ms listened
+Marc E. Bassy: 256904 ms listened
+BURST GIRL: 256731 ms listened
+Kelly Marie: 256666 ms listened
+Jaymes Young: 256260 ms listened
+Disclosure: 255866 ms listened
+Turnover: 255773 ms listened
+BRADIO: 255722 ms listened
+Girls Rituals: 255402 ms listened
+Keyshia Cole: 255333 ms listened
+FLOOR CRY: 255136 ms listened
+suggi: 255084 ms listened
+RAVI: 255080 ms listened
+SBGB: 254866 ms listened
+In This Moment: 254811 ms listened
+Alexander 23: 254559 ms listened
+Bill Withers: 254516 ms listened
+The Stone Foxes: 254443 ms listened
+Scarlett: 254143 ms listened
+Ego States: 254011 ms listened
+Consolidated: 253973 ms listened
+Wasuta: 253960 ms listened
+FAKY: 253900 ms listened
+Bedtime Songs Collective: 253654 ms listened
+D4L: 253386 ms listened
+Cassyette: 253315 ms listened
+Amaranthe: 253293 ms listened
+Jim's Big Ego: 253200 ms listened
+Ocean Alley: 253076 ms listened
+The Notorious B.I.G.: 252746 ms listened
+Cassius: 252373 ms listened
+Ballroom Jazz Collective: 252315 ms listened
+Paradise Fears: 252309 ms listened
+The Gap Band: 252306 ms listened
+nascar aloe: 252025 ms listened
+MORGENSHTERN: 252000 ms listened
+Bassnectar: 251704 ms listened
+You vs Yesterday: 251560 ms listened
+Randa: 251518 ms listened
+Cryptopsy: 251493 ms listened
+Screaming Females: 251480 ms listened
+Jimmy Buffett: 250933 ms listened
+LIL DUSTY G: 250662 ms listened
+Oh Land: 250534 ms listened
+Coastal Club: 250307 ms listened
+Sleepy Hallow: 250072 ms listened
+Brooke Bentham: 250032 ms listened
+Somni: 250032 ms listened
+Alex Aiono: 249998 ms listened
+Bear Attack!: 249900 ms listened
+Palace: 249840 ms listened
+Early Hours: 249800 ms listened
+Terror Reid: 249711 ms listened
+Dan Salvato: 249506 ms listened
+Mika Kobayashi: 249491 ms listened
+Yin And Yang: 249453 ms listened
+pH-1: 249351 ms listened
+Motaki: 249115 ms listened
+KARD: 249096 ms listened
+Mindy Gledhill: 248946 ms listened
+Channel Tres: 248764 ms listened
+Honey Gentry: 248653 ms listened
+Roll Over White: 248600 ms listened
+Callaway Martin: 248500 ms listened
+Bleached: 248474 ms listened
+Juicy J: 248386 ms listened
+The Revels: 248323 ms listened
+Marty Robbins: 248298 ms listened
+Trinity the Tuck: 248262 ms listened
+Austin Farwell: 248217 ms listened
+Burn The Ballroom: 248196 ms listened
+The Long Winters: 248123 ms listened
+Ark Patrol: 248056 ms listened
+Blondes: 247999 ms listened
+The Family Crest: 247952 ms listened
+Wings: 247733 ms listened
+Edward Maya: 247615 ms listened
+Nathaniel Rateliff & The Night Sweats: 247612 ms listened
+SATURDAY: 247517 ms listened
+Talkie: 247506 ms listened
+Netherfriends: 247421 ms listened
+Rad Museum: 247420 ms listened
+Lowercase Noises: 247413 ms listened
+Lazuli Vane: 247328 ms listened
+Sleepy Dog: 247267 ms listened
+The Ting Tings: 247105 ms listened
+The Last Artful, Dodgr: 247025 ms listened
+Connan Mockasin: 246997 ms listened
+Manwolves: 246973 ms listened
+Lonely The Brave: 246770 ms listened
+VERIVERY: 246617 ms listened
+Galaxy Family: 246518 ms listened
+Emeli Sandé: 246506 ms listened
+Cuban Doll: 246500 ms listened
+miss A: 246446 ms listened
+Front Porch Step: 246240 ms listened
+Cam O'bi: 245985 ms listened
+Roger Taylor: 245973 ms listened
+Caribou: 245960 ms listened
+ionnalee: 245866 ms listened
+John Lennon: 245693 ms listened
+Children Of Bodom: 245626 ms listened
+Describer: 245618 ms listened
+Clea Vincent: 245400 ms listened
+The Keystones: 245206 ms listened
+S.I.S.: 245180 ms listened
+Alesso: 245004 ms listened
+AKTHESAVIOR: 244948 ms listened
+The Pretty Things: 244906 ms listened
+Mega Shinnosuke: 244636 ms listened
+Girls' Generation: 244594 ms listened
+Mïrändä: 244532 ms listened
+Cameron Avery: 244427 ms listened
+RM: 244182 ms listened
+Alex & Sierra: 244000 ms listened
+Brand New: 243985 ms listened
+D.O.: 243809 ms listened
+Cemetery Drive: 243803 ms listened
+Nicole Atkins: 243769 ms listened
+The Licks: 243645 ms listened
+Blimes and Gab: 243535 ms listened
+Nature on Record: 243480 ms listened
+Misako Aoki: 243464 ms listened
+Pillow Music Ensamble: 243438 ms listened
+Great Gable: 243131 ms listened
+Mellah: 243079 ms listened
+Calva Louise: 243001 ms listened
+CSS: 242783 ms listened
+The Blasting Company: 242736 ms listened
+d4vd: 242485 ms listened
+KLOUD: 242330 ms listened
+Mariah Carey: 242200 ms listened
+Nectar: 242115 ms listened
+Ball Park Music: 242039 ms listened
+John: 242005 ms listened
+Omoinotake: 241866 ms listened
+Cisco Adler: 241820 ms listened
+BLAISE MOORE: 241739 ms listened
+Melanie Faye: 241603 ms listened
+Harlo: 241475 ms listened
+dhruv: 241458 ms listened
+Theophilus London: 241176 ms listened
+a crowd of rebellion: 241159 ms listened
+Christopher Halligan: 240976 ms listened
+Crayon Pop: 240951 ms listened
+Michiel Schrey: 240904 ms listened
+Powerwolf: 240858 ms listened
+Coolio: 240693 ms listened
+Thee Sacred Souls: 240653 ms listened
+Hentai Xander: 240602 ms listened
+KAMI: 240454 ms listened
+Hector Gachan: 240316 ms listened
+Slaughter Beach, Dog: 240267 ms listened
+Cutting Crew: 240186 ms listened
+Paris Paloma: 240112 ms listened
+Real Friends: 239914 ms listened
+RAYE: 239888 ms listened
+Yoshiki: 239752 ms listened
+REO Speedwagon: 239680 ms listened
+Joe Walsh: 239646 ms listened
+Yppah: 239533 ms listened
+Shag Rock: 239226 ms listened
+Lipps Inc.: 239226 ms listened
+Chloe Foy: 239179 ms listened
+Young Nudy: 239168 ms listened
+Ray Parker Jr.: 239133 ms listened
+Rad Horror: 239119 ms listened
+Route 94: 239107 ms listened
+offonoff: 239003 ms listened
+LEISURE: 239000 ms listened
+Sapphire: 238926 ms listened
+Yuuyu: 238906 ms listened
+hachi: 238874 ms listened
+Kyle Bent: 238814 ms listened
+Moon Boots: 238802 ms listened
+Hey Monday: 238733 ms listened
+Aqua: 238670 ms listened
+Sody: 238646 ms listened
+Zardonic: 238629 ms listened
+Kabaret Sybarit: 238493 ms listened
+QT: 238489 ms listened
+Cyndi Lauper: 238266 ms listened
+Rockwell: 237760 ms listened
+Island Police: 237272 ms listened
+Daughter of Swords: 237124 ms listened
+Air Supply: 237107 ms listened
+Toby Keith: 236778 ms listened
+Barry Manilow: 236760 ms listened
+Career Woman: 236650 ms listened
+Plustwo: 236588 ms listened
+Polite Fiction: 236586 ms listened
+Prince of Eden: 236500 ms listened
+Kreayshawn: 236386 ms listened
+SayWeCanFly: 236237 ms listened
+Jin: 235856 ms listened
+Michael Medrano: 235722 ms listened
+NoMBe: 235653 ms listened
+People In The Box: 235306 ms listened
+Cryoshell: 235207 ms listened
+Aliotta Haynes Jeremiah: 235173 ms listened
+Crusher-P: 235102 ms listened
+A Great Big World: 235042 ms listened
+Arlington: 234760 ms listened
+CjayQ: 234756 ms listened
+Modern Day Miracle: 234747 ms listened
+Terraplane Sun: 234613 ms listened
+The Click Five: 234146 ms listened
+Jermango Dreaming: 233907 ms listened
+Evelyn Thomas: 233866 ms listened
+SirLofi: 233770 ms listened
+Chicken: 233759 ms listened
+AOBeats: 233681 ms listened
+Nightmare: 233632 ms listened
+jenny nuo: 233538 ms listened
+Black Dresses: 233507 ms listened
+Kalaido: 233414 ms listened
+Ekoh: 233335 ms listened
+Bullet For My Valentine: 233325 ms listened
+Left at London: 233304 ms listened
+Tribal Drums Ambient: 233277 ms listened
+CHANCE デラソウル: 233266 ms listened
+WAAX: 232979 ms listened
+Cissie Redgwick: 232941 ms listened
+XANAKIN SKYWOK: 232918 ms listened
+Bobby Womack: 232917 ms listened
+SOB X RBE: 232889 ms listened
+laye: 232639 ms listened
+Anime Project: 232500 ms listened
+GHUM: 232484 ms listened
+Jibaku Shonen Band: 232413 ms listened
+Alexander Stewart: 232340 ms listened
+Tubbo: 232103 ms listened
+Parsley Onuma: 232012 ms listened
+Worthikids: 231970 ms listened
+Jessie Reyez: 231923 ms listened
+Tila Tsoli: 231918 ms listened
+Charlie Regan Three: 231689 ms listened
+Mick Jenkins: 231669 ms listened
+Mitchie M: 231560 ms listened
+Arms Akimbo: 231540 ms listened
+Nao: 231466 ms listened
+Skandra: 231453 ms listened
+Kae $oul: 231291 ms listened
+Sabaton: 231000 ms listened
+Kollen: 230973 ms listened
+The Holloways: 230791 ms listened
+Rayland Baxter: 230786 ms listened
+Mystery Jets: 230782 ms listened
+No Money Kids: 230692 ms listened
+Onslaught: 230680 ms listened
+NAV: 230579 ms listened
+Simon Viklund: 230566 ms listened
+Molina: 230491 ms listened
+Keaton Henson: 230306 ms listened
+The Cars: 230252 ms listened
+Moonside Trio: 230192 ms listened
+C4FF31N3: 230041 ms listened
+Serj Tankian: 230026 ms listened
+Ah-Mer-Ah-Su: 229857 ms listened
+Mind Shrine: 229737 ms listened
+マルシィ: 229587 ms listened
+Stoop Kids: 229465 ms listened
+Bmacthequeen: 228923 ms listened
+Tom Walker: 228920 ms listened
+Jeff Williams: 228880 ms listened
+Nick Lutsko: 228854 ms listened
+Tiffany: 228840 ms listened
+Send Request: 228826 ms listened
+The Districts: 228809 ms listened
+WJMK: 228801 ms listened
+Stuart Mavis: 228800 ms listened
+Dan Owen: 228765 ms listened
+Steven Moses: 228640 ms listened
+Yoko Ono: 228640 ms listened
+Runner and Bobby: 228433 ms listened
+A.C.E: 228320 ms listened
+La La Land Cast: 228173 ms listened
+Boys Noize: 228005 ms listened
+Davina Michelle: 227986 ms listened
+Simian Mobile Disco: 227973 ms listened
+Mooi Wark: 227920 ms listened
+Lamb of God: 227899 ms listened
+HARLOE: 227796 ms listened
+Jackson And His Computer Band: 227794 ms listened
+Vistas: 227701 ms listened
+Rome Hero Foxes: 227651 ms listened
+WATERS: 227616 ms listened
+Annie DiRusso: 227337 ms listened
+KAI: 227205 ms listened
+Connie Francis: 227115 ms listened
+Axel Flóvent: 227010 ms listened
+Pabllo Vittar: 226929 ms listened
+Faesinth: 226530 ms listened
+Han All: 226345 ms listened
+The Dead Weather: 226211 ms listened
+Seasalt: 225986 ms listened
+Coach Tev: 225977 ms listened
+Cookiee Kawaii: 225944 ms listened
+Brothers + Company: 225926 ms listened
+Arc North: 225897 ms listened
+Elley Duhé: 225662 ms listened
+Two People: 225638 ms listened
+Truslow: 225377 ms listened
+Sista Prod: 225361 ms listened
+archipiélagos: 225334 ms listened
+Halima: 225276 ms listened
+Blossoms: 225240 ms listened
+Margaux: 225213 ms listened
+Atoms For Peace: 225094 ms listened
+Alex Mali: 225084 ms listened
+Doris Day: 225062 ms listened
+Spa Smooth Jazz Relax Room: 224998 ms listened
+Jay Worthy: 224990 ms listened
+Yelloasis: 224942 ms listened
+J-Wright: 224923 ms listened
+KIRA: 224836 ms listened
+Tal Bachman: 224693 ms listened
+SCANDAL: 224342 ms listened
+Fizzy Blood: 224341 ms listened
+Herb Ellis: 224320 ms listened
+Dermot Kennedy: 224305 ms listened
+WDNG Crshrs: 224261 ms listened
+Forrest.: 224252 ms listened
+PICTURES: 224166 ms listened
+Catch Your Breath: 224143 ms listened
+Dom Fera: 224026 ms listened
+HA:TFELT: 223937 ms listened
+Little Tony: 223786 ms listened
+Mike Shinoda: 223521 ms listened
+Vacationer: 223489 ms listened
+The Summer Set: 223373 ms listened
+Chimmi: 223119 ms listened
+Shin WonHo: 223043 ms listened
+The Damned Things: 223020 ms listened
+Sublime With Rome: 222961 ms listened
+Mura Masa: 222773 ms listened
+Jess Benko: 222653 ms listened
+Liza Anne: 222600 ms listened
+Louis La Roche: 222513 ms listened
+Brothers of Metal: 222373 ms listened
+Scott Bradlee's Postmodern Jukebox: 222325 ms listened
+Swae Lee: 222099 ms listened
+The 8-Bit Big Band: 222028 ms listened
+Corey Gray: 221971 ms listened
+Dwn2earth: 221806 ms listened
+One11Twenty: 221752 ms listened
+Xavier Wulf: 221716 ms listened
+Hepsi: 221666 ms listened
+ella jane: 221657 ms listened
+Faith No More: 221458 ms listened
+Apollo LTD: 221453 ms listened
+Ax and the Hatchetmen: 221348 ms listened
+Sean Dagher: 221329 ms listened
+Lorn: 221165 ms listened
+町屋: 221000 ms listened
+Hachioji P: 220930 ms listened
+The Three Queens: 220879 ms listened
+Sam Gellaitry: 220838 ms listened
+Donkeyboy: 220752 ms listened
+Foxygen: 220514 ms listened
+Steven Gutheinz: 220406 ms listened
+SHINHWA: 220346 ms listened
+The Atomic Fireballs: 220327 ms listened
+Tigercub: 220324 ms listened
+StarBoi3: 220195 ms listened
+Tokyo Police Club: 220172 ms listened
+CLEWS: 220128 ms listened
+Griffin Stoller: 220094 ms listened
+Kerli: 220007 ms listened
+Cherry Poppin' Daddies: 219999 ms listened
+The Emotions: 219933 ms listened
+VIVIZ: 219933 ms listened
+03 Greedo: 219834 ms listened
+Squeeze: 219826 ms listened
+BANNERS: 219800 ms listened
+Nick Box: 219733 ms listened
+Twisted Sister: 219666 ms listened
+Gold Revere: 219573 ms listened
+Robb Bank$: 219480 ms listened
+redveil: 219439 ms listened
+Alestorm: 219404 ms listened
+Naked Eyes: 219373 ms listened
+ARTHUR: 219303 ms listened
+CROSS GENE: 219044 ms listened
+Dan Berk: 219040 ms listened
+The Cog is Dead: 218913 ms listened
+flora cash: 218883 ms listened
+Ren: 218816 ms listened
+Aranda: 218767 ms listened
+Stevie Dinner: 218753 ms listened
+Madcon: 218706 ms listened
+Vaines: 218613 ms listened
+Sara Bareilles: 218573 ms listened
+Linder Valley: 218540 ms listened
+Dido: 218360 ms listened
+Band Of Skulls: 218266 ms listened
+John Paul White: 218161 ms listened
+The Coral: 218130 ms listened
+Emilia Ali: 218122 ms listened
+The Electric Swing Circus: 218120 ms listened
+Finish Ticket: 218000 ms listened
+Tilian: 218000 ms listened
+Shakka: 217999 ms listened
+Savage: 217893 ms listened
+Black Kids: 217706 ms listened
+The Darkness: 217653 ms listened
+punchnello: 217510 ms listened
+Patent Pending: 217486 ms listened
+Vera Blue: 217300 ms listened
+Buddy: 217234 ms listened
+Layto: 217137 ms listened
+Babylon: 217001 ms listened
+Glenn Miller: 216746 ms listened
+R.E.M.: 216665 ms listened
+The J. Geils Band: 216533 ms listened
+Cashmere Cat: 216502 ms listened
+ONE OK ROCK: 216453 ms listened
+Mrs. GREEN APPLE: 216428 ms listened
+Watsky: 216360 ms listened
+Skold: 216268 ms listened
+Zachary Knowles: 216255 ms listened
+Bas: 216240 ms listened
+Violet Chachki: 216216 ms listened
+HONNE: 216170 ms listened
+Merkules: 216111 ms listened
+Head Automatica: 216097 ms listened
+NEFFEX: 216000 ms listened
+French Cassettes: 216000 ms listened
+The Taxpayers: 215933 ms listened
+Breakbot: 215786 ms listened
+Party Favor: 215592 ms listened
+X-Ray Spex: 215499 ms listened
+Egg: 215396 ms listened
+PRISTIN: 215395 ms listened
+Starmaxx: 215346 ms listened
+DIMLIM: 215230 ms listened
+DJ ESCO: 215228 ms listened
+Hot Coffee: 215195 ms listened
+Cheerleader: 215175 ms listened
+Kenny Loggins: 215133 ms listened
+The Spinners: 215109 ms listened
+BAND-MAIKO: 215106 ms listened
+The Cribs: 215053 ms listened
+Slaughter to Prevail: 215000 ms listened
+Pogo: 214867 ms listened
+Rhys Lewis: 214463 ms listened
+Box the Oxford: 214382 ms listened
+Taio Cruz: 214361 ms listened
+Army Of Lovers: 214360 ms listened
+JD McPherson: 214266 ms listened
+Amy Winehouse: 214236 ms listened
+關大洲: 214235 ms listened
+Westlife: 214211 ms listened
+Spilt Milk Society: 214148 ms listened
+Royal Crown Revue: 214106 ms listened
+SASAMI: 214106 ms listened
+Faces: 214080 ms listened
+Deep Ends: 214000 ms listened
+Royal Deluxe: 213986 ms listened
+The Psychedelic Furs: 213973 ms listened
+C5: 213909 ms listened
+RAT!hammock: 213866 ms listened
+LaSalle Street Trio: 213836 ms listened
+Born Without Bones: 213831 ms listened
+Written by Wolves: 213777 ms listened
+NCT U: 213666 ms listened
+Leland: 213587 ms listened
+Big Wild: 213561 ms listened
+Matsushita: 213499 ms listened
+Emperor X: 213373 ms listened
+Wildberry: 213309 ms listened
+Lauren Daigle: 213272 ms listened
+Woodkid: 213266 ms listened
+Gain: 213153 ms listened
+Yelle: 213102 ms listened
+Blood Cultures: 213000 ms listened
+Beware Of Darkness: 212853 ms listened
+Gurr: 212638 ms listened
+Pentatonix: 212636 ms listened
+Bobby Shmurda: 212630 ms listened
+Roddy Ricch: 212628 ms listened
+alali: 212581 ms listened
+Nio Garcia: 212574 ms listened
+Jay Sean: 212506 ms listened
+Zanzey: 212415 ms listened
+So Soo Bin: 212341 ms listened
+First to Eleven: 212307 ms listened
+SOYA: 212197 ms listened
+Teenage Priest: 212165 ms listened
+The Budos Band: 212146 ms listened
+A Flock Of Seagulls: 212003 ms listened
+Deorro: 211975 ms listened
+Private Island: 211557 ms listened
+Yoke Lore: 211482 ms listened
+Ängie: 211461 ms listened
+extremely bad man: 211368 ms listened
+Young Franco: 211212 ms listened
+Patrick Watson: 211205 ms listened
+Joey Purp: 211128 ms listened
+Emily Zeck: 211072 ms listened
+TK from Ling tosite sigure: 211058 ms listened
+Gilbert O'Sullivan: 211038 ms listened
+The Iron Eye: 210979 ms listened
+Moon Taxi: 210906 ms listened
+McBusted: 210864 ms listened
+Summer Soul: 210808 ms listened
+Ciara: 210798 ms listened
+Mujuice: 210695 ms listened
+Nico Santos: 210685 ms listened
+Apollo Fresh: 210666 ms listened
+Nico: 210653 ms listened
+Spirit Mother: 210573 ms listened
+Sudan Archives: 210515 ms listened
+JUNNY: 210514 ms listened
+Catie Turner: 210475 ms listened
+Myuu: 210188 ms listened
+Fallen Pine: 210153 ms listened
+The Social Club: 210119 ms listened
+Kezar: 210105 ms listened
+parkjiyoon: 210079 ms listened
+Andrelli: 210000 ms listened
+Sølv: 210000 ms listened
+GESS: 210000 ms listened
+Lucia Zambetti: 210000 ms listened
+Boxing at the Zoo: 209815 ms listened
+T-Dre: 209635 ms listened
+Limbeck: 209573 ms listened
+Scouting For Girls: 209549 ms listened
+Ray Toro: 209479 ms listened
+LucasGitanoFamily: 209450 ms listened
+Kebab Express: 209371 ms listened
+Backsy: 209362 ms listened
+Pat Benatar: 209360 ms listened
+Zepet: 209335 ms listened
+Rews: 209320 ms listened
+Bohdi: 209250 ms listened
+Lil Keed: 209187 ms listened
+Amaria: 209163 ms listened
+Renwick: 208983 ms listened
+The Veronicas: 208973 ms listened
+Commodores: 208893 ms listened
+Safario: 208850 ms listened
+Abigail Barlow: 208787 ms listened
+2NE1: 208730 ms listened
+Lady Denim: 208717 ms listened
+Hotel Pools: 208696 ms listened
+X Ambassadors: 208653 ms listened
+Lilac Boy: 208615 ms listened
+Modest Mouse: 208466 ms listened
+chelmico: 208375 ms listened
+September: 208346 ms listened
+Yuno: 208200 ms listened
+Noname: 208000 ms listened
+saturn 17: 208000 ms listened
+China Anne McClain: 207935 ms listened
+Titanic Sinclair: 207857 ms listened
+GLAZE: 207687 ms listened
+Creeper: 207464 ms listened
+E^ST: 207420 ms listened
+Fat Joe: 207257 ms listened
+Gengahr: 206960 ms listened
+Eric Nam: 206848 ms listened
+Sprite Lee: 206772 ms listened
+Erik Cain: 206641 ms listened
+Lauran Hibberd: 206552 ms listened
+Flyte: 206445 ms listened
+The Glorious Sons: 206360 ms listened
+Cash Cash: 206320 ms listened
+Invadable Harmony: 206220 ms listened
+Convex: 206198 ms listened
+Mickey Darling: 206119 ms listened
+gabriel black: 206002 ms listened
+Brown Eyed Girls: 206001 ms listened
+Miguel: 205828 ms listened
+Ryan McCartan: 205826 ms listened
+Carl Douglas: 205819 ms listened
+god: 205734 ms listened
+Soul Push: 205733 ms listened
+Jopin: 205714 ms listened
+Xavlegbmaofffassssitimiwoamndutroabcwapwaeiippohfffx: 205714 ms listened
+Spare Parts For Broken Hearts: 205687 ms listened
+Killua the Pilgrim: 205584 ms listened
+Lukas Graham: 205463 ms listened
+Sophia Holmes Band: 205448 ms listened
+Blubird: 205142 ms listened
+Hanae: 205133 ms listened
+Prelow: 205106 ms listened
+Mikey Mike: 205080 ms listened
+The Heydaze: 205079 ms listened
+Lil Gnar: 205034 ms listened
+Vetta Borne: 204986 ms listened
+Nipsey Hussle: 204977 ms listened
+Supergrass: 204966 ms listened
+Loote: 204733 ms listened
+Crobot: 204720 ms listened
+The Bangles: 204706 ms listened
+MUTO: 204578 ms listened
+Cannons: 204571 ms listened
+Yorke: 204525 ms listened
+Reverend And The Makers: 204446 ms listened
+Sneaky Peaches and the Fuzz: 204401 ms listened
+Santti: 204360 ms listened
+TRI.BE: 204346 ms listened
+Numblife: 204218 ms listened
+The Giving Moon: 204187 ms listened
+Tom Jones: 204160 ms listened
+TisaKorean: 204146 ms listened
+Dizzee Rascal: 204093 ms listened
+Irvin Smith Group: 204084 ms listened
+Hitomi Sato: 204000 ms listened
+Meaningful Stone: 203911 ms listened
+SPLURGE: 203875 ms listened
+Tarin: 203766 ms listened
+Erthlings: 203752 ms listened
+PLT: 203631 ms listened
+Vze: 203546 ms listened
+Pat Monahan: 203457 ms listened
+Blondie: 203401 ms listened
+XG: 203359 ms listened
+guardin: 203275 ms listened
+Ennio Morricone: 203226 ms listened
+No More Kings: 203200 ms listened
+Kalisway: 203147 ms listened
+MELVV: 202964 ms listened
+Kasbo: 202944 ms listened
+Matthew Mole: 202893 ms listened
+CHIKA: 202840 ms listened
+8TURN: 202800 ms listened
+almost monday: 202662 ms listened
+Postcard Boy: 202613 ms listened
+The Spill Canvas: 202573 ms listened
+Gaho: 202440 ms listened
+Gracie Abrams: 202422 ms listened
+CHROMANCE: 202322 ms listened
+Culture Wars: 202303 ms listened
+Middle Class Rut: 202280 ms listened
+Zero 9:36: 202270 ms listened
+Austin Millz: 202222 ms listened
+Marshall: 202070 ms listened
+B347L35: 202057 ms listened
+Adrianne Lenker: 202047 ms listened
+TOBACCO: 201906 ms listened
+Prismo: 201861 ms listened
+RealLiveAnimals: 201717 ms listened
+Jeremiah Perez: 201691 ms listened
+will.i.am: 201640 ms listened
+HBY: 201625 ms listened
+Savannah Outen: 201488 ms listened
+The True Star: 201456 ms listened
+The Prophet: 201451 ms listened
+팅클링: 201378 ms listened
+The Dangerous Summer: 201229 ms listened
+Q: 201162 ms listened
+Better Than This: 201158 ms listened
+Michigander: 201086 ms listened
+Andrea Di Giovanni: 201082 ms listened
+The Home Team: 201041 ms listened
+Awaken I Am: 200946 ms listened
+carpetgarden: 200831 ms listened
+machinegum: 200587 ms listened
+ufo ufo: 200573 ms listened
+Breaking Benjamin: 200546 ms listened
+Parliamo: 200494 ms listened
+Sarah Vaughan: 200439 ms listened
+Maximo Park: 200346 ms listened
+PARK WOO JIN: 200222 ms listened
+BONNIE PARKER: 200189 ms listened
+KIM DONG HAN: 200106 ms listened
+zebrahead: 200018 ms listened
+Dora Jar: 200000 ms listened
+Kentucky Thunder: 199928 ms listened
+Vulfmon: 199924 ms listened
+Day Sulan: 199894 ms listened
+EXO-CBX: 199845 ms listened
+Alexcis: 199824 ms listened
+CTC Crazy Duwop: 199810 ms listened
+Boyish: 199702 ms listened
+Tall Heights: 199653 ms listened
+drumaq: 199518 ms listened
+Amnesia Scanner: 199495 ms listened
+MixAndMash: 199485 ms listened
+Half Moon Run: 199413 ms listened
+Grove Street Quartet: 199338 ms listened
+Baby Strange: 199333 ms listened
+Sion: 199277 ms listened
+Little Boots: 199213 ms listened
+015B: 199086 ms listened
+Etched in Blue: 199077 ms listened
+Caitlin Canty: 199060 ms listened
+Silent Drive: 199022 ms listened
+Silver & Gold: 199004 ms listened
+Dixie: 198965 ms listened
+Ezra Williams: 198916 ms listened
+Ivypaint: 198857 ms listened
+Carice van Houten: 198853 ms listened
+Asylums: 198840 ms listened
+Little Barrie: 198760 ms listened
+King Guru: 198753 ms listened
+Moi Je: 198688 ms listened
+Slovak Philharmonic: 198667 ms listened
+FEiN: 198588 ms listened
+Token: 198522 ms listened
+Otoboke Beaver: 198453 ms listened
+Latium: 198362 ms listened
+Akano: 198348 ms listened
+The Lively Ones: 198320 ms listened
+Entombed: 198133 ms listened
+John Denver: 198090 ms listened
+Point North: 198000 ms listened
+Xiu Xiu: 198000 ms listened
+papichuloteej: 197939 ms listened
+Kingdom: 197531 ms listened
+Electroforez: 197400 ms listened
+Ollie: 197367 ms listened
+Press Club: 197262 ms listened
+The Five Stairsteps: 197160 ms listened
+Jye: 197142 ms listened
+The Wldlfe: 197109 ms listened
+natori: 197094 ms listened
+H.I.N.P (Hot Issue of Ntl. Producers): 197076 ms listened
+たかやん: 196870 ms listened
+MAVE:: 196827 ms listened
+Dolly Parton: 196794 ms listened
+CreepP: 196710 ms listened
+Mushroom People: 196545 ms listened
+1 800 PAIN: 196444 ms listened
+PatrickReza: 196400 ms listened
+Part Time: 196360 ms listened
+Cheap Trick: 196219 ms listened
+Wild Ones: 196027 ms listened
+Tai Verdes: 196000 ms listened
+Jenyer: 195938 ms listened
+Choosing Sides: 195840 ms listened
+Avenue Beat: 195727 ms listened
+Kyunchi: 195692 ms listened
+Chong the Nomad: 195375 ms listened
+Peachy: 195355 ms listened
+Solicit: 195333 ms listened
+By The Coast: 195234 ms listened
+Akine: 195226 ms listened
+King Gnu: 195226 ms listened
+sam.sts: 195122 ms listened
+Sean Koch: 195096 ms listened
+40mP: 195048 ms listened
+P.H.F.: 195046 ms listened
+San Valentín: 195018 ms listened
+Kudasaibeats: 195000 ms listened
+YUZUKINGDOM: 194999 ms listened
+Kim Mi Jeong: 194917 ms listened
+Micky James: 194739 ms listened
+Mike Mains & The Branches: 194736 ms listened
+TAPEDECK: 194717 ms listened
+familypet: 194690 ms listened
+Dustin Hatzenbuhler: 194530 ms listened
+Yuma X: 194498 ms listened
+Seese17: 194484 ms listened
+Thrupence: 194444 ms listened
+Mareux: 194423 ms listened
+Ben Platt: 194306 ms listened
+New Hope Club: 194240 ms listened
+MINSEO: 193968 ms listened
+Blanks: 193964 ms listened
+Elliott Smith: 193829 ms listened
+Lovey: 193776 ms listened
+Small Talks: 193714 ms listened
+PolyphonicBranch: 193636 ms listened
+Adamn Killa: 193617 ms listened
+MassMatiks: 193484 ms listened
+Paul Rey: 193333 ms listened
+PONY: 193292 ms listened
+Sublime: 193240 ms listened
+Huma: 193239 ms listened
+The Temperance Movement: 193213 ms listened
+Ryan Woods: 193208 ms listened
+RAT BOY: 193179 ms listened
+OoOo: 193177 ms listened
+NeonPunch: 193137 ms listened
+TK Kravitz: 193003 ms listened
+Larkins: 192973 ms listened
+Squirrel Nut Zippers: 192960 ms listened
+The Young Veins: 192932 ms listened
+Ryan Pulford: 192835 ms listened
+Missy Elliott: 192813 ms listened
+Saosin: 192786 ms listened
+Boombox Cartel: 192781 ms listened
+Johnson&Jonson: 192746 ms listened
+Crystal Lake: 192698 ms listened
+LEE MINHYUK (HUTA): 192693 ms listened
+Greyson Chance: 192558 ms listened
+Petite League: 192399 ms listened
+Tobiahs: 192396 ms listened
+Sen Morimoto: 192326 ms listened
+Amon Tobin: 192200 ms listened
+Natural Child: 192198 ms listened
+Bad Sounds: 192188 ms listened
+Fuller: 192156 ms listened
+Koresma: 192093 ms listened
+P1Harmony: 192093 ms listened
+SLUMBERJACK: 192000 ms listened
+Worry Club: 192000 ms listened
+okaywill: 192000 ms listened
+Douglas Holmquist: 192000 ms listened
+Le Siren: 191959 ms listened
+Lil Pump: 191832 ms listened
+Cafuné: 191823 ms listened
+Pinegrove: 191796 ms listened
+Mount Kimbie: 191746 ms listened
+We Butter The Bread With Butter: 191522 ms listened
+The Frequency Shifters: 191484 ms listened
+Jessi Blue: 191400 ms listened
+Claud: 191304 ms listened
+The Whitest Boy Alive: 191173 ms listened
+Misbehavin' Maidens: 191080 ms listened
+Protest The Hero: 191013 ms listened
+Snot: 190944 ms listened
+Shae OT: 190902 ms listened
+Bad Moon Born: 190781 ms listened
+Matt Corby: 190726 ms listened
+Audio Push: 190535 ms listened
+KOPS: 190480 ms listened
+Turbowolf: 190440 ms listened
+Krewella: 190077 ms listened
+CL: 190050 ms listened
+Ed Helms: 190015 ms listened
+Sheena Ringo: 189395 ms listened
+The New Electric Sound: 189335 ms listened
+Autopilot Off: 189185 ms listened
+Kaii Dreams: 189120 ms listened
+Jealous of the Birds: 189106 ms listened
+House of Lions: 189101 ms listened
+Magic City Hippies: 189050 ms listened
+Tape Five: 188910 ms listened
+Jutes: 188891 ms listened
+Christian Grey: 188778 ms listened
+MOB CHOIR: 188706 ms listened
+Felix Jaehn: 188466 ms listened
+Sleep Miracle: 188463 ms listened
+peach tinted: 188368 ms listened
+Bear Hands: 188266 ms listened
+Eloise: 188185 ms listened
+Benjamin Ingrosso: 188166 ms listened
+Killumantii: 188160 ms listened
+Emily Haines & The Soft Skeleton: 188157 ms listened
+Josh Fudge: 188143 ms listened
+standards: 188129 ms listened
+Lauren Babic: 188106 ms listened
+Social Club Misfits: 188040 ms listened
+Electric Callboy: 188000 ms listened
+Ihaterare: 187920 ms listened
+Ager: 187826 ms listened
+Katzù Oso: 187826 ms listened
+Johnny Rivers: 187640 ms listened
+Syd: 187520 ms listened
+Rudimental: 187413 ms listened
+Victory Kid: 187409 ms listened
+Whitney: 187307 ms listened
+Chapel: 187288 ms listened
+Kevin Walkman: 187221 ms listened
+eyeamki: 187193 ms listened
+Mike Perry: 187123 ms listened
+The Long Faces: 186986 ms listened
+GIRLKIND: 186854 ms listened
+Bae Jin Young: 186845 ms listened
+Suzy: 186706 ms listened
+Triathalon: 186666 ms listened
+Kompany: 186641 ms listened
+The Features: 186640 ms listened
+Kriesha Chu: 186598 ms listened
+YURI: 186531 ms listened
+Gang Of Four: 186493 ms listened
+The Misters: 186248 ms listened
+Acid Ghost: 186146 ms listened
+Mike Geno: 186098 ms listened
+Aests: 186071 ms listened
+Moneybagg Yo: 185965 ms listened
+Belanova: 185933 ms listened
+Sarah and the Safe Word: 185749 ms listened
+INXS: 185694 ms listened
+Jill Andrews: 185624 ms listened
+Mondo Cozmo: 185533 ms listened
+Naked Giants: 185527 ms listened
+Death by Denim: 185460 ms listened
+Ta-ku: 185448 ms listened
+Sam Lachow: 185386 ms listened
+Cody Fry: 185176 ms listened
+Cool Calm Pete: 185066 ms listened
+Drug Cabin: 185053 ms listened
+The Bug: 184832 ms listened
+Chon: 184720 ms listened
+Kxllswxtch: 184408 ms listened
+Cōrt: 184202 ms listened
+Cab Calloway: 184168 ms listened
+The Delta Saints: 184133 ms listened
+LØLØ: 184000 ms listened
+Beachwood: 183994 ms listened
+Alice Kristiansen: 183956 ms listened
+Belly: 183920 ms listened
+Plini: 183903 ms listened
+Moisés Nieto: 183902 ms listened
+SyKo: 183735 ms listened
+Waterfall Sounds: 183693 ms listened
+Cold Callers: 183682 ms listened
+can1312: 183458 ms listened
+L.I.F.T: 183428 ms listened
+Mike Vallas: 183390 ms listened
+toe: 183293 ms listened
+ryo (supercell): 183223 ms listened
+Jdam: 183206 ms listened
+Boy Azooga: 183171 ms listened
+Delta Heavy: 183120 ms listened
+Mom Rock: 183111 ms listened
+Aidan Bissett: 183012 ms listened
+William Adams: 182995 ms listened
+lil aaron: 182953 ms listened
+Zander Jazz Trio: 182749 ms listened
+Thaiboy Digital: 182738 ms listened
+Childish Major: 182692 ms listened
+Peyton List: 182523 ms listened
+Elvis Presley: 182360 ms listened
+Fazerdaze: 182308 ms listened
+Trifect: 182153 ms listened
+The Story So Far: 182123 ms listened
+Little Comets: 182029 ms listened
+Set Mo: 181967 ms listened
+Sam Feldt: 181899 ms listened
+Ryan Riback: 181899 ms listened
+Westpark: 181873 ms listened
+Opia: 181864 ms listened
+BUSTERS: 181615 ms listened
+Lily James: 181533 ms listened
+The Northern Boys: 181525 ms listened
+Forests: 181514 ms listened
+Heart Attack Man: 181426 ms listened
+Fruit Bats: 181400 ms listened
+GOAT: 181357 ms listened
+BlocBoy JB: 181263 ms listened
+Bel Heir: 181263 ms listened
+ASTN: 181237 ms listened
+Chance the Rapper: 181158 ms listened
+Spendtime Palace: 181121 ms listened
+John Mark Pantana: 181031 ms listened
+2xxx: 180972 ms listened
+Pearl Lion: 180960 ms listened
+100%: 180914 ms listened
+Joe Hertz: 180200 ms listened
+Jank: 180160 ms listened
+347aidan: 180138 ms listened
+Pascal Michael Stiefel: 180114 ms listened
+Alex Schor: 180013 ms listened
+Tyla Yaweh: 180007 ms listened
+Naderi: 180000 ms listened
+Chek: 180000 ms listened
+DVBBS: 179999 ms listened
+GHASTLY: 179986 ms listened
+María Isabel: 179922 ms listened
+Benny Goodman: 179840 ms listened
+Konomi Kohara: 179604 ms listened
+VIAL: 179556 ms listened
+BRONSON: 179453 ms listened
+Luke Faulkner: 179188 ms listened
+Mötley Crüe: 179160 ms listened
+GRMLN: 179128 ms listened
+Charlie Heat: 179032 ms listened
+Foa: 178846 ms listened
+Madge: 178844 ms listened
+MamboLosco: 178645 ms listened
+IMFACT: 178532 ms listened
+Weirds: 178500 ms listened
+Mort Garson: 178483 ms listened
+Jon Waltz: 178461 ms listened
+Bobbysocks: 178293 ms listened
+Cole Peers trio: 178250 ms listened
+DUX: 177989 ms listened
+Martha Reeves & The Vandellas: 177906 ms listened
+Staring in Spaces: 177750 ms listened
+Alice Francis: 177613 ms listened
+MUKADE: 177581 ms listened
+Kieron Lee: 177517 ms listened
+Jackie Hayes: 177438 ms listened
+Kyrie Irving: 177413 ms listened
+DAYBREAK: 177413 ms listened
+TRiDENT: 177405 ms listened
+Soft Glas: 177391 ms listened
+JØRD: 177388 ms listened
+Edwin McCain: 177380 ms listened
+Sleeping Mozart Relaxing Baby: 177215 ms listened
+Aperture Science Psychoacoustic Laboratories: 177212 ms listened
+Halloran & Kate: 177191 ms listened
+Tatsuya Kitani: 177168 ms listened
+Dalshabet: 177031 ms listened
+Gaea Antoniou: 177000 ms listened
+Lana Lubany: 176953 ms listened
+New Years Day: 176879 ms listened
+Demotus: 176875 ms listened
+Indigo Swing: 176866 ms listened
+Youth Killed It: 176793 ms listened
+Carlos Vara: 176773 ms listened
+Bridgerton Vail: 176732 ms listened
+Felguk: 176663 ms listened
+Skating Polly: 176515 ms listened
+Estrons: 176411 ms listened
+Karma Knows: 176000 ms listened
+Mammoth Weed Wizard Bastard: 175807 ms listened
+BigKlit: 175775 ms listened
+J.Y. Park: 175738 ms listened
+leo.: 175500 ms listened
+Rev Theory: 175434 ms listened
+Shy Glizzy: 175333 ms listened
+Cloudy June: 175307 ms listened
+The Romantics: 175266 ms listened
+Perry Como: 175213 ms listened
+OGUOGU: 175164 ms listened
+Todd Baker: 174882 ms listened
+Groove Coverage: 174773 ms listened
+Spacey Jane: 174760 ms listened
+Johnny Maestro: 174640 ms listened
+Soft Brush Touches: 174575 ms listened
+Moha MMZ: 174490 ms listened
+Da Vosk Docta: 174231 ms listened
+See You Next Year: 174155 ms listened
+Cody Ray: 174098 ms listened
+Icy Narco: 174059 ms listened
+R.Tee, Anda: 174041 ms listened
+Cathedral Bells: 173508 ms listened
+Parliament: 173382 ms listened
+Grumpy Plum: 173364 ms listened
+Pham: 173271 ms listened
+Nikki Vianna: 173195 ms listened
+frad: 173143 ms listened
+New Radicals: 173016 ms listened
+The Brian Setzer Orchestra: 172933 ms listened
+Shayne Orok: 172922 ms listened
+Stephanie Mabey: 172819 ms listened
+Achille Lauro: 172794 ms listened
+Leah Kate: 172757 ms listened
+k?d: 172588 ms listened
+Kelsea Ballerini: 172371 ms listened
+Peter Manos: 172306 ms listened
+Babygirl: 172242 ms listened
+The Mönic: 172216 ms listened
+Otha: 172172 ms listened
+LOOM: 172153 ms listened
+Mako: 172147 ms listened
+Tommy Cash: 172125 ms listened
+wotaku: 172076 ms listened
+A$AP ANT: 172059 ms listened
+OurR: 172005 ms listened
+SEULGI: 171998 ms listened
+Sophie Rose: 171966 ms listened
+Hi-Rez: 171885 ms listened
+Wesley Willis: 171772 ms listened
+Tom Rosenthal: 171586 ms listened
+Zacari: 171280 ms listened
+Sipper: 171243 ms listened
+Fourtee: 171210 ms listened
+Crankdat: 171200 ms listened
+Rain Paris: 171063 ms listened
+Soko: 171013 ms listened
+P.MO: 171000 ms listened
+Little River Band: 170720 ms listened
+Danny Knutelsky: 170516 ms listened
+Harry Hudson: 170492 ms listened
+Spencer Sutherland: 170363 ms listened
+Jurassic Shark: 170031 ms listened
+Born Ruffians: 170017 ms listened
+Ochre: 170000 ms listened
+Little Car: 169913 ms listened
+Camp Claude: 169906 ms listened
+Dream Theater: 169789 ms listened
+Rudy Mancuso: 169251 ms listened
+Dxrk ダーク: 169245 ms listened
+Her: 169200 ms listened
+Dean Martin: 169131 ms listened
+Android52: 169091 ms listened
+ILIRA: 169066 ms listened
+The Velvet Underground: 169053 ms listened
+Eduardo Mata: 169000 ms listened
+Gloria Groove: 168887 ms listened
+Cass McCombs: 168736 ms listened
+Kuromi: 168681 ms listened
+benches: 168532 ms listened
+Just Surrender: 168520 ms listened
+Lamis Kan: 168465 ms listened
+The Fearless Flyers: 168454 ms listened
+Michael Giacchino: 168346 ms listened
+Tanukichan: 168320 ms listened
+Rainbowdragoneyes: 168256 ms listened
+GSPD: 168053 ms listened
+SonReal: 168043 ms listened
+Brown Noise Baby: 168031 ms listened
+Qwala: 168000 ms listened
+Daron Malakian and Scars On Broadway: 167973 ms listened
+APRO: 167920 ms listened
+Secondhand Serenade: 167694 ms listened
+Netsky: 167600 ms listened
+JOYRYDE: 167484 ms listened
+300 R3MY: 167367 ms listened
+X Lovers: 167320 ms listened
+Citizen Queen: 167291 ms listened
+Bill Wurtz: 167179 ms listened
+Statik Selektah: 167134 ms listened
+Erroll Garner: 167121 ms listened
+Boyzone: 167026 ms listened
+Sid Simons: 166875 ms listened
+KiNG MALA: 166576 ms listened
+Polo G: 166560 ms listened
+AmaLee: 166534 ms listened
+Sweatcult: 166369 ms listened
+D. Savage: 166287 ms listened
+LiL Lotus: 165997 ms listened
+The Snuts: 165933 ms listened
+Men Without Hats: 165506 ms listened
+Macshane: 165429 ms listened
+Superorganism: 165391 ms listened
+Kid Travis: 165333 ms listened
+Michele Leigh: 165254 ms listened
+Various Artists: 165184 ms listened
+Kuedo: 165173 ms listened
+The Temptations: 165000 ms listened
+FlyxTheKid: 164892 ms listened
+Joey Bada$$: 164840 ms listened
+SZNS: 164531 ms listened
+dandelion hands: 164488 ms listened
+Amanda Palmer: 164426 ms listened
+Bruno Major: 164311 ms listened
+Thed Jewel: 164285 ms listened
+Migrant Motel: 164180 ms listened
+Camino 84: 163946 ms listened
+Dalterino: 163631 ms listened
+Rynx: 163546 ms listened
+Cameron Diaz: 163458 ms listened
+Jason Derulo: 163347 ms listened
+ElyOtto: 163174 ms listened
+The Supremes: 163093 ms listened
+Scarlxrd: 163010 ms listened
+Fresh: 162766 ms listened
+Fenix TX: 162762 ms listened
+admo: 162500 ms listened
+Emotional Oranges: 162483 ms listened
+sundiver ca: 162434 ms listened
+Those Who Dream: 162376 ms listened
+Nico Vega: 162320 ms listened
+Giuliano Sorgini: 162106 ms listened
+Basement: 162093 ms listened
+Christian Salyer: 162053 ms listened
+Tomggg: 161800 ms listened
+14th Generation Toilet Hanako-san: 161770 ms listened
+Lauren Ruth Ward: 161746 ms listened
+Sarah Cothran: 161612 ms listened
+PnB Rock: 161113 ms listened
+Besomorph: 160700 ms listened
+Radkey: 160677 ms listened
+Ashes Remain: 160663 ms listened
+Seraphine: 160500 ms listened
+Buerak: 160341 ms listened
+Bryson Tiller: 160272 ms listened
+Miya Folick: 160106 ms listened
+Paris Shadows: 160013 ms listened
+Chasing Daze: 160000 ms listened
+O.A.R.: 159846 ms listened
+¿Téo?: 159732 ms listened
+Queen Key: 159614 ms listened
+EeeYeeRee: 159572 ms listened
+Sdms: 159528 ms listened
+Sorry, Peach: 159500 ms listened
+Myd: 159426 ms listened
+Syzz: 159402 ms listened
+Supertramp: 159346 ms listened
+Alessandro Piccinini: 159242 ms listened
+Isabella Lovestory: 159207 ms listened
+MAMAMOO+: 159066 ms listened
+Sixth Street Quartet: 159028 ms listened
+Jolianne: 158957 ms listened
+Badbitties: 158642 ms listened
+Keith Mansfield: 158613 ms listened
+Wifisfuneral: 158406 ms listened
+adam&steve: 158400 ms listened
+Dion & The Belmonts: 158253 ms listened
+William Crooks: 158048 ms listened
+Cinema: 157760 ms listened
+Kettel: 157738 ms listened
+BABii: 157652 ms listened
+Jinsang: 157605 ms listened
+Syence: 157500 ms listened
+Ivory Hours: 157480 ms listened
+Bad Nerves: 157387 ms listened
+Casey Veggies: 157266 ms listened
+Giacomo Puccini: 157146 ms listened
+Krooked Kings: 157065 ms listened
+Dove Cameron: 156970 ms listened
+Carl Orff: 156595 ms listened
+Ūla: 156545 ms listened
+Like: 156500 ms listened
+Shaman: 156496 ms listened
+Pertinence: 156056 ms listened
+Shannon & The Clams: 156038 ms listened
+CyYu: 155951 ms listened
+Los Campesinos!: 155853 ms listened
+Vaboh: 155844 ms listened
+The Night Café: 155705 ms listened
+J. Maya: 155522 ms listened
+Hiroyuki Sawano: 155176 ms listened
+Jeff Laine & Co: 154761 ms listened
+Dirty Audio: 154668 ms listened
+Brand of Sacrifice: 154400 ms listened
+DJ Facemask: 154357 ms listened
+Maitro: 154345 ms listened
+Marley Big B: 154250 ms listened
+Ekali: 154115 ms listened
+Kevin Atwater: 154053 ms listened
+Nat King Cole: 153866 ms listened
+regex: 153703 ms listened
+Darcy Stokes: 153277 ms listened
+LIL PHAG: 153177 ms listened
+Dracovii: 153018 ms listened
+Gigi Perez: 153000 ms listened
+YingYang48: 152868 ms listened
+Radical Redemption: 152696 ms listened
+Mountain: 152508 ms listened
+Newgrounds Death Rugby: 152338 ms listened
+Cldr: 152303 ms listened
+GALXARA: 152144 ms listened
+SAKIMA: 152079 ms listened
+Shotgun Willy: 151952 ms listened
+Miko: 151877 ms listened
+Sleigh Bells: 151773 ms listened
+BeatKing: 151519 ms listened
+Diana Gordon: 151429 ms listened
+Ron Suno: 151343 ms listened
+The Sentinals: 151333 ms listened
+Dee Dee Sharp: 150866 ms listened
+Miel: 150794 ms listened
+iluvvmyclique: 150657 ms listened
+Mcbaise: 150641 ms listened
+The Uptown Players: 150597 ms listened
+Famous Dex: 150568 ms listened
+Dirty Pretty Things: 150547 ms listened
+Hot Sugar: 150438 ms listened
+Field Medic: 150327 ms listened
+Warlock: 150173 ms listened
+Dville Santa: 150099 ms listened
+Bobby Vee: 149800 ms listened
+The National: 149741 ms listened
+The Supermen Lovers: 149740 ms listened
+SXMPRA: 149461 ms listened
+Cliff Richard & The Shadows: 149333 ms listened
+小畑貴裕: 149200 ms listened
+zenorachi: 149087 ms listened
+Disney Peaceful Piano: 148954 ms listened
+Dmitri Shostakovich: 148920 ms listened
+Lifeformed: 148872 ms listened
+Aim Vision: 148845 ms listened
+Jaden Hossler: 148833 ms listened
+RKCB: 148766 ms listened
+gaptoothv4mp: 148699 ms listened
+6 Dogs: 148607 ms listened
+Arman Cekin: 148398 ms listened
+Misc.Inc: 148363 ms listened
+Mag.Lo: 148226 ms listened
+Vintage Lee: 148062 ms listened
+流線形: 147986 ms listened
+BAYBE: 147897 ms listened
+Amanda Fagan: 147514 ms listened
+Weakened Friends: 147293 ms listened
+Braaheim: 147228 ms listened
+FEELS: 147186 ms listened
+Mikky Ekko: 147000 ms listened
+Ottorino Respighi: 146866 ms listened
+未來少女 薄荷水晶: 146691 ms listened
+John Maus: 146413 ms listened
+Berlinist: 146250 ms listened
+Ruben Haag: 146000 ms listened
+Muna Ileiwat: 145931 ms listened
+Isabel LaRosa: 145667 ms listened
+Wale the Sage: 145533 ms listened
+MC Virgins: 145518 ms listened
+$ilkMoney: 145491 ms listened
+Sleep Terrarium: 145414 ms listened
+young friend: 145365 ms listened
+Husky: 145185 ms listened
+Justina Valentine: 145181 ms listened
+Joy Division: 145083 ms listened
+Topaz Jones: 145031 ms listened
+SZESNY: 144915 ms listened
+YONAS: 144799 ms listened
+siouxxie sixxsta: 144535 ms listened
+Capoxxo: 144053 ms listened
+Nohidea: 144040 ms listened
+Hella Sketchy: 144019 ms listened
+SPEECHLESS: 144015 ms listened
+Kamiyada+: 144000 ms listened
+808INK: 143926 ms listened
+Tom Felton: 143779 ms listened
+The Llamas: 143736 ms listened
+Cowboy Malfoy: 143506 ms listened
+Charlotte Sands: 143500 ms listened
+BABY GRAVY: 143243 ms listened
+F.HERO: 143041 ms listened
+AJ Salvatore: 142812 ms listened
+The Sundays: 142693 ms listened
+Mad Tsai: 142596 ms listened
+Ritt Momney: 142522 ms listened
+Eidly: 142402 ms listened
+6arelyhuman: 142053 ms listened
+Mikey The Magician: 142033 ms listened
+The Startups: 141909 ms listened
+Valley Of Wolves: 141590 ms listened
+Raffaella: 141538 ms listened
+Van Halen: 141501 ms listened
+Rucka Rucka Ali: 141264 ms listened
+HL Wave: 141150 ms listened
+Lilacs.: 141106 ms listened
+Kill Bill: The Rapper: 141092 ms listened
+Benjamin Gustafsson: 140999 ms listened
+Steve Earle: 140969 ms listened
+Summer Walker: 140760 ms listened
+Cookin Soul: 140439 ms listened
+Fred Astaire: 140280 ms listened
+A L E X: 140265 ms listened
+Holland: 140069 ms listened
+Subway Surfers: 139983 ms listened
+Roses & Revolutions: 139820 ms listened
+Sweet Pill: 139671 ms listened
+Pistachio Gods: 139646 ms listened
+anders: 139598 ms listened
+Coi Leray: 139560 ms listened
+Whitewoods : 139500 ms listened
+Northern Faces: 139239 ms listened
+barnacle boi: 139207 ms listened
+Sahtyre: 139173 ms listened
+Graham Kartna: 139133 ms listened
+j'san: 139130 ms listened
+Caballero Reynaldo: 138899 ms listened
+conscience: 138571 ms listened
+The Monotones: 138440 ms listened
+Matstubs: 138213 ms listened
+The Shangri-Las: 138133 ms listened
+The Mighty Blue Kings: 138066 ms listened
+Yung Hurn: 137749 ms listened
+ROSALÍA: 137533 ms listened
+Re-Logic: 137523 ms listened
+Forevrboy: 137456 ms listened
+Bluestaeb: 137230 ms listened
+Hugues Le Bars: 137123 ms listened
+Nico & Vinz: 136837 ms listened
+Billy Uomo: 136792 ms listened
+DESTIN CONRAD: 136696 ms listened
+Madame Gandhi: 136577 ms listened
+Glimlip: 136525 ms listened
+AcesToAces: 136299 ms listened
+Kirby: Planet Robobot Soundteam: 135974 ms listened
+biz: 135933 ms listened
+Kaliii: 135859 ms listened
+Ron Pope: 135787 ms listened
+Khantrast: 135747 ms listened
+Fade 'Em All: 135514 ms listened
+Lilcockpump: 135053 ms listened
+DJ Scheme: 135022 ms listened
+Agent Orange: 134950 ms listened
+M.A.G.S.: 134899 ms listened
+Acid Bath: 134826 ms listened
+Carver Commodore: 134625 ms listened
+Grace Grundy: 134538 ms listened
+Curci: 134452 ms listened
+Belak: 134418 ms listened
+Reyanna Maria: 134079 ms listened
+Lübecker: 134071 ms listened
+QUEEF JERKY: 133804 ms listened
+x0o0x_: 133757 ms listened
+Tiffany Day: 133547 ms listened
+Slumpp: 133372 ms listened
+Caleb Bryant: 133333 ms listened
+Bulldog Eyes: 133290 ms listened
+Lil Soda Boi: 133188 ms listened
+Oliver Malcolm: 133154 ms listened
+Meth Wax: 133140 ms listened
+The Sunshine Underground: 133120 ms listened
+MyReminiscence: 133115 ms listened
+RAC: 132746 ms listened
+Johnny: 132697 ms listened
+Tosho: 132644 ms listened
+Scuare: 132528 ms listened
+Wet: 132449 ms listened
+Hajin: 132020 ms listened
+Jacques Offenbach: 132000 ms listened
+Finding Novyon: 131920 ms listened
+Black Lips: 131889 ms listened
+Jreg: 131731 ms listened
+Lady Pills: 131684 ms listened
+xavflos: 131301 ms listened
+Nanashi Hachiya: 131196 ms listened
+The Shirelles: 130892 ms listened
+ヨルシカ: 130826 ms listened
+Steezy: 130560 ms listened
+Richak: 130500 ms listened
+juju<3: 130384 ms listened
+Magnificence: 130323 ms listened
+Tremantis: 130227 ms listened
+Yxngxr1: 130213 ms listened
+Nickelback: 130164 ms listened
+Rae Rae: 130064 ms listened
+Mikey Sol: 129959 ms listened
+The Drifters: 129613 ms listened
+Lupe Fiasco: 129382 ms listened
+Pity Party (Girls Club): 129321 ms listened
+Ramirez: 128896 ms listened
+Pdiddy: 128888 ms listened
+Yellow Days: 128840 ms listened
+Take That: 128721 ms listened
+The Kills: 128596 ms listened
+Ichika Nito: 128586 ms listened
+Jake Bugg: 128346 ms listened
+NxxxxxS: 128317 ms listened
+Fuzzy: 128004 ms listened
+WWE: 128001 ms listened
+Marietta: 127743 ms listened
+LightSkinKeisha: 127560 ms listened
+LaLion: 127558 ms listened
+Gregorio Allegri: 127469 ms listened
+Evaride: 127253 ms listened
+The Gooch Palms: 127219 ms listened
+October Country: 126840 ms listened
+Bktherula: 126684 ms listened
+coda: 126672 ms listened
+Xuitcasecity: 126651 ms listened
+Sexy Girls: 126453 ms listened
+Austin Mahone: 126358 ms listened
+90sFlav: 126250 ms listened
+NugLife: 126206 ms listened
+Slightly Stoopid: 125667 ms listened
+Fatherson: 125203 ms listened
+Zelooperz: 125067 ms listened
+Øneheart: 124066 ms listened
+Disco Lines: 123962 ms listened
+The Band Ice Cream: 123693 ms listened
+Slush Puppy: 123571 ms listened
+Fatboibari: 123520 ms listened
+McFly: 123499 ms listened
+Sports & Music: 123431 ms listened
+eery: 123219 ms listened
+The Pyramids: 123167 ms listened
+Tom Cardy: 122210 ms listened
+Axwell /\ Ingrosso: 121835 ms listened
+Deerhunter: 121484 ms listened
+Mortician: 121067 ms listened
+Limahl: 121045 ms listened
+Alyson Stoner: 121003 ms listened
+Endymion: 120825 ms listened
+Savannah Saturn: 120789 ms listened
+Gurldoll: 120369 ms listened
+AWJC Media: 120220 ms listened
+Ion Mihutz: 120000 ms listened
+Daddy Rock: 119996 ms listened
+Bali Baby: 119780 ms listened
+Fake Tides: 119698 ms listened
+Renni Rucci: 119082 ms listened
+Mourn: 118720 ms listened
+Yunomi: 118698 ms listened
+Chase Icon: 118391 ms listened
+OCTAVIO the Dweeb: 118314 ms listened
+eevee: 118182 ms listened
+Jamie Berry: 118178 ms listened
+Lil Revive: 118168 ms listened
+lil ricefield: 117931 ms listened
+tiffi: 117493 ms listened
+SUPER JUNIOR-D&E: 117248 ms listened
+Garfunkel and Oates: 117026 ms listened
+Shallou: 116935 ms listened
+MrHeadA$$Trendy: 116845 ms listened
+Niccolò Paganini: 116720 ms listened
+Tacocat: 116675 ms listened
+Ritchie Valens: 116626 ms listened
+fcj: 116284 ms listened
+Coasts: 116030 ms listened
+Jordan Rudess: 116030 ms listened
+Backhouse Mike: 115994 ms listened
+Edge of Silence: 115905 ms listened
+Urška Krušič: 115814 ms listened
+Eric William Morris: 115800 ms listened
+Chance Thrash: 115762 ms listened
+Go Yama: 115638 ms listened
+Double A-Ron: 115636 ms listened
+HXLLYWOOD: 115391 ms listened
+The Bomboras: 115266 ms listened
+The Moth & The Flame: 115167 ms listened
+Glowe: 115136 ms listened
+Duncan Lamont: 115093 ms listened
+Make Out Monday: 115037 ms listened
+gazelleremorseful: 114999 ms listened
+Istasha: 114473 ms listened
+jowlgillette: 114206 ms listened
+earthypedlar: 114206 ms listened
+Avatar: 114202 ms listened
+DVNA: 114195 ms listened
+Packy: 114134 ms listened
+Lena: 114078 ms listened
+White Noise for Deeper Sleep: 113999 ms listened
+Page: 113848 ms listened
+mol$: 113815 ms listened
+YODAYOUNG: 113726 ms listened
+WHIPPED CREAM: 113600 ms listened
+Nana Mellie: 113351 ms listened
+Lucas Coly: 113087 ms listened
+Municipal Waste: 113040 ms listened
+Leavv: 112941 ms listened
+revelationhotpot: 112652 ms listened
+Dan + Shay: 112419 ms listened
+Doja: 112299 ms listened
+Necrophagist: 112173 ms listened
+Waterflame: 112143 ms listened
+SEBASTIAN PAUL: 111895 ms listened
+Skullcrusher: 111805 ms listened
+The Avett Brothers: 111526 ms listened
+Leon Ware: 111506 ms listened
+Lei Qiang: 110973 ms listened
+Anna Wise: 110666 ms listened
+twuan: 110561 ms listened
+Morning Teleportation: 110256 ms listened
+Prince Charlez: 109806 ms listened
+Westside Gunn: 109805 ms listened
+Paulie Leparik: 109398 ms listened
+Pokelawls: 109378 ms listened
+Ben Rector: 109354 ms listened
+Faber Drive: 109331 ms listened
+Mallrat: 109097 ms listened
+Trap Geek: 108853 ms listened
+Ice Spice: 108807 ms listened
+Marco Pacassoni: 108642 ms listened
+Koren Grace: 108126 ms listened
+Danny Elfman: 108013 ms listened
+Idealism: 108000 ms listened
+Ariis: 108000 ms listened
+Benighted: 107866 ms listened
+LIL MAYO: 107822 ms listened
+Sara Diamond: 107663 ms listened
+The Young Wild: 107534 ms listened
+Foot Ox: 107389 ms listened
+The Home Depot: 107382 ms listened
+The Moon Baby: 107229 ms listened
+MUPP: 107044 ms listened
+Trampled by Turtles: 106552 ms listened
+Valerie Broussard: 106233 ms listened
+Yvie Oddly: 106106 ms listened
+Full Tac: 105937 ms listened
+Million Eyes: 105588 ms listened
+Alex Somers: 105533 ms listened
+Sleep: 105372 ms listened
+Sam Plant: 104948 ms listened
+The Blow: 104686 ms listened
+Desert Sessions: 104610 ms listened
+Sleepy: 104516 ms listened
+Masabumi Kikuchi: 104333 ms listened
+Hard-FI: 104288 ms listened
+Baroque Festival Orchestra: 104231 ms listened
+KINDA BLUE: 104199 ms listened
+Jessica Curry: 103893 ms listened
+Nujabes: 103813 ms listened
+NateWantsToBattle: 103539 ms listened
+min.a: 103341 ms listened
+Hightown Parade: 103329 ms listened
+Pinguini Tattici Nucleari: 103193 ms listened
+Chippy Bits: 102749 ms listened
+Reaper: 102677 ms listened
+The Son: 102604 ms listened
+Ethan Patrick: 102543 ms listened
+David Karsten: 102525 ms listened
+dacelynn: 102468 ms listened
+Dontcry: 102176 ms listened
+Caleborate: 102014 ms listened
+Zimm: 101231 ms listened
+Arkells: 101215 ms listened
+Viktor Vaughn: 100189 ms listened
+Nokae: 100095 ms listened
+Rob Cantor: 100034 ms listened
+ENDUZIX: 100009 ms listened
+Miracle Of Sound: 99934 ms listened
+Palko!Muski: 99773 ms listened
+SavageRealm: 99607 ms listened
+HKFiftyOne: 99411 ms listened
+Mason Jennings: 99350 ms listened
+PARTYNEXTDOOR: 99213 ms listened
+Airman: 99117 ms listened
+Floxyn: 99047 ms listened
+SPIRIT OF THE BEEHIVE: 98809 ms listened
+Splash Daddy: 98775 ms listened
+Spacetactular: 98730 ms listened
+Salami Rose Joe Louis: 98400 ms listened
+Dream Widow: 98293 ms listened
+Mat Kearney: 98180 ms listened
+Purpose 115: 97732 ms listened
+Candace: 97693 ms listened
+猫 シ Corp.: 97654 ms listened
+Ka$tro: 97500 ms listened
+Central Cee: 97393 ms listened
+Fellini Félin: 97350 ms listened
+Turnstile: 97137 ms listened
+Sad Luli: 97097 ms listened
+Kesha Martin: 97000 ms listened
+Destroy Lonely: 96973 ms listened
+A$AP Twelvyy: 96836 ms listened
+DJ Juan Cuba: 96537 ms listened
+Nosaj Thing: 96453 ms listened
+Zock: 96414 ms listened
+No Hot Ashes: 96368 ms listened
+Alien Ant Farm: 96362 ms listened
+Jazzinuf: 96343 ms listened
+645AR: 95763 ms listened
+Jack Black: 95440 ms listened
+Luna Bay: 95248 ms listened
+Iain Andrew: 95131 ms listened
+SpaceGhostPurrp: 94889 ms listened
+Stuck In The Middle: 94880 ms listened
+Phebe Starr: 94749 ms listened
+Talking Heads: 94648 ms listened
+Geryon: 94296 ms listened
+Saliva: 94097 ms listened
+Ovrkast.: 93981 ms listened
+WSTR: 93839 ms listened
+ZillaKami: 93644 ms listened
+Brandon: 93495 ms listened
+Sad Frosty: 93405 ms listened
+Slowed Bunny: 93356 ms listened
+OCEE: 92968 ms listened
+Pyramid: 92851 ms listened
+Relaxation Meditation Songs Divine: 92648 ms listened
+Richy Mitch & The Coal Miners: 92481 ms listened
+Binky the Slinky: 92375 ms listened
+Lower Than Atlantis: 92272 ms listened
+ATLANTIDA: 92131 ms listened
+Fabian Mazur: 91994 ms listened
+Senzawa: 91865 ms listened
+Madison Mars: 91856 ms listened
+Barenaked Ladies: 91856 ms listened
+Sergeantstinky: 91752 ms listened
+Stan Forebee: 91499 ms listened
+The Millennial Club: 91352 ms listened
+Kid Smoko: 91242 ms listened
+Mario Judah: 91170 ms listened
+renforshort: 91004 ms listened
+Life on Planets: 90847 ms listened
+Box Fan: 90754 ms listened
+Buffalo Fuzz: 90678 ms listened
+Eves Karydas: 90628 ms listened
+Joey Trap: 90499 ms listened
+Jacob Sartorius: 90320 ms listened
+Marvin Gaye: 90093 ms listened
+Edvard Grieg: 89987 ms listened
+Blueface: 89511 ms listened
+Pshiybash: 89496 ms listened
+Sincerely Collins: 89441 ms listened
+Odyssey Eurobeat: 89365 ms listened
+Doechii: 89216 ms listened
+This Wild Life: 89141 ms listened
+Fame on Fire: 88872 ms listened
+datfootdive: 88618 ms listened
+FJØRA: 88468 ms listened
+Lil Mabu: 88304 ms listened
+I The Victor: 87966 ms listened
+plenka: 87913 ms listened
+Norman Greenbaum: 87841 ms listened
+Lil Chawley: 87808 ms listened
+HAERTS: 87437 ms listened
+Deeper: 87345 ms listened
+Kim Bo: 87288 ms listened
+DrSleep: 87146 ms listened
+Mickey Valen: 87074 ms listened
+Pinc Louds: 87053 ms listened
+Kill Strings: 85602 ms listened
+Mykola Dmytrovych Leontovych: 85266 ms listened
+ROZES: 85254 ms listened
+Guillemots: 85193 ms listened
+Samuel Anozie: 85090 ms listened
+Claire Waluch: 84703 ms listened
+Tha J-SQUAD: 84636 ms listened
+L.A. Salami: 84599 ms listened
+MAGIC GIANT: 84469 ms listened
+Payte Parker: 84464 ms listened
+HEALTH: 84373 ms listened
+L Devine: 84359 ms listened
+Bill Kiley: 84240 ms listened
+YonKaGor: 84111 ms listened
+Trophy: 84096 ms listened
+Atronach's Aura: 83931 ms listened
+Makoto Matsushita: 83730 ms listened
+Midnight Ambassador: 83585 ms listened
+Rosie Carney: 83582 ms listened
+Tudorson: 83501 ms listened
+Cortex: 83426 ms listened
+Parkway Drive: 83034 ms listened
+Maurice Ravel: 83011 ms listened
+mildrage: 82558 ms listened
+C2d: 82515 ms listened
+Annella: 82460 ms listened
+Z Money: 82232 ms listened
+Lucas Cooper: 82133 ms listened
+Sik-K: 81960 ms listened
+Robert Schumann: 81893 ms listened
+Magic Circuit: 81708 ms listened
+royal mirrorball: 81684 ms listened
+Human Petting Zoo: 81528 ms listened
+Valve Studio Orchestra: 81520 ms listened
+Edward Sharpe & The Magnetic Zeros: 81278 ms listened
+Lil Jon & The East Side Boyz: 80959 ms listened
+Scotty Sire: 80938 ms listened
+DJ PICOLO: 80901 ms listened
+Boxout: 80842 ms listened
+Linearwave: 80666 ms listened
+Owl Sounds: 80472 ms listened
+trentemøller: 80306 ms listened
+415: 80222 ms listened
+Lila Drew: 80150 ms listened
+Univz: 80065 ms listened
+Cherish: 80030 ms listened
+littleONES: 79999 ms listened
+Donna Summer: 79913 ms listened
+HEADLINK: 79902 ms listened
+Mr. C: 79899 ms listened
+Bryan Scary: 79713 ms listened
+JoJo: 79575 ms listened
+We.B: 79479 ms listened
+The Decemberists: 79349 ms listened
+eaup: 79200 ms listened
+Luci4: 79129 ms listened
+Mel Tormé: 79071 ms listened
+American Hi-Fi: 78721 ms listened
+Spook Less: 78485 ms listened
+Hannah Williams: 78115 ms listened
+Johnny Cash: 78066 ms listened
+桶狭間ありさ: 77767 ms listened
+Sizzy Rocket: 77699 ms listened
+Blue Franklin: 77530 ms listened
+Matt Nathanson: 77190 ms listened
+Piglet Spacey: 77000 ms listened
+Canadian Softball: 76731 ms listened
+TK Cap: 76671 ms listened
+Lyra Pramuk: 76608 ms listened
+Leonz: 76566 ms listened
+12 Dirty Bullets: 76549 ms listened
+Triple H: 76088 ms listened
+aspidistrafly: 76066 ms listened
+Crapface: 75974 ms listened
+Your Pet Gargoyle: 75833 ms listened
+Citizen: 75139 ms listened
+Justine Skye: 75061 ms listened
+SwuM: 75043 ms listened
+Yebba: 74961 ms listened
+Pele: 74733 ms listened
+seoninjang 선인장: 74701 ms listened
+Blue Nigel: 74518 ms listened
+Puddle Of Mudd: 74517 ms listened
+Knxwledge: 73898 ms listened
+toa: 73628 ms listened
+Hovvdy: 73599 ms listened
+Satellite Citi: 73552 ms listened
+daena: 73331 ms listened
+Carl Philipp Emanuel Bach: 73093 ms listened
+PUSSY PATROL: 72957 ms listened
+Deap Vally: 72860 ms listened
+Dz osm: 72808 ms listened
+mysticphonk: 72642 ms listened
+Jaeden Camstra: 72640 ms listened
+Rome Fortune: 72455 ms listened
+Ghostland Observatory: 72444 ms listened
+Calboy: 72376 ms listened
+Icarus Moth: 72341 ms listened
+侯磊: 72250 ms listened
+Safety Trance: 71734 ms listened
+Naethan Apollo: 71308 ms listened
+The Shakes: 71168 ms listened
+Hit The Lights: 71153 ms listened
+Royal Coda: 71016 ms listened
+Fergus James: 70635 ms listened
+HOAX: 70372 ms listened
+Ivey: 70151 ms listened
+DJ Gaw: 70112 ms listened
+WJSN THE BLACK: 69655 ms listened
+Glass Caves: 69407 ms listened
+Kenny Dorham: 69079 ms listened
+Joel Adams: 69044 ms listened
+Janos Sebestyen: 68573 ms listened
+bliss3three: 68571 ms listened
+Abominable Putridity: 68425 ms listened
+RŮDE: 68231 ms listened
+Luv.Ly: 68179 ms listened
+Maki Funada from j-Pad Girls: 68136 ms listened
+Soupy Garbage Juice: 68000 ms listened
+Hotel Books: 67587 ms listened
+Le Phantom: 67541 ms listened
+Fly By Nightcore: 67438 ms listened
+Katie Anne Trigger Sounds: 67305 ms listened
+Stegosaurus Rex: 67283 ms listened
+The Prince of Weed: 67159 ms listened
+Mahogany Purple: 67149 ms listened
+SABELLA OFFICIAL: 67049 ms listened
+Cut Glass Kings: 66558 ms listened
+Sohn Aelia: 66538 ms listened
+Alice Vicious: 66431 ms listened
+Renzo: 66391 ms listened
+GroovyDominoes52: 66287 ms listened
+Kid Jupiter: 66195 ms listened
+Iceboy Ben: 66070 ms listened
+Frédéric Schubert: 65681 ms listened
+Isac Saleh: 65665 ms listened
+Makeout: 65641 ms listened
+Relient K: 65470 ms listened
+Pc Tweezie: 65314 ms listened
+Jean Sibelius: 65186 ms listened
+Rhys Lindsay: 65000 ms listened
+Grace Carter: 64948 ms listened
+CODE KUNST: 64615 ms listened
+SahBabii: 64237 ms listened
+Sodikken: 64197 ms listened
+Sounds Cats Love: 64000 ms listened
+Razorlight: 63958 ms listened
+Devour the Day: 63911 ms listened
+Lazar Berman: 63840 ms listened
+Bye Bye Badman: 63808 ms listened
+Mae: 63718 ms listened
+Boy Called Cute: 63616 ms listened
+Monsieur Alpaci: 63173 ms listened
+Dinner Time: 63075 ms listened
+Stephanie Hsu: 62526 ms listened
+Alexandre Desplat: 62519 ms listened
+發條月亮: 62343 ms listened
+cosmic collective: 62215 ms listened
+Matt Christensen: 62106 ms listened
+The Knocks: 62091 ms listened
+Ruido Marrón Para Bebés: 62069 ms listened
+Patience & Prudence: 61821 ms listened
+RAP TEAM: 61787 ms listened
+Herrick & Hooley: 61759 ms listened
+Judah & the Lion: 61710 ms listened
+Thelonious Monk Septet: 61572 ms listened
+birthday: 61556 ms listened
+DJ Purpberry: 61498 ms listened
+BBVB: 60999 ms listened
+The Simps: 60962 ms listened
+alt!: 60945 ms listened
+Futuristic: 60813 ms listened
+Chandler: 59856 ms listened
+Forgive Durden: 59841 ms listened
+Jesper Kyd: 59299 ms listened
+СТРУКТУРА ЩАСТЯ: 59074 ms listened
+Tommy Lefroy: 59026 ms listened
+"Weird Al" Yankovic: 58325 ms listened
+Darwin Deez: 58258 ms listened
+Ian Giles: 57706 ms listened
+Andrew Prahlow: 57500 ms listened
+Childbirth: 57288 ms listened
+Ad Astra: 57022 ms listened
+Jovani Occomy: 56934 ms listened
+Lucky Daye: 56910 ms listened
+Jayda G: 56796 ms listened
+Client Liaison: 56729 ms listened
+Belle Delphine Kirschner: 56308 ms listened
+Rednex: 56191 ms listened
+Sugar Ray: 56174 ms listened
+Johannes Brahms: 55938 ms listened
+Generationals: 55912 ms listened
+Jack Johnson: 55839 ms listened
+Dresage: 55806 ms listened
+SULLI: 55362 ms listened
+Monster High: 55235 ms listened
+Naomi Wild: 55031 ms listened
+Tate McRae: 54830 ms listened
+Macseal: 54819 ms listened
+Sound Effects Library: 54762 ms listened
+Caleb Belkin: 54543 ms listened
+Teyana Taylor: 54540 ms listened
+Land of Peace: 54497 ms listened
+Softest Hard: 54296 ms listened
+graves: 54215 ms listened
+Steve Gabry: 54021 ms listened
+bloody white: 53964 ms listened
+salem ilese: 53862 ms listened
+Fantasy Guys: 53696 ms listened
+The Alan Parsons Project: 53167 ms listened
+Jane Color: 53098 ms listened
+Vane: 52750 ms listened
+ALAN BERGIE: 52656 ms listened
+Hippie Sabotage: 52422 ms listened
+Huncho Jack: 52359 ms listened
+Strawberry Station: 52279 ms listened
+Sitcom: 52115 ms listened
+Carousel Kings: 51803 ms listened
+Seth Sentry: 51685 ms listened
+Hari: 51316 ms listened
+Bryan Adams: 51175 ms listened
+Dante Klein: 50828 ms listened
+Young Greatness: 50711 ms listened
+DJ Kay Slay: 50614 ms listened
+Duwap Kaine: 50348 ms listened
+back number: 50134 ms listened
+Megan & Liz: 50001 ms listened
+Blood Command: 49946 ms listened
+Mosie: 49885 ms listened
+Goth Hippie: 49783 ms listened
+Big Spring: 49539 ms listened
+Danny Gonzalez: 49412 ms listened
+Mercuzio Pianist: 49301 ms listened
+felice bauer: 49229 ms listened
+Dream Supplier: 49227 ms listened
+Enzo: 49215 ms listened
+Lizzy Land: 49203 ms listened
+sister M: 49037 ms listened
+The Mars Volta: 48905 ms listened
+Ella Vos: 48769 ms listened
+Granular: 48763 ms listened
+ocha: 48576 ms listened
+Landon Austin: 48297 ms listened
+Ayo & Teo: 48255 ms listened
+Puppy: 48116 ms listened
+Ebenezer: 48018 ms listened
+Rebzyyx: 48000 ms listened
+SIILA: 47910 ms listened
+CZARFACE: 47885 ms listened
+ize: 47769 ms listened
+Moncrieff: 47763 ms listened
+The Oxford Sleep Institute: 47569 ms listened
+E R I K: 47526 ms listened
+dubé: 47525 ms listened
+The Proclaimers: 47429 ms listened
+Slimesito: 47386 ms listened
+Ev0lution: 47151 ms listened
+Blake Shelton: 46860 ms listened
+LOWERLIPDRIP: 46775 ms listened
+Senses Fail: 46719 ms listened
+Yubin: 46536 ms listened
+luxia1: 46442 ms listened
+Jonah Renna: 45951 ms listened
+Siimbiie Lakew: 45919 ms listened
+Surf Mesa: 44906 ms listened
+Daniel Powter: 44880 ms listened
+Fenne Lily: 44666 ms listened
+Apparat: 44330 ms listened
+Mr.B The Gentleman Rhymer: 44302 ms listened
+Bizzy Crook: 44234 ms listened
+Sigala: 44164 ms listened
+Andy Cizek: 44134 ms listened
+La Luz: 44083 ms listened
+Tomas Bellwais: 43874 ms listened
+Forever Starts Today: 43716 ms listened
+White Noise Radiance: 43589 ms listened
+Bad Religion: 43549 ms listened
+Kayla Nicole: 43444 ms listened
+Snoop Dogg: 43270 ms listened
+Dobie Gray: 43200 ms listened
+Scoundrels: 43040 ms listened
+Kingo Hamada: 42973 ms listened
+AB6IX: 42933 ms listened
+Jorja Smith: 42933 ms listened
+Toadies: 42870 ms listened
+Cartel: 42732 ms listened
+Back Alley Sound: 42642 ms listened
+Idina Menzel: 42618 ms listened
+Young Fanatic: 42428 ms listened
+420 Unlovable: 42422 ms listened
+Charmer: 42261 ms listened
+PASSEPIED: 42214 ms listened
+Wild Ire: 41903 ms listened
+Lee Mujin: 41897 ms listened
+Kevin Remisch: 41892 ms listened
+Sevendust: 41795 ms listened
+Ralk: 41772 ms listened
+Prophets Of Rage: 41703 ms listened
+MINZY: 41478 ms listened
+CoCo: 41327 ms listened
+Smrtdeath: 41308 ms listened
+Requiem Inc.: 41261 ms listened
+Savannah Sgro: 40873 ms listened
+Nine Days: 40774 ms listened
+9MUSES: 40703 ms listened
+Lil Boodang: 40482 ms listened
+Ruben: 40423 ms listened
+NATURE: 40402 ms listened
+dwilly: 40351 ms listened
+RUNNER BOY: 40298 ms listened
+Loving Caliber: 40240 ms listened
+Rob Viktum: 40236 ms listened
+Phish: 40204 ms listened
+Stalley: 39917 ms listened
+Sevyn Streeter: 39636 ms listened
+DNCE: 39587 ms listened
+Ari Chi: 39574 ms listened
+White Reaper: 39520 ms listened
+Öwnboss: 39377 ms listened
+Zuzu: 39216 ms listened
+Dead Favours: 39198 ms listened
+Gala: 39167 ms listened
+aldn: 38993 ms listened
+The Hails: 38730 ms listened
+Nobuo Uematsu: 38531 ms listened
+Alice Chater: 38525 ms listened
+The Vapors: 38479 ms listened
+Slyleaf: 38336 ms listened
+Hans Zimmer: 38112 ms listened
+SUPERBEE: 37982 ms listened
+BLOXX: 37894 ms listened
+Blayne B.: 37709 ms listened
+Youngblood Hawke: 37466 ms listened
+Gin Wigmore: 37376 ms listened
+Hyemin: 37344 ms listened
+Shreya Ghoshal: 37298 ms listened
+ivri: 37269 ms listened
+Rothy: 37086 ms listened
+Timeflies: 36966 ms listened
+Giant Rooks: 36939 ms listened
+Mree: 36894 ms listened
+Animelmack: 36649 ms listened
+Souly Had: 36631 ms listened
+H "two" O: 36524 ms listened
+Hotel Mira: 36504 ms listened
+NITTI: 36215 ms listened
+The HU: 36215 ms listened
+Andy Mineo: 35950 ms listened
+Panthurr: 35852 ms listened
+Fishing in Japan: 35832 ms listened
+Quality Control: 35811 ms listened
+Lil Scrappy: 35673 ms listened
+LEDGER: 35642 ms listened
+DaniLeigh: 35627 ms listened
+Soundazora: 35327 ms listened
+Dai Burger: 35294 ms listened
+Ayesha Adams: 35199 ms listened
+JacobPierce Music: 35157 ms listened
+daysormay: 34884 ms listened
+Plested: 34806 ms listened
+PiNKII: 34295 ms listened
+Storm Weather Shanty Choir: 34124 ms listened
+Felix Martin: 33649 ms listened
+Gregorian: 33642 ms listened
+Itzdylxn: 33621 ms listened
+Too $hort: 33576 ms listened
+HOMESHAKE: 33456 ms listened
+Boy Sim: 33438 ms listened
+Lunatics On Pogosticks: 33314 ms listened
+Tycho: 33215 ms listened
+Kevin Garrett: 33069 ms listened
+Hikaru Utada: 32977 ms listened
+Stray Cats: 32585 ms listened
+Aaron Taos: 32507 ms listened
+Joni Mitchell: 32469 ms listened
+Jade The Moon: 32394 ms listened
+Wheeler Walker Jr.: 32298 ms listened
+Starry Cat: 32192 ms listened
+Cosmos & Creature: 32121 ms listened
+SMiLE.dk: 31935 ms listened
+Stromae: 31866 ms listened
+Smokepurpp: 31857 ms listened
+Veronica Marshall: 31830 ms listened
+Joyce Manor: 31781 ms listened
+The Kite Machine: 31764 ms listened
+Brandi Carlile: 31741 ms listened
+Maxo: 31697 ms listened
+Focus: 31529 ms listened
+Wells*: 31444 ms listened
+Andrey Azizov: 31370 ms listened
+The Clash: 31132 ms listened
+Jimin: 30999 ms listened
+404 Crew: 30835 ms listened
+AnalDelRey: 30485 ms listened
+Wafia: 30426 ms listened
+chief.: 30309 ms listened
+Lobo: 30282 ms listened
+Microwave: 30274 ms listened
+Daryl Hall & John Oates: 30259 ms listened
+Van Morrison: 30139 ms listened
+Siinamota: 30039 ms listened
+Mundy: 29860 ms listened
+Buttons: 29740 ms listened
+Pouya: 29667 ms listened
+Fun Boy Three: 29641 ms listened
+Nala Williams: 29482 ms listened
+COULOU: 29418 ms listened
+Sensitive ASMR: 29350 ms listened
+Land of Talk: 29238 ms listened
+NU'EST W: 29231 ms listened
+Eagles Of Death Metal: 29174 ms listened
+What So Not: 29075 ms listened
+Running Wild: 29000 ms listened
+Helene Fischer: 28827 ms listened
+Shamik: 28735 ms listened
+Music For U: 28726 ms listened
+Kidswaste: 28699 ms listened
+Ehiorobo: 28696 ms listened
+Ed The Dog: 28653 ms listened
+Good Doogs: 28462 ms listened
+Banshee: 28408 ms listened
+Sean Henry: 28398 ms listened
+ALLIGATOR: 28258 ms listened
+Katelyn Tarver: 28208 ms listened
+Last Train: 28159 ms listened
+Howie Day: 27704 ms listened
+Mokita: 27677 ms listened
+Blue Dahlia: 27677 ms listened
+Holiday Sidewinder: 27434 ms listened
+PJ Lucid: 27386 ms listened
+Dreaming Through Days: 27097 ms listened
+Hanggai: 27072 ms listened
+Sacrificial Slaughter: 27071 ms listened
+Rexx Life Raj: 26949 ms listened
+Foxes: 26909 ms listened
+Aer: 26865 ms listened
+J Rabbit: 26850 ms listened
+Hot Mulligan: 26830 ms listened
+OLY: 26730 ms listened
+Ryan Chang: 26684 ms listened
+Billy Idol: 26652 ms listened
+Ella Mai: 26645 ms listened
+Masters of Sound: 26573 ms listened
+Drunk Mums: 26395 ms listened
+Moose Blood: 26377 ms listened
+Jonathan Groff: 26344 ms listened
+Heavy Steppers: 26133 ms listened
+Regard: 26031 ms listened
+Convey: 26029 ms listened
+Neru: 25855 ms listened
+Golden Earring: 25819 ms listened
+Diego Money: 25800 ms listened
+Biz Markie: 25560 ms listened
+Wrabel: 25472 ms listened
+EZRA: 25450 ms listened
+Marie Madeleine: 25039 ms listened
+EUNHA: 25000 ms listened
+Oriyin: 24958 ms listened
+Malcura: 24944 ms listened
+Relaxation Channel: 24895 ms listened
+Depeche Mode: 24845 ms listened
+Olivia Olson: 24699 ms listened
+Emily King: 24566 ms listened
+Riyandi Kusuma: 24533 ms listened
+Hanson: 24311 ms listened
+Deaf Havana: 24303 ms listened
+Goodguy Styles: 24298 ms listened
+Bmike: 24252 ms listened
+Solange: 24120 ms listened
+Lenee: 24063 ms listened
+Overdose: 23805 ms listened
+SVRCINA: 23684 ms listened
+Matthew Pinder: 23658 ms listened
+Yoste: 23585 ms listened
+MAYLYN: 23326 ms listened
+The Grinns: 23315 ms listened
+Xella Machina: 23251 ms listened
+BRS Kash: 23249 ms listened
+JEFFE: 23219 ms listened
+Riley!: 23206 ms listened
+CORNER STORE KINGDOM: 23195 ms listened
+Blood Red Shoes: 23184 ms listened
+Dirty Honey: 23125 ms listened
+Humpback Sounds: 23103 ms listened
+Dusky Grey: 23057 ms listened
+Piero Montanari: 22698 ms listened
+The Farts: 22613 ms listened
+UHSN: 22483 ms listened
+SuperKnova: 22430 ms listened
+ZZ Top: 22384 ms listened
+George Clanton: 22380 ms listened
+大主宰乐团: 22313 ms listened
+machineheart: 22245 ms listened
+Big Time Rush: 22209 ms listened
+MarMar Oso: 22104 ms listened
+Jon Foreman: 22058 ms listened
+MidnightDrives: 22054 ms listened
+大張偉 | 于曉光 | 劉宇寧 | 董思成: 21934 ms listened
+RevoMemel: 21930 ms listened
+Atreyu: 21888 ms listened
+Redlight King: 21594 ms listened
+APSPDR+: 21440 ms listened
+Esterly: 21353 ms listened
+Danny Fisher: 21352 ms listened
+Angels & Airwaves: 21292 ms listened
+BABA: 21027 ms listened
+Dream Street: 20996 ms listened
+THE BOYZ: 20937 ms listened
+3 Doors Down: 20916 ms listened
+Cal Scruby: 20890 ms listened
+Akon: 20839 ms listened
+Robert de Visée: 20772 ms listened
+Ikimonogakari: 20543 ms listened
+Waka Flocka Flame: 20526 ms listened
+Aura: 20502 ms listened
+Little Man Tate: 20431 ms listened
+The Doors: 20348 ms listened
+Rosa Walton: 20312 ms listened
+For The Win: 20245 ms listened
+Zebra Katz: 20183 ms listened
+Kris Kross Amsterdam: 20136 ms listened
+Crazy Town: 20108 ms listened
+алёна швец.: 20064 ms listened
+Cleo Sol: 19800 ms listened
+Viratempo: 19711 ms listened
+WAR*HALL: 19675 ms listened
+Kid Quill: 19608 ms listened
+Lollia: 19541 ms listened
+Slime Girls: 19370 ms listened
+Modest Mussorgsky: 19354 ms listened
+Band23: 19264 ms listened
+No Motiv: 19216 ms listened
+Spotify: 19135 ms listened
+Elephant Gym: 19007 ms listened
+Oh, Weatherly: 18999 ms listened
+The Dose: 18901 ms listened
+ASL: 18732 ms listened
+alexmillerjamz: 18730 ms listened
+Chris Stapleton: 18730 ms listened
+Ivy Lab: 18692 ms listened
+foxtails: 18293 ms listened
+The Cranberries: 18134 ms listened
+Chauncey666: 17946 ms listened
+PONCHO: 17925 ms listened
+Just Nick: 17839 ms listened
+Tones And I: 17820 ms listened
+Lil Jogger: 17786 ms listened
+Wild Child: 17786 ms listened
+Billy Stonecipher: 17781 ms listened
+The Helio Sequence: 17727 ms listened
+CNBLUE: 17344 ms listened
+Delicatessen Noise: 17331 ms listened
+Young Scooter: 17295 ms listened
+Wingtip: 17283 ms listened
+Austin Moon: 17279 ms listened
+Yella Beezy: 17258 ms listened
+I'm Blue: 17200 ms listened
+Massive Attack: 17182 ms listened
+Alex Brightman: 17098 ms listened
+The Singing Guitar: 16981 ms listened
+Shannon Taylor: 16894 ms listened
+The Echo-Friendly: 16888 ms listened
+phem: 16874 ms listened
+A Ao: 16768 ms listened
+Peter Bradley Adams: 16764 ms listened
+Poemme: 16718 ms listened
+Mastodon: 16703 ms listened
+Red Aunts: 16682 ms listened
+TRACE: 16602 ms listened
+Nouns: 16597 ms listened
+A Step Ahead: 16590 ms listened
+Baby Queen: 16404 ms listened
+Feeder: 16125 ms listened
+Moody Good: 16033 ms listened
+Jon Doe: 15896 ms listened
+More Giraffes: 15862 ms listened
+Ghostluvme: 15813 ms listened
+Caitlyn Scarlett: 15607 ms listened
+xetonyl's archive: 15595 ms listened
+Happy Kuru Kuru: 15463 ms listened
+Kyle Dion: 15360 ms listened
+The Buggles: 15339 ms listened
+Agust D: 15304 ms listened
+Saint Mesa: 15095 ms listened
+Declan J Donovan: 15054 ms listened
+Diana Ross: 14990 ms listened
+DE'WAYNE: 14922 ms listened
+Dezzy Hollow: 14824 ms listened
+Chuxx Morris: 14814 ms listened
+YG Hootie: 14805 ms listened
+Mikey Devious: 14756 ms listened
+The Ataris: 14744 ms listened
+Freya Ridings: 14721 ms listened
+NEEDTOBREATHE: 14717 ms listened
+Thinking Caps: 14656 ms listened
+Shepherd: 14571 ms listened
+Howard Shore: 14549 ms listened
+Francko: 14528 ms listened
+Craymer: 14528 ms listened
+Eric Church: 14463 ms listened
+Courier Club: 14442 ms listened
+88GLAM: 14418 ms listened
+Little Chief: 14378 ms listened
+Shannen Moser: 14357 ms listened
+MEMI: 14335 ms listened
+Dead Horses: 14333 ms listened
+Piano Relax: 14326 ms listened
+Ian Carey Project: 14280 ms listened
+Naudikah: 14257 ms listened
+Sludge: 14233 ms listened
+Richard Houghten: 14198 ms listened
+Romanticide: 14122 ms listened
+YAKUSHIMARU Etsuko: 14101 ms listened
+Nerves Baddington: 14099 ms listened
+FRANCK.: 14015 ms listened
+Phangs: 13978 ms listened
+Ali Gatie: 13862 ms listened
+Laurent Wilks: 13722 ms listened
+Sofia Mills: 13674 ms listened
+Marcin Przybyłowicz: 13610 ms listened
+Kamrin Houser: 13606 ms listened
+True Damage: 13583 ms listened
+Outside Broadcast Recordings: 13559 ms listened
+Ncha-P: 13546 ms listened
+Christian Rich: 13525 ms listened
+keshi: 13479 ms listened
+Jaymvrc: 13444 ms listened
+SYML: 13049 ms listened
+Derina Harvey Band: 13024 ms listened
+Barny Fletcher: 13012 ms listened
+slowthai: 12917 ms listened
+Ron Gallo: 12916 ms listened
+王穀雨: 12671 ms listened
+David Munster: 12631 ms listened
+Confidence Man: 12561 ms listened
+Something Corporate: 12554 ms listened
+BarbWalters: 12503 ms listened
+TARGET: 12410 ms listened
+Sweet The Kid: 12394 ms listened
+Daði Freyr: 12376 ms listened
+mimi bay: 12278 ms listened
+Obie Moody: 12272 ms listened
+Team Arliss: 12271 ms listened
+要不要买菜: 12224 ms listened
+プリキュアオールスターズ: 12224 ms listened
+Super Cassette: 12096 ms listened
+Tasha: 12058 ms listened
+Vanessa Vanjie Mateo: 11957 ms listened
+The Enemy: 11726 ms listened
+Down With Webster: 11726 ms listened
+Lecrae: 11652 ms listened
+Yusuf / Cat Stevens: 11586 ms listened
+David Banner: 11563 ms listened
+Angelo De Augustine: 11563 ms listened
+Zhou Zi Yan: 11561 ms listened
+张赫宣: 11559 ms listened
+Tatsuro Yamashita: 11541 ms listened
+Gia Woods: 11540 ms listened
+Keisha Shade`: 11518 ms listened
+Zabawa: 11459 ms listened
+Said The Whale: 11434 ms listened
+Rook1e: 11392 ms listened
+Alexis Munroe: 11389 ms listened
+Kamaiyah: 11308 ms listened
+Lucero: 11300 ms listened
+MASS OF THE FERMENTING DREGS: 11285 ms listened
+The Ready Set: 11264 ms listened
+Sineg: 11253 ms listened
+Necrotic Disgorgement: 11221 ms listened
+Shea Couleé: 11203 ms listened
+L7: 11114 ms listened
+Barney: 11111 ms listened
+Cypis: 11028 ms listened
+Red Hearse: 10980 ms listened
+Isador: 10907 ms listened
+Mourners: 10896 ms listened
+Beach Goons: 10891 ms listened
+Reggii: 10866 ms listened
+Sleep Radiance: 10820 ms listened
+Halogenix: 10797 ms listened
+Camp Howard: 10794 ms listened
+VeggieTales: 10709 ms listened
+Jades Goudreault: 10693 ms listened
+Paul Kim: 10655 ms listened
+Saturn Citizen: 10624 ms listened
+Ocie Elliott: 10474 ms listened
+Sheena Easton: 10410 ms listened
+HMT TRAY: 10389 ms listened
+La Bouche: 10355 ms listened
+TWIN XL: 10333 ms listened
+Cinnamon: 10196 ms listened
+Diamond Messages: 10154 ms listened
+五條人: 10131 ms listened
+Arush Mandal: 10101 ms listened
+Pink Drift: 10090 ms listened
+CHEN: 9972 ms listened
+Himera: 9919 ms listened
+Soloin: 9916 ms listened
+PsykozBrothers: 9877 ms listened
+Fljúga: 9566 ms listened
+Umberto Giordano: 9557 ms listened
+Fred again..: 9472 ms listened
+Emperor: 9450 ms listened
+Aborted: 9429 ms listened
+New Order: 9428 ms listened
+Valiant Hearts: 9386 ms listened
+NREM: 9215 ms listened
+DMA'S: 9195 ms listened
+And The Kids: 9190 ms listened
+Odd Sweetheart: 9151 ms listened
+Dionysia: 9151 ms listened
+Tribe Society: 9148 ms listened
+Loveless: 9148 ms listened
+John Rutter: 9140 ms listened
+楊振宇: 9130 ms listened
+Psymun: 9109 ms listened
+Dj Rehan: 9074 ms listened
+The Bouncing Souls: 9032 ms listened
+Mr. President: 9020 ms listened
+Jesus Honcho: 9007 ms listened
+HAWAI: 8874 ms listened
+Altan Urag: 8846 ms listened
+Uncle Kracker: 8707 ms listened
+Luwaks: 8640 ms listened
+Golden Flow: 8617 ms listened
+Iris ~Pamela Calvo~: 8576 ms listened
+Gorgasm: 8341 ms listened
+Tyler Glenn: 8341 ms listened
+Carrie Underwood: 8324 ms listened
+Maaya Sakamoto: 8277 ms listened
+The Lenny Ryan Trio: 8266 ms listened
+Alojz Pavic: 8264 ms listened
+Funeral Suits: 8243 ms listened
+Benediction: 8234 ms listened
+Matthew Young: 8219 ms listened
+Eat Your Heart Out: 8213 ms listened
+Juju B. Goode: 8191 ms listened
+Misfits: 8173 ms listened
+Daniel Backes: 8128 ms listened
+Hot Chocolate: 8127 ms listened
+Ghost Soul: 8112 ms listened
+Manny Chu: 8105 ms listened
+LamazeP: 8084 ms listened
+Aberdeen is Dead: 8080 ms listened
+Confetti: 8077 ms listened
+Doug Hoyer: 8064 ms listened
+Augustana: 8019 ms listened
+Lyrical Lull: 8005 ms listened
+PLVTINUM: 7987 ms listened
+Pentakill: 7957 ms listened
+Pokémon: 7888 ms listened
+Between You & Me: 7689 ms listened
+Marlon Craft: 7685 ms listened
+Small Crush: 7662 ms listened
+Silent Pilot: 7658 ms listened
+Lisa Loeb: 7615 ms listened
+Yb.: 7594 ms listened
+WESTSIDE BOOGIE: 7592 ms listened
+Malie Aolani: 7570 ms listened
+Starship: 7561 ms listened
+VINCINT: 7546 ms listened
+SUBURBAMORE: 7453 ms listened
+Rachel Crow: 7426 ms listened
+Christopher Tin: 7409 ms listened
+Loaf Muzik: 7407 ms listened
+Ms. White: 7360 ms listened
+Scary Bitches: 7340 ms listened
+David Cook: 7336 ms listened
+Bella Thorne: 7280 ms listened
+Student Rick: 7272 ms listened
+Auri: 7198 ms listened
+Masayoshi Soken: 7189 ms listened
+dancing cats: 7167 ms listened
+Peter Kuli: 7082 ms listened
+DDG: 7029 ms listened
+Casper White: 7015 ms listened
+Unmerciful: 6848 ms listened
+Sponge: 6820 ms listened
+Massimo Faraò Trio: 6780 ms listened
+LEEBADA: 6710 ms listened
+None Like Joshua: 6662 ms listened
+謝春花: 6633 ms listened
+FELIX SANDMAN: 6588 ms listened
+DAYLE: 6582 ms listened
+Aaryan Shah: 6571 ms listened
+Ljubljana Symphony Orchestra: 6570 ms listened
+The Axidents: 6565 ms listened
+Odd Future: 6506 ms listened
+Billy Talent: 6501 ms listened
+Lucce: 6501 ms listened
+Kuwada: 6501 ms listened
+Valencia: 6490 ms listened
+Joe Jenkins: 6485 ms listened
+millennium parade: 6478 ms listened
+Danny Diamonds: 6455 ms listened
+Mindful Measures: 6418 ms listened
+Lavia 6: 6377 ms listened
+Seven Lions: 6339 ms listened
+Nature Sounds Relaxation: Music for Sleep, Meditation, Massage Therapy, Spa: 6336 ms listened
+Simpsonill: 6293 ms listened
+Nilüfer Yanya: 6282 ms listened
+Hypnosis: 6270 ms listened
+Serrini: 6258 ms listened
+Rob Mayth: 6250 ms listened
+Mercyful Fate: 6232 ms listened
+Folie: 6153 ms listened
+Meyhem Lauren: 6130 ms listened
+Analepsy: 6122 ms listened
+Astrophysics: 6058 ms listened
+The Aquadolls: 5902 ms listened
+Jai Paul: 5897 ms listened
+Relajación: 5888 ms listened
+Transcendental Light Orchestra: 5845 ms listened
+Sharon Needles: 5824 ms listened
+Lauren Marcus: 5804 ms listened
+The Zame: 5789 ms listened
+Rufi-O: 5781 ms listened
+Pickwick: 5735 ms listened
+Gioachino Rossini: 5717 ms listened
+Nana Mizuki: 5701 ms listened
+Wooli: 5654 ms listened
+Autumn Kings: 5631 ms listened
+Knox Fortune: 5525 ms listened
+Johnnyswim: 5504 ms listened
+Lola Blanc: 5479 ms listened
+Infinite Hz: 5415 ms listened
+Hodgy: 5410 ms listened
+G.URBAN: 5409 ms listened
+Boston Manor: 5363 ms listened
+Noirre: 5340 ms listened
+Fabien Tamm: 5332 ms listened
+Cécile McLorin Salvant: 5293 ms listened
+Faze Wave: 5259 ms listened
+Drew Monson: 5248 ms listened
+94stones: 5248 ms listened
+Michael Franti & Spearhead: 5226 ms listened
+The Real Zebos: 5205 ms listened
+Anna of the North: 5205 ms listened
+Tiger Goods: 5162 ms listened
+Sweet Female Attitude: 5154 ms listened
+Rick Springfield: 5120 ms listened
+Marion Marrón: 5120 ms listened
+Mixed Noise Bank: 5077 ms listened
+Pink Orbit: 5011 ms listened
+Guapdad 4000: 4992 ms listened
+Isaac Yong: 4969 ms listened
+sheldon charlot: 4928 ms listened
+Natural Samples: 4905 ms listened
+Coco & Breezy: 4876 ms listened
+Kiyoshi Hikawa: 4864 ms listened
+Funeral Future: 4853 ms listened
+NBSPLV: 4826 ms listened
+Gizeh Disco: 4821 ms listened
+Fictional Athmosphere: 4806 ms listened
+DANEGIAN: 4800 ms listened
+Mind & Ears: 4798 ms listened
+quietly3: 4778 ms listened
+Da$H: 4760 ms listened
+Klingande: 4736 ms listened
+Kilo Herz: 4692 ms listened
+Wolf Gang: 4667 ms listened
+HYPNOSISMIC -D.R.B- (Division All Stars): 4574 ms listened
+These Streets: 4565 ms listened
+AZTX: 4540 ms listened
+Alison Wonderland: 4527 ms listened
+Eugene Lambert: 4527 ms listened
+Friedrich Habetler: 4475 ms listened
+Rizha: 4458 ms listened
+The Temper Trap: 4411 ms listened
+Teacup Monster: 4388 ms listened
+Chard Hogan: 4373 ms listened
+Nancy Sinatra: 4372 ms listened
+Punk Shop Boys: 4365 ms listened
+Pia Mia: 4318 ms listened
+DJ Patrick R: 4205 ms listened
+OSTER project: 4202 ms listened
+Anna Tivel: 4187 ms listened
+Erik Eriksson: 4160 ms listened
+Roo Panes: 4128 ms listened
+Post Animal: 4095 ms listened
+Matobolo: 4095 ms listened
+Carolyn Jordan: 4074 ms listened
+TiRon & Ayomari: 4010 ms listened
+James: 3993 ms listened
+Phora: 3993 ms listened
+Evan the Red Headed: 3984 ms listened
+VANO 3000: 3981 ms listened
+Rude-α: 3968 ms listened
+King Chip: 3924 ms listened
+Mind Waves: 3923 ms listened
+Andrew W.K.: 3839 ms listened
+Midnight Fuckboys: 3818 ms listened
+Everclear: 3769 ms listened
+Boy Willows: 3761 ms listened
+Seeking Balance: 3754 ms listened
+Wale: 3738 ms listened
+Exodar: 3711 ms listened
+Hatsune Miku: 3669 ms listened
+Matt Kent: 3654 ms listened
+Tera Melos: 3646 ms listened
+moumoon: 3645 ms listened
+Reality Sound: 3626 ms listened
+HoopsandHipHop: 3562 ms listened
+emothebadkid: 3541 ms listened
+斯斯與帆: 3541 ms listened
+AREA: 3540 ms listened
+Young & Sick: 3436 ms listened
+The Shivas: 3436 ms listened
+lilbootycall: 3430 ms listened
+Amel Scott: 3428 ms listened
+松尾早人: 3413 ms listened
+Internal Devour: 3413 ms listened
+Swedish House Mafia: 3412 ms listened
+Max Richter: 3390 ms listened
+San Sebastiano: 3390 ms listened
+Enur: 3370 ms listened
+BlVkarot: 3349 ms listened
+Vibe Industry: 3348 ms listened
+GlitchxCity: 3332 ms listened
+Lowhi: 3306 ms listened
+White Noise Baby Sleep: 3285 ms listened
+Cassia: 3274 ms listened
+Ringo Starr: 3242 ms listened
+Escapeway ASMR: 3242 ms listened
+李行亮: 3221 ms listened
+Astor Piazzolla: 3200 ms listened
+Nolie: 3187 ms listened
+WALLA: 3157 ms listened
+molecule: 3156 ms listened
+Yeti Beats: 3114 ms listened
+Hitomi Yoshida: 3114 ms listened
+Lyonzon: 3093 ms listened
+Freddie Gibbs: 3088 ms listened
+Whoretopsy: 3071 ms listened
+Prophet: 3065 ms listened
+Peace: 3029 ms listened
+The Twotakes: 3007 ms listened
+Flume: 2986 ms listened
+John Ottman: 2965 ms listened
+Émile Aumont: 2950 ms listened
+Louis Armstrong: 2948 ms listened
+Eoforwine: 2941 ms listened
+Jazz Cartier: 2922 ms listened
+KROWNS: 2837 ms listened
+Dreamcation: 2833 ms listened
+Rick Ross: 2832 ms listened
+BradBrooks: 2816 ms listened
+Demise.: 2730 ms listened
+Nick Vig: 2709 ms listened
+The Dears: 2688 ms listened
+Danger: 2688 ms listened
+Lucius: 2654 ms listened
+Happy.: 2623 ms listened
+Young Bull: 2600 ms listened
+Vanmiran: 2581 ms listened
+dopeSMOOTHIES: 2577 ms listened
+Joseph Black: 2577 ms listened
+Swoope: 2560 ms listened
+Smoothe Sounds: 2558 ms listened
+Ezzyland: 2517 ms listened
+Flying Lotus: 2517 ms listened
+Styzmask: 2517 ms listened
+Astrofuss: 2515 ms listened
+mrmrs.: 2496 ms listened
+Jenny Lewis: 2495 ms listened
+DJ Disco & MC Polo: 2482 ms listened
+Silver Storm: 2474 ms listened
+Wayne Newton: 2391 ms listened
+Amaral: 2367 ms listened
+Glee Cast: 2346 ms listened
+Deante' Hitchcock: 2345 ms listened
+Nora En Pure: 2325 ms listened
+張家誠: 2304 ms listened
+The Fallen Prophets: 2303 ms listened
+group_inou: 2298 ms listened
+Alt Bloom: 2282 ms listened
+Sky Travis: 2261 ms listened
+Micaela De León: 2207 ms listened
+The Arcadian Wild: 2159 ms listened
+高橋玲子: 2159 ms listened
+Leif Garrett: 2133 ms listened
+Utmost-@mos: 2132 ms listened
+本間芽衣子（CV.茅野愛衣）: 2090 ms listened
+Desert Bloom: 2069 ms listened
+ceo@business.net: 2043 ms listened
+Hampton The Hampster: 2005 ms listened
+Vita Nova: 2004 ms listened
+Sinister: 1983 ms listened
+Little V.: 1962 ms listened
+Tim McMorris: 1898 ms listened
+Skylift: 1855 ms listened
+Lou and Matthew: 1845 ms listened
+Madeon: 1834 ms listened
+NINJ3FF3C7: 1791 ms listened
+Cool Company: 1706 ms listened
+Shysta: 1685 ms listened
+Queen Chimera: 1642 ms listened
+Billy Ocean: 1642 ms listened
+J Balvin: 1642 ms listened
+Skyfixing: 1629 ms listened
+Action Bronson: 1625 ms listened
+HQ-10: 1621 ms listened
+Luis Miguel: 1578 ms listened
+Majid Jordan: 1578 ms listened
+江惠蓮: 1557 ms listened
+Power of Noise: 1557 ms listened
+Daisy the Great: 1536 ms listened
+Zero 7: 1536 ms listened
+Hypnotronica: 1534 ms listened
+George Harrison: 1514 ms listened
+Mood Factory: 1493 ms listened
+Micjoeson Music: 1462 ms listened
+Le Vie Noise: 1450 ms listened
+Jeezy: 1416 ms listened
+Soundiescape: 1407 ms listened
+Christopher Fitzgerald: 1386 ms listened
+BEFORE MY LIFE FAILS: 1365 ms listened
+FULMETALPARKA$: 1346 ms listened
+The Party Boyz: 1344 ms listened
+Tove Styrke: 1322 ms listened
+Somaya Kudri: 1302 ms listened
+Looking Glass: 1288 ms listened
+DENM: 1283 ms listened
+Swimming With Bears: 1280 ms listened
+Dr. Gost: 1258 ms listened
+Cole Meier: 1222 ms listened
+Faible Et Lente: 1216 ms listened
+Hollow Coves: 1215 ms listened
+Stock Wudeczka: 1194 ms listened
+Yuki Hsu: 1185 ms listened
+Alex Isley: 1184 ms listened
+Lafrantz: 1173 ms listened
+1ST SND: 1151 ms listened
+The Walkmen: 1109 ms listened
+The Bobby Fuller Four: 1109 ms listened
+Gereo Luna: 1106 ms listened
+Rojuu: 1066 ms listened
+Rebecka Aether: 1063 ms listened
+Noise Sleep Machine: 1045 ms listened
+Deepnoum: 1045 ms listened
+South Noon: 1034 ms listened
+Back to Yours: 975 ms listened
+Garrett Watts: 960 ms listened
+Fit For A King: 960 ms listened
+Relaxatron: 960 ms listened
+Prince Zuko: 938 ms listened
+2WEI: 938 ms listened
+Haley Blais: 917 ms listened
+Eldzhey: 917 ms listened
+Survivor: 917 ms listened
+Rezt: 895 ms listened
+8-Bit Burt: 885 ms listened
+1 Trait Danger: 874 ms listened
+秋千: 874 ms listened
+Orbit Noise: 853 ms listened
+Kim Wilde: 847 ms listened
+L'Trimm: 832 ms listened
+Delia Jane: 831 ms listened
+Aeon: 810 ms listened
+Jerome The Prince: 789 ms listened
+Lido: 789 ms listened
+Sara Evans: 789 ms listened
+Getter Jaani: 789 ms listened
+Dinkotrons: 789 ms listened
+amol: 750 ms listened
+Don McLean: 736 ms listened
+Thalo: 682 ms listened
+Lila Om: 682 ms listened
+Hi Freq Samples: 682 ms listened
+Zawar Hagano: 665 ms listened
+Nicole Zefanya: 661 ms listened
+Wakey!Wakey!: 647 ms listened
+Ablation: 640 ms listened
+Andrew Marlin: 620 ms listened
+Zivex: 597 ms listened
+Serasymphony: 569 ms listened
+GaMetal: 568 ms listened
+Jean Carter: 554 ms listened
+Glen Campbell: 534 ms listened
+Delta Deez: 526 ms listened
+AstroDrift: 448 ms listened
+nite sky: 426 ms listened
+Vanilla: 417 ms listened
+Los Elk: 393 ms listened
+Wallaby: 325 ms listened
+S. Carey: 301 ms listened
+IAMDYNAMITE: 255 ms listened
+Moondrop: 192 ms listened
+Dead Ghosts: 178 ms listened
+Stacey Q: 62 ms listened
+Stephen Puth: 0 ms listened
+Jake Miller: 0 ms listened
+Moglii: 0 ms listened
+Herz Analog: 0 ms listened
+Fromm: 0 ms listened
+916frosty: 0 ms listened
+Lute: 0 ms listened
+SONAMOO: 0 ms listened
+CVBZ: 0 ms listened
+IDER: 0 ms listened
+Kris Allen: 0 ms listened
+Off With Their Heads: 0 ms listened
+The Genius Buddha Band: 0 ms listened
+Lil Jon: 0 ms listened
+Sleeper Agent: 0 ms listened
+Kaivon: 0 ms listened
+Olivia Willhite: 0 ms listened
+Sarah Close: 0 ms listened
+Ally Brooke: 0 ms listened
+Cody Ko: 0 ms listened
+Wes Reeve: 0 ms listened
+Europe: 0 ms listened
+Mother Earth Rain Sounds: 0 ms listened
+St. Petersburg State Symphony Orchestra: 0 ms listened
+Katalopoto: 0 ms listened
+Sidewalks and Skeletons: 0 ms listened
+Neuron Studio: 0 ms listened
